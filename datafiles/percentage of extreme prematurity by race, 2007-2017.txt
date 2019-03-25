@@ -1,0 +1,30 @@
+"Notes"	"OE Gestational Age 10"	"OE Gestational Age 10 Code"	"Bridged Race"	"Bridged Race Code"	Births	% of Total Births
+	"20 - 27 weeks"	"02"	"American Indian or Alaska Native"	"1002-5"	291	1.19%
+	"20 - 27 weeks"	"02"	"Asian or Pacific Islander"	"A-PI"	1505	6.14%
+	"20 - 27 weeks"	"02"	"Black or African American"	"2054-5"	8858	36.12%
+	"20 - 27 weeks"	"02"	"White"	"2106-3"	13870	56.56%
+"---"
+"Dataset: Natality, 2007-2017"
+"Query Parameters:"
+"OE Gestational Age 10: 20 - 27 weeks"
+"Year: 2017"
+"Group By: OE Gestational Age 10; Bridged Race"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality.html for more information."
+"---"
+"Query Date: Mar 8, 2019 10:18:06 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics, Natality public-use data 2007-2017, on CDC"
+"WONDER Online Database, October 2018. Accessed at http://wonder.cdc.gov/natality-current.html on Mar 8, 2019 10:18:06 PM"
+"---"
+Caveats:
+"1. Each birth record represents one living baby."
+"2. Please note that the Percent of Total presented here may not be consistent with percentages published by NCHS. NCHS excludes"
+"births categorized as ""Unknown"", ""Not Stated"", ""Not on Certificate"", ""Excluded"", and ""Not Reported"" from the"
+"denominator when calculating percentages."

@@ -1,0 +1,140 @@
+"Notes"	"Month Prenatal Care Began"	"Month Prenatal Care Began Code"	"Race"	"Race Code"	Deaths	Births	Death Rate
+	"No prenatal care"	"00"	"American Indian or Alaska Native"	"1002-5"	26	1280	20.31
+	"No prenatal care"	"00"	"Asian or Pacific Islander"	"A-PI"	55	2894	19.00
+	"No prenatal care"	"00"	"Black or African American"	"2054-5"	691	17314	39.91
+	"No prenatal care"	"00"	"White"	"2106-3"	827	38005	21.76
+"Total"	"No prenatal care"	"00"			1600	59493	26.89
+	"1st month"	"01"	"American Indian or Alaska Native"	"1002-5"	19	1931	9.84 (Unreliable)
+	"1st month"	"01"	"Asian or Pacific Islander"	"A-PI"	97	23032	4.21
+	"1st month"	"01"	"Black or African American"	"2054-5"	567	41654	13.61
+	"1st month"	"01"	"White"	"2106-3"	1135	178337	6.36
+"Total"	"1st month"	"01"			1818	244954	7.42
+	"2nd month"	"02"	"American Indian or Alaska Native"	"1002-5"	105	13287	7.90
+	"2nd month"	"02"	"Asian or Pacific Islander"	"A-PI"	391	117224	3.34
+	"2nd month"	"02"	"Black or African American"	"2054-5"	1785	193871	9.21
+	"2nd month"	"02"	"White"	"2106-3"	4669	1158547	4.03
+"Total"	"2nd month"	"02"			6951	1482929	4.69
+	"3rd month"	"03"	"American Indian or Alaska Native"	"1002-5"	79	11934	6.62
+	"3rd month"	"03"	"Asian or Pacific Islander"	"A-PI"	278	79063	3.52
+	"3rd month"	"03"	"Black or African American"	"2054-5"	1511	165329	9.14
+	"3rd month"	"03"	"White"	"2106-3"	3541	866020	4.09
+"Total"	"3rd month"	"03"			5410	1122346	4.82
+	"4th month"	"04"	"American Indian or Alaska Native"	"1002-5"	41	4934	8.31
+	"4th month"	"04"	"Asian or Pacific Islander"	"A-PI"	87	22861	3.81
+	"4th month"	"04"	"Black or African American"	"2054-5"	690	72351	9.54
+	"4th month"	"04"	"White"	"2106-3"	1173	239187	4.90
+"Total"	"4th month"	"04"			1992	339333	5.87
+	"5th month"	"05"	"American Indian or Alaska Native"	"1002-5"	22	3052	7.21
+	"5th month"	"05"	"Asian or Pacific Islander"	"A-PI"	46	11417	4.03
+	"5th month"	"05"	"Black or African American"	"2054-5"	384	42009	9.14
+	"5th month"	"05"	"White"	"2106-3"	767	116211	6.60
+"Total"	"5th month"	"05"			1220	172689	7.06
+	"6th month"	"06"	"American Indian or Alaska Native"	"1002-5"	18	2071	8.69 (Unreliable)
+	"6th month"	"06"	"Asian or Pacific Islander"	"A-PI"	46	7556	6.09
+	"6th month"	"06"	"Black or African American"	"2054-5"	203	26085	7.78
+	"6th month"	"06"	"White"	"2106-3"	429	70057	6.12
+"Total"	"6th month"	"06"			696	105769	6.58
+	"7th month"	"07"	"American Indian or Alaska Native"	"1002-5"	17	1654	10.28 (Unreliable)
+	"7th month"	"07"	"Asian or Pacific Islander"	"A-PI"	25	7123	3.51
+	"7th month"	"07"	"Black or African American"	"2054-5"	128	20121	6.36
+	"7th month"	"07"	"White"	"2106-3"	289	55618	5.20
+"Total"	"7th month"	"07"			459	84516	5.43
+	"8th month"	"08"	"American Indian or Alaska Native"	"1002-5"	10	1310	7.63 (Unreliable)
+	"8th month"	"08"	"Asian or Pacific Islander"	"A-PI"	20	5633	3.55
+	"8th month"	"08"	"Black or African American"	"2054-5"	97	15318	6.33
+	"8th month"	"08"	"White"	"2106-3"	185	39313	4.71
+"Total"	"8th month"	"08"			312	61574	5.07
+	"9th month"	"09"	"American Indian or Alaska Native"	"1002-5"	5	597	8.38 (Unreliable)
+	"9th month"	"09"	"Asian or Pacific Islander"	"A-PI"	4	1416	2.82 (Unreliable)
+	"9th month"	"09"	"Black or African American"	"2054-5"	24	6011	3.99
+	"9th month"	"09"	"White"	"2106-3"	62	15082	4.11
+"Total"	"9th month"	"09"			95	23106	4.11
+	"Not stated/Not on certificate"	"99"	"American Indian or Alaska Native"	"1002-5"	32	1158	27.63
+	"Not stated/Not on certificate"	"99"	"Asian or Pacific Islander"	"A-PI"	90	7523	11.96
+	"Not stated/Not on certificate"	"99"	"Black or African American"	"2054-5"	736	30487	24.14
+	"Not stated/Not on certificate"	"99"	"White"	"2106-3"	1160	71024	16.33
+"Total"	"Not stated/Not on certificate"	"99"			2018	110192	18.31
+	"Excluded"	"98"	"Asian or Pacific Islander"	"A-PI"	60	16523	3.63
+	"Excluded"	"98"	"Black or African American"	"2054-5"	226	23447	9.64
+	"Excluded"	"98"	"White"	"2106-3"	299	98353	3.04
+"Total"	"Excluded"	"98"			586	138662	4.23
+"Total"					23157	3945875	5.87
+"---"
+"Dataset: Linked Birth / Infant Death Records, 2007-2016"
+"Query Parameters:"
+"Year of Death: 2016"
+"Group By: Month Prenatal Care Began; Race"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd.html for more information."
+"---"
+"Query Date: Mar 8, 2019 9:20:35 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS). Linked Birth / Infant Death Records"
+"2007-2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program, on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-current.html on Mar 8, 2019 9:20:35 PM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Births values in those rows are included in the totals. Use Quick Options above to"
+"show zero rows."
+"---"
+Caveats:
+"1. 'Unreliable' appears for rates when there are fewer than 20 deaths in the numerator. This is because the figure does not meet"
+"the NCHS standard of reliability or precision. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Unreliable."
+"2. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#WeightFactors-Totals."
+"3. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Weight Factors."
+"4. About excluded education and prenatal care data: <p> Education and prenatal care data are recoded to ""Excluded"" for those"
+"reporting areas that used the 1989 revision of the U.S. Standard Certificate of Birth, because their data for education and"
+"prenatal care are not comparable to the data from the reporting areas using the 2003 revision of the U.S. Standard Certificate"
+"of Birth. Note that prior data years (data for deaths ocurring in years 2003 - 2006) excluded education and prenatal care data"
+"from those reporting areas that had adopted the 2003 revision of the U.S. Standard Certificate of Birth. In California, only the"
+"prenatal care data are recoded to ""Excluded"" for deaths occurring in 2007. <ul><li> The following reporting areas have"
+"education data excluded: <ul><li> For births that occurred in 2007:&nbsp; Alabama, Alaska, Arizona, Arkansas, Colorado,"
+"Connecticut, District of Columbia, Georgia, Hawaii, Illinois, Indiana, Iowa, Louisiana, Maine, Maryland, Massachusetts,"
+"Michigan, Minnesota, Mississippi, Missouri, Montana, Nevada, New Jersey, New Mexico, New York, North Carolina, Oklahoma, Oregon,"
+"Rhode Island, Utah, Virginia, West Virginia and Wisconsin (33 reporting areas). </li><li> For births that occurred in"
+"2008:&nbsp; Alabama, Alaska, Arizona, Arkansas, Connecticut, District of Columbia, Georgia, Hawaii, Illinois, Louisiana, Maine,"
+"Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nevada, New Jersey, New Mexico, New York, North"
+"Carolina, Oklahoma, Oregon, Rhode Island, Utah, Virginia, West Virginia and Wisconsin (30 reporting areas). </li><li> For births"
+"that occurred in 2009:&nbsp; Alabama, Alaska, Arizona, Arkansas, Connecticut, District of Columbia, Hawaii, Illinois, Louisiana,"
+"Maine, Maryland, Massachusetts, Minnesota, Mississippi, Missouri, Nevada, New Jersey, North Carolina, Oklahoma, Rhode Island,"
+"Utah, Virginia, West Virginia and Wisconsin (24 reporting areas). </li><li> For births that occurred in 2010:&nbsp; Alabama,"
+"Alaska, Arizona, Arkansas, Connecticut, District of Columbia, Hawaii, Illinois, Louisiana, Maine, Maryland, Massachusetts,"
+"Minnesota, Mississippi, Missouri, Nevada, New Jersey, North Carolina, Oklahoma, Rhode Island, Virginia, West Virginia and"
+"Wisconsin (23 reporting areas). </li><li> For births that occurred in 2011:&nbsp; Alabama, Alaska, Arizona, Arkansas,"
+"Connecticut, Hawaii, Louisiana, Maine, Massachusetts, Minnesota, Mississippi, New Jersey, North Carolina, Rhode Island,"
+"Virginia, West Virginia and Wisconsin (17 reporting areas). </li><li> For births that occurred in 2012:&nbsp; Alabama, Alaska,"
+"Arizona, Arkansas, Connecticut, Hawaii, Maine, Massachusetts, Minnesota, Mississippi, New Jersey, Rhode Island, Virginia, and"
+"West Virginia (14 reporting areas). </li><li> For births that occurred in 2013:&nbsp; Alabama, Alaska, Arizona, Arkansas,"
+"Connecticut, Hawaii, Maine, Mississippi, New Jersey, Rhode Island, Virginia, and West Virginia (12 reporting areas). </li><li>"
+"For births that occurred in 2014:&nbsp; Alabama, Arizona, Arkansas, Connecticut, Hawaii, Maine, New Jersey, Rhode Island, and"
+"West Virginia (9 reporting areas). </li><li> For births that occurred in 2015:&nbsp; Connecticut, and New Jersey (2 reporting"
+"areas). </li><li> For births that occurred in 2016:&nbsp; Connecticut, and New Jersey (2 reporting areas). </li></ul> </li><li>"
+"The following reporting areas have prenatal care data excluded: <ul><li> For births that occurred in 2007:&nbsp; Alabama,"
+"Alaska, Arizona, Arkansas, California, Colorado, Connecticut, District of Columbia, Georgia, Hawaii, Illinois, Indiana, Iowa,"
+"Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nevada, New Jersey, New Mexico,"
+"New York, North Carolina, Oklahoma, Oregon, Rhode Island, Utah, Virginia, West Virginia and Wisconsin (34 reporting areas)."
+"</li><li> For births that occurred in 2008:&nbsp; Alabama, Alaska, Arizona, Arkansas, Connecticut, District of Columbia,"
+"Georgia, Hawaii, Illinois, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana,"
+"Nevada, New Jersey, New Mexico, New York, North Carolina, Oklahoma, Oregon, Rhode Island, Utah, Virginia, West Virginia and"
+"Wisconsin (30 reporting areas). </li><li> For births that occurred in 2009:&nbsp; Alabama, Alaska, Arizona, Arkansas,"
+"Connecticut, District of Columbia, Hawaii, Illinois, Louisiana, Maine, Maryland, Massachusetts, Minnesota, Mississippi,"
+"Missouri, Nevada, New Jersey, North Carolina, Oklahoma, Rhode Island, Utah, Virginia, West Virginia and Wisconsin (24 reporting"
+"areas). </li><li> For births that occurred in 2010:&nbsp; Alabama, Alaska, Arizona, Arkansas, Connecticut, District of Columbia,"
+"Hawaii, Illinois, Louisiana, Maine, Maryland, Massachusetts, Minnesota, Mississippi, Missouri, Nevada, New Jersey, North"
+"Carolina, Oklahoma, Rhode Island, Virginia, West Virginia and Wisconsin (23 reporting areas). </li><li> For births that occurred"
+"in 2011:&nbsp; Alabama, Alaska, Arizona, Arkansas, Connecticut, Hawaii, Louisiana, Maine, Massachusetts, Minnesota, Mississippi,"
+"New Jersey, North Carolina, Rhode Island, Virginia, West Virginia and Wisconsin (17 reporting areas). </li><li> For births that"
+"occurred in 2012:&nbsp; Alabama, Alaska, Arizona, Arkansas, Connecticut, Hawaii, Maine, Massachusetts, Minnesota, Mississippi,"
+"New Jersey, Rhode Island, Virginia, and West Virginia (14 reporting areas). </li><li> For births that occurred in 2013:&nbsp;"
+"Alabama, Alaska, Arizona, Arkansas, Connecticut, Hawaii, Maine, Mississippi, New Jersey, Rhode Island, Virginia, and West"
+"Virginia (12 reporting areas). </li><li> For births that occurred in 2014:&nbsp; Alabama, Arizona, Arkansas, Connecticut,"
+"Hawaii, Maine, New Jersey, Rhode Island, and West Virginia (9 reporting areas). </li><li> For births that occurred in"
+"2015:&nbsp; Connecticut, and New Jersey (2 reporting areas). </li><li> For births that occurred in 2016:&nbsp; Connecticut, and"
+"New Jersey (2 reporting areas). </li></ul> </li></ul> </p>"

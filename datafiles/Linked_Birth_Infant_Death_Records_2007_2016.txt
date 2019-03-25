@@ -1,0 +1,699 @@
+"Notes"	"State"	"State Code"	"County"	"County Code"	"Age of Mother"	"Age of Mother Code"	Deaths	Births	Death Rate
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"20-24 years"	"20-24"	24	1886	12.73
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"25-29 years"	"25-29"	26	2650	9.81
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"30-34 years"	"30-34"	25	2384	10.49
+	"Alabama"	"01"	"Madison County, AL"	"01089"	"25-29 years"	"25-29"	10	1360	7.35 (Unreliable)
+	"Alabama"	"01"	"Mobile County, AL"	"01097"	"20-24 years"	"20-24"	17	1586	10.72 (Unreliable)
+	"Alabama"	"01"	"Mobile County, AL"	"01097"	"25-29 years"	"25-29"	12	1751	6.85 (Unreliable)
+	"Alabama"	"01"	"Mobile County, AL"	"01097"	"30-34 years"	"30-34"	14	1172	11.95 (Unreliable)
+	"Alabama"	"01"	"Unidentified Counties, AL"	"01999"	"15-19 years"	"15-19"	34	3325	10.23
+	"Alabama"	"01"	"Unidentified Counties, AL"	"01999"	"20-24 years"	"20-24"	117	11707	9.99
+	"Alabama"	"01"	"Unidentified Counties, AL"	"01999"	"25-29 years"	"25-29"	97	12888	7.53
+	"Alabama"	"01"	"Unidentified Counties, AL"	"01999"	"30-34 years"	"30-34"	81	8720	9.29
+	"Alabama"	"01"	"Unidentified Counties, AL"	"01999"	"35-39 years"	"35-39"	25	3477	7.19
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"15-19 years"	"15-19"	24	3137	7.65
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"20-24 years"	"20-24"	74	11983	6.18
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"25-29 years"	"25-29"	80	16024	4.99
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"30-34 years"	"30-34"	67	14386	4.66
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"35-39 years"	"35-39"	39	6970	5.60
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"40-44 years"	"40-44"	10	1493	6.70 (Unreliable)
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"20-24 years"	"20-24"	13	2674	4.86 (Unreliable)
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"25-29 years"	"25-29"	17	3486	4.88 (Unreliable)
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"30-34 years"	"30-34"	10	2893	3.46 (Unreliable)
+	"Arizona"	"04"	"Unidentified Counties, AZ"	"04999"	"20-24 years"	"20-24"	19	4061	4.68 (Unreliable)
+	"Arizona"	"04"	"Unidentified Counties, AZ"	"04999"	"25-29 years"	"25-29"	28	4447	6.30
+	"Arizona"	"04"	"Unidentified Counties, AZ"	"04999"	"30-34 years"	"30-34"	11	3050	3.61 (Unreliable)
+	"Arizona"	"04"	"Unidentified Counties, AZ"	"04999"	"35-39 years"	"35-39"	14	1398	10.01 (Unreliable)
+	"Arkansas"	"05"	"Pulaski County, AR"	"05119"	"20-24 years"	"20-24"	13	1377	9.44 (Unreliable)
+	"Arkansas"	"05"	"Pulaski County, AR"	"05119"	"25-29 years"	"25-29"	18	1579	11.40 (Unreliable)
+	"Arkansas"	"05"	"Unidentified Counties, AR"	"05999"	"15-19 years"	"15-19"	33	2996	11.01
+	"Arkansas"	"05"	"Unidentified Counties, AR"	"05999"	"20-24 years"	"20-24"	85	9772	8.70
+	"Arkansas"	"05"	"Unidentified Counties, AR"	"05999"	"25-29 years"	"25-29"	78	10303	7.57
+	"Arkansas"	"05"	"Unidentified Counties, AR"	"05999"	"30-34 years"	"30-34"	53	6675	7.94
+	"Arkansas"	"05"	"Unidentified Counties, AR"	"05999"	"35-39 years"	"35-39"	21	2646	7.94
+	"California"	"06"	"Alameda County, CA"	"06001"	"25-29 years"	"25-29"	24	4421	5.43
+	"California"	"06"	"Alameda County, CA"	"06001"	"30-34 years"	"30-34"	19	7151	2.66 (Unreliable)
+	"California"	"06"	"Alameda County, CA"	"06001"	"35-39 years"	"35-39"	13	4402	2.95 (Unreliable)
+	"California"	"06"	"Contra Costa County, CA"	"06013"	"30-34 years"	"30-34"	12	4205	2.85 (Unreliable)
+	"California"	"06"	"Fresno County, CA"	"06019"	"20-24 years"	"20-24"	12	3490	3.44 (Unreliable)
+	"California"	"06"	"Fresno County, CA"	"06019"	"25-29 years"	"25-29"	28	4593	6.10
+	"California"	"06"	"Fresno County, CA"	"06019"	"30-34 years"	"30-34"	12	3743	3.21 (Unreliable)
+	"California"	"06"	"Fresno County, CA"	"06019"	"35-39 years"	"35-39"	10	1786	5.60 (Unreliable)
+	"California"	"06"	"Kern County, CA"	"06029"	"20-24 years"	"20-24"	24	3523	6.81
+	"California"	"06"	"Kern County, CA"	"06029"	"25-29 years"	"25-29"	18	4135	4.35 (Unreliable)
+	"California"	"06"	"Kern County, CA"	"06029"	"30-34 years"	"30-34"	12	3192	3.76 (Unreliable)
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"15-19 years"	"15-19"	27	5303	5.09
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"20-24 years"	"20-24"	100	20235	4.94
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"25-29 years"	"25-29"	122	31434	3.88
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"30-34 years"	"30-34"	132	36526	3.61
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"35-39 years"	"35-39"	105	23107	4.54
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"40-44 years"	"40-44"	31	5892	5.26
+	"California"	"06"	"Orange County, CA"	"06059"	"20-24 years"	"20-24"	13	4679	2.78 (Unreliable)
+	"California"	"06"	"Orange County, CA"	"06059"	"25-29 years"	"25-29"	27	9341	2.89
+	"California"	"06"	"Orange County, CA"	"06059"	"30-34 years"	"30-34"	37	12882	2.87
+	"California"	"06"	"Orange County, CA"	"06059"	"35-39 years"	"35-39"	27	7920	3.41
+	"California"	"06"	"Riverside County, CA"	"06065"	"20-24 years"	"20-24"	29	6589	4.40
+	"California"	"06"	"Riverside County, CA"	"06065"	"25-29 years"	"25-29"	39	9100	4.29
+	"California"	"06"	"Riverside County, CA"	"06065"	"30-34 years"	"30-34"	38	8284	4.59
+	"California"	"06"	"Riverside County, CA"	"06065"	"35-39 years"	"35-39"	26	4061	6.40
+	"California"	"06"	"Sacramento County, CA"	"06067"	"20-24 years"	"20-24"	21	3585	5.86
+	"California"	"06"	"Sacramento County, CA"	"06067"	"25-29 years"	"25-29"	16	5721	2.80 (Unreliable)
+	"California"	"06"	"Sacramento County, CA"	"06067"	"30-34 years"	"30-34"	28	5875	4.77
+	"California"	"06"	"Sacramento County, CA"	"06067"	"35-39 years"	"35-39"	17	2968	5.73 (Unreliable)
+	"California"	"06"	"San Bernardino County, CA"	"06071"	"15-19 years"	"15-19"	16	1796	8.91 (Unreliable)
+	"California"	"06"	"San Bernardino County, CA"	"06071"	"20-24 years"	"20-24"	43	7135	6.03
+	"California"	"06"	"San Bernardino County, CA"	"06071"	"25-29 years"	"25-29"	57	9409	6.06
+	"California"	"06"	"San Bernardino County, CA"	"06071"	"30-34 years"	"30-34"	46	7837	5.87
+	"California"	"06"	"San Bernardino County, CA"	"06071"	"35-39 years"	"35-39"	28	3906	7.17
+	"California"	"06"	"San Diego County, CA"	"06073"	"20-24 years"	"20-24"	33	7288	4.53
+	"California"	"06"	"San Diego County, CA"	"06073"	"25-29 years"	"25-29"	40	11262	3.55
+	"California"	"06"	"San Diego County, CA"	"06073"	"30-34 years"	"30-34"	49	13306	3.68
+	"California"	"06"	"San Diego County, CA"	"06073"	"35-39 years"	"35-39"	35	7530	4.65
+	"California"	"06"	"San Joaquin County, CA"	"06077"	"25-29 years"	"25-29"	17	3157	5.38 (Unreliable)
+	"California"	"06"	"Santa Clara County, CA"	"06085"	"25-29 years"	"25-29"	18	5155	3.49 (Unreliable)
+	"California"	"06"	"Santa Clara County, CA"	"06085"	"30-34 years"	"30-34"	29	8900	3.26
+	"California"	"06"	"Santa Clara County, CA"	"06085"	"35-39 years"	"35-39"	20	5113	3.91
+	"California"	"06"	"Solano County, CA"	"06095"	"25-29 years"	"25-29"	14	1542	9.08 (Unreliable)
+	"California"	"06"	"Stanislaus County, CA"	"06099"	"20-24 years"	"20-24"	11	1756	6.26 (Unreliable)
+	"California"	"06"	"Stanislaus County, CA"	"06099"	"25-29 years"	"25-29"	14	2437	5.74 (Unreliable)
+	"California"	"06"	"Tulare County, CA"	"06107"	"20-24 years"	"20-24"	14	1838	7.62 (Unreliable)
+	"California"	"06"	"Tulare County, CA"	"06107"	"30-34 years"	"30-34"	11	1663	6.61 (Unreliable)
+	"California"	"06"	"Unidentified Counties, CA"	"06999"	"20-24 years"	"20-24"	42	6432	6.53
+	"California"	"06"	"Unidentified Counties, CA"	"06999"	"25-29 years"	"25-29"	35	9060	3.86
+	"California"	"06"	"Unidentified Counties, CA"	"06999"	"30-34 years"	"30-34"	26	7726	3.37
+	"California"	"06"	"Unidentified Counties, CA"	"06999"	"35-39 years"	"35-39"	22	3854	5.71
+	"Colorado"	"08"	"Adams County, CO"	"08001"	"25-29 years"	"25-29"	11	2000	5.50 (Unreliable)
+	"Colorado"	"08"	"Arapahoe County, CO"	"08005"	"20-24 years"	"20-24"	10	1265	7.91 (Unreliable)
+	"Colorado"	"08"	"Arapahoe County, CO"	"08005"	"25-29 years"	"25-29"	13	2229	5.83 (Unreliable)
+	"Colorado"	"08"	"Denver County, CO"	"08031"	"20-24 years"	"20-24"	10	1544	6.48 (Unreliable)
+	"Colorado"	"08"	"Denver County, CO"	"08031"	"25-29 years"	"25-29"	11	2402	4.58 (Unreliable)
+	"Colorado"	"08"	"Denver County, CO"	"08031"	"35-39 years"	"35-39"	14	1869	7.49 (Unreliable)
+	"Colorado"	"08"	"El Paso County, CO"	"08041"	"20-24 years"	"20-24"	15	2226	6.74 (Unreliable)
+	"Colorado"	"08"	"El Paso County, CO"	"08041"	"25-29 years"	"25-29"	11	2985	3.69 (Unreliable)
+	"Colorado"	"08"	"El Paso County, CO"	"08041"	"30-34 years"	"30-34"	13	2488	5.23 (Unreliable)
+	"Colorado"	"08"	"Unidentified Counties, CO"	"08999"	"20-24 years"	"20-24"	14	2812	4.98 (Unreliable)
+	"Colorado"	"08"	"Unidentified Counties, CO"	"08999"	"25-29 years"	"25-29"	14	3707	3.78 (Unreliable)
+	"Colorado"	"08"	"Unidentified Counties, CO"	"08999"	"30-34 years"	"30-34"	16	3288	4.87 (Unreliable)
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"30-34 years"	"30-34"	11	3742	2.94 (Unreliable)
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"35-39 years"	"35-39"	10	2306	4.34 (Unreliable)
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"25-29 years"	"25-29"	15	2593	5.78 (Unreliable)
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"30-34 years"	"30-34"	19	3186	5.96 (Unreliable)
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"35-39 years"	"35-39"	12	1574	7.62 (Unreliable)
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"20-24 years"	"20-24"	12	1377	8.71 (Unreliable)
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"30-34 years"	"30-34"	11	2897	3.80 (Unreliable)
+	"Connecticut"	"09"	"Unidentified Counties, CT"	"09999"	"25-29 years"	"25-29"	11	1373	8.01 (Unreliable)
+	"Delaware"	"10"	"New Castle County, DE"	"10003"	"20-24 years"	"20-24"	20	1059	18.89
+	"Delaware"	"10"	"New Castle County, DE"	"10003"	"25-29 years"	"25-29"	19	1869	10.17 (Unreliable)
+	"Delaware"	"10"	"New Castle County, DE"	"10003"	"30-34 years"	"30-34"	12	2067	5.81 (Unreliable)
+	"Delaware"	"10"	"New Castle County, DE"	"10003"	"35-39 years"	"35-39"	10	1002	9.98 (Unreliable)
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"20-24 years"	"20-24"	21	1592	13.19
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"25-29 years"	"25-29"	13	2086	6.23 (Unreliable)
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"30-34 years"	"30-34"	15	3087	4.86 (Unreliable)
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"35-39 years"	"35-39"	15	2115	7.09 (Unreliable)
+	"Florida"	"12"	"Broward County, FL"	"12011"	"20-24 years"	"20-24"	17	3489	4.87 (Unreliable)
+	"Florida"	"12"	"Broward County, FL"	"12011"	"25-29 years"	"25-29"	37	6194	5.97
+	"Florida"	"12"	"Broward County, FL"	"12011"	"30-34 years"	"30-34"	35	6987	5.01
+	"Florida"	"12"	"Broward County, FL"	"12011"	"35-39 years"	"35-39"	23	4007	5.74
+	"Florida"	"12"	"Duval County, FL"	"12031"	"15-19 years"	"15-19"	10	739	13.53 (Unreliable)
+	"Florida"	"12"	"Duval County, FL"	"12031"	"20-24 years"	"20-24"	31	3036	10.21
+	"Florida"	"12"	"Duval County, FL"	"12031"	"25-29 years"	"25-29"	32	4151	7.71
+	"Florida"	"12"	"Duval County, FL"	"12031"	"30-34 years"	"30-34"	20	3527	5.67
+	"Florida"	"12"	"Duval County, FL"	"12031"	"35-39 years"	"35-39"	12	1528	7.85 (Unreliable)
+	"Florida"	"12"	"Escambia County, FL"	"12033"	"25-29 years"	"25-29"	10	1267	7.89 (Unreliable)
+	"Florida"	"12"	"Escambia County, FL"	"12033"	"30-34 years"	"30-34"	11	913	12.05 (Unreliable)
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"20-24 years"	"20-24"	36	3620	9.94
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"25-29 years"	"25-29"	40	5093	7.85
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"30-34 years"	"30-34"	23	4908	4.69
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"35-39 years"	"35-39"	12	2358	5.09 (Unreliable)
+	"Florida"	"12"	"Lee County, FL"	"12071"	"20-24 years"	"20-24"	11	1509	7.29 (Unreliable)
+	"Florida"	"12"	"Lee County, FL"	"12071"	"25-29 years"	"25-29"	13	2003	6.49 (Unreliable)
+	"Florida"	"12"	"Lee County, FL"	"12071"	"30-34 years"	"30-34"	15	1769	8.48 (Unreliable)
+	"Florida"	"12"	"Marion County, FL"	"12083"	"20-24 years"	"20-24"	15	970	15.46 (Unreliable)
+	"Florida"	"12"	"Marion County, FL"	"12083"	"25-29 years"	"25-29"	12	1120	10.71 (Unreliable)
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"20-24 years"	"20-24"	38	5267	7.21
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"25-29 years"	"25-29"	44	9219	4.77
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"30-34 years"	"30-34"	42	9983	4.21
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"35-39 years"	"35-39"	27	5476	4.93
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"40-44 years"	"40-44"	10	1464	6.83 (Unreliable)
+	"Florida"	"12"	"Orange County, FL"	"12095"	"20-24 years"	"20-24"	20	3171	6.31
+	"Florida"	"12"	"Orange County, FL"	"12095"	"25-29 years"	"25-29"	37	4793	7.72
+	"Florida"	"12"	"Orange County, FL"	"12095"	"30-34 years"	"30-34"	36	4774	7.54
+	"Florida"	"12"	"Orange County, FL"	"12095"	"35-39 years"	"35-39"	17	2540	6.69 (Unreliable)
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"20-24 years"	"20-24"	23	2462	9.34
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"25-29 years"	"25-29"	17	4151	4.10 (Unreliable)
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"30-34 years"	"30-34"	10	4506	2.22 (Unreliable)
+	"Florida"	"12"	"Pasco County, FL"	"12101"	"30-34 years"	"30-34"	12	1429	8.40 (Unreliable)
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"20-24 years"	"20-24"	13	1698	7.66 (Unreliable)
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"25-29 years"	"25-29"	15	2398	6.26 (Unreliable)
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"30-34 years"	"30-34"	12	2443	4.91 (Unreliable)
+	"Florida"	"12"	"Polk County, FL"	"12105"	"20-24 years"	"20-24"	14	2089	6.70 (Unreliable)
+	"Florida"	"12"	"Polk County, FL"	"12105"	"25-29 years"	"25-29"	13	2459	5.29 (Unreliable)
+	"Florida"	"12"	"Polk County, FL"	"12105"	"30-34 years"	"30-34"	12	1758	6.83 (Unreliable)
+	"Florida"	"12"	"Volusia County, FL"	"12127"	"20-24 years"	"20-24"	11	1197	9.19 (Unreliable)
+	"Florida"	"12"	"Volusia County, FL"	"12127"	"25-29 years"	"25-29"	10	1643	6.09 (Unreliable)
+	"Florida"	"12"	"Unidentified Counties, FL"	"12999"	"15-19 years"	"15-19"	29	2213	13.10
+	"Florida"	"12"	"Unidentified Counties, FL"	"12999"	"20-24 years"	"20-24"	59	8278	7.13
+	"Florida"	"12"	"Unidentified Counties, FL"	"12999"	"25-29 years"	"25-29"	51	10365	4.92
+	"Florida"	"12"	"Unidentified Counties, FL"	"12999"	"30-34 years"	"30-34"	32	8261	3.87
+	"Florida"	"12"	"Unidentified Counties, FL"	"12999"	"35-39 years"	"35-39"	25	3707	6.74
+	"Georgia"	"13"	"Chatham County, GA"	"13051"	"20-24 years"	"20-24"	11	917	12.00 (Unreliable)
+	"Georgia"	"13"	"Clayton County, GA"	"13063"	"20-24 years"	"20-24"	14	1015	13.79 (Unreliable)
+	"Georgia"	"13"	"Clayton County, GA"	"13063"	"25-29 years"	"25-29"	10	1165	8.58 (Unreliable)
+	"Georgia"	"13"	"Clayton County, GA"	"13063"	"30-34 years"	"30-34"	12	836	14.35 (Unreliable)
+	"Georgia"	"13"	"Cobb County, GA"	"13067"	"25-29 years"	"25-29"	13	2596	5.01 (Unreliable)
+	"Georgia"	"13"	"Cobb County, GA"	"13067"	"30-34 years"	"30-34"	25	3130	7.99
+	"Georgia"	"13"	"Cobb County, GA"	"13067"	"35-39 years"	"35-39"	10	1684	5.94 (Unreliable)
+	"Georgia"	"13"	"DeKalb County, GA"	"13089"	"15-19 years"	"15-19"	10	554	18.05 (Unreliable)
+	"Georgia"	"13"	"DeKalb County, GA"	"13089"	"20-24 years"	"20-24"	20	1941	10.30
+	"Georgia"	"13"	"DeKalb County, GA"	"13089"	"30-34 years"	"30-34"	16	3329	4.81 (Unreliable)
+	"Georgia"	"13"	"DeKalb County, GA"	"13089"	"35-39 years"	"35-39"	13	1839	7.07 (Unreliable)
+	"Georgia"	"13"	"Fulton County, GA"	"13121"	"20-24 years"	"20-24"	31	2289	13.54
+	"Georgia"	"13"	"Fulton County, GA"	"13121"	"25-29 years"	"25-29"	16	3337	4.79 (Unreliable)
+	"Georgia"	"13"	"Fulton County, GA"	"13121"	"30-34 years"	"30-34"	15	4120	3.64 (Unreliable)
+	"Georgia"	"13"	"Fulton County, GA"	"13121"	"35-39 years"	"35-39"	10	2241	4.46 (Unreliable)
+	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	"20-24 years"	"20-24"	13	1929	6.74 (Unreliable)
+	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	"25-29 years"	"25-29"	20	3050	6.56
+	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	"30-34 years"	"30-34"	33	3415	9.66
+	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	"35-39 years"	"35-39"	16	1976	8.10 (Unreliable)
+	"Georgia"	"13"	"Unidentified Counties, GA"	"13999"	"15-19 years"	"15-19"	62	5798	10.69
+	"Georgia"	"13"	"Unidentified Counties, GA"	"13999"	"20-24 years"	"20-24"	177	20651	8.57
+	"Georgia"	"13"	"Unidentified Counties, GA"	"13999"	"25-29 years"	"25-29"	170	23800	7.14
+	"Georgia"	"13"	"Unidentified Counties, GA"	"13999"	"30-34 years"	"30-34"	117	17563	6.66
+	"Georgia"	"13"	"Unidentified Counties, GA"	"13999"	"35-39 years"	"35-39"	57	7652	7.45
+	"Georgia"	"13"	"Unidentified Counties, GA"	"13999"	"40-44 years"	"40-44"	11	1486	7.40 (Unreliable)
+	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	"20-24 years"	"20-24"	14	2516	5.56 (Unreliable)
+	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	"25-29 years"	"25-29"	17	3685	4.61 (Unreliable)
+	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	"30-34 years"	"30-34"	28	3667	7.64
+	"Hawaii"	"15"	"Unidentified Counties, HI"	"15999"	"25-29 years"	"25-29"	10	1421	7.04 (Unreliable)
+	"Hawaii"	"15"	"Unidentified Counties, HI"	"15999"	"30-34 years"	"30-34"	15	1370	10.95 (Unreliable)
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"20-24 years"	"20-24"	37	4768	7.76
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"25-29 years"	"25-29"	28	5634	4.97
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"30-34 years"	"30-34"	20	4038	4.95
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"35-39 years"	"35-39"	12	1622	7.40 (Unreliable)
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"15-19 years"	"15-19"	36	3395	10.60
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"20-24 years"	"20-24"	98	11141	8.80
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"25-29 years"	"25-29"	120	16411	7.31
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"30-34 years"	"30-34"	130	21213	6.13
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"35-39 years"	"35-39"	60	11767	5.10
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"40-44 years"	"40-44"	22	2605	8.45
+	"Illinois"	"17"	"DuPage County, IL"	"17043"	"25-29 years"	"25-29"	11	2733	4.02 (Unreliable)
+	"Illinois"	"17"	"DuPage County, IL"	"17043"	"30-34 years"	"30-34"	17	4302	3.95 (Unreliable)
+	"Illinois"	"17"	"Kane County, IL"	"17089"	"25-29 years"	"25-29"	15	1760	8.52 (Unreliable)
+	"Illinois"	"17"	"Will County, IL"	"17197"	"25-29 years"	"25-29"	18	2130	8.45 (Unreliable)
+	"Illinois"	"17"	"Will County, IL"	"17197"	"30-34 years"	"30-34"	14	2632	5.32 (Unreliable)
+	"Illinois"	"17"	"Winnebago County, IL"	"17201"	"20-24 years"	"20-24"	10	943	10.60 (Unreliable)
+	"Illinois"	"17"	"Unidentified Counties, IL"	"17999"	"15-19 years"	"15-19"	29	2514	11.54
+	"Illinois"	"17"	"Unidentified Counties, IL"	"17999"	"20-24 years"	"20-24"	80	9526	8.40
+	"Illinois"	"17"	"Unidentified Counties, IL"	"17999"	"25-29 years"	"25-29"	55	13685	4.02
+	"Illinois"	"17"	"Unidentified Counties, IL"	"17999"	"30-34 years"	"30-34"	62	10901	5.69
+	"Illinois"	"17"	"Unidentified Counties, IL"	"17999"	"35-39 years"	"35-39"	29	4202	6.90
+	"Indiana"	"18"	"Allen County, IN"	"18003"	"25-29 years"	"25-29"	19	1721	11.04 (Unreliable)
+	"Indiana"	"18"	"Lake County, IN"	"18089"	"20-24 years"	"20-24"	10	1307	7.65 (Unreliable)
+	"Indiana"	"18"	"Lake County, IN"	"18089"	"25-29 years"	"25-29"	13	1710	7.60 (Unreliable)
+	"Indiana"	"18"	"Lake County, IN"	"18089"	"30-34 years"	"30-34"	13	1400	9.29 (Unreliable)
+	"Indiana"	"18"	"Marion County, IN"	"18097"	"15-19 years"	"15-19"	10	905	11.05 (Unreliable)
+	"Indiana"	"18"	"Marion County, IN"	"18097"	"20-24 years"	"20-24"	41	3455	11.87
+	"Indiana"	"18"	"Marion County, IN"	"18097"	"25-29 years"	"25-29"	22	4290	5.13
+	"Indiana"	"18"	"Marion County, IN"	"18097"	"30-34 years"	"30-34"	28	3661	7.65
+	"Indiana"	"18"	"Marion County, IN"	"18097"	"35-39 years"	"35-39"	17	1626	10.46 (Unreliable)
+	"Indiana"	"18"	"Unidentified Counties, IN"	"18999"	"15-19 years"	"15-19"	23	3401	6.76
+	"Indiana"	"18"	"Unidentified Counties, IN"	"18999"	"20-24 years"	"20-24"	105	13120	8.00
+	"Indiana"	"18"	"Unidentified Counties, IN"	"18999"	"25-29 years"	"25-29"	106	16662	6.36
+	"Indiana"	"18"	"Unidentified Counties, IN"	"18999"	"30-34 years"	"30-34"	79	11935	6.62
+	"Indiana"	"18"	"Unidentified Counties, IN"	"18999"	"35-39 years"	"35-39"	37	4590	8.06
+	"Iowa"	"19"	"Polk County, IA"	"19153"	"20-24 years"	"20-24"	13	1251	10.39 (Unreliable)
+	"Iowa"	"19"	"Polk County, IA"	"19153"	"25-29 years"	"25-29"	14	2167	6.46 (Unreliable)
+	"Iowa"	"19"	"Polk County, IA"	"19153"	"30-34 years"	"30-34"	17	2145	7.93 (Unreliable)
+	"Iowa"	"19"	"Unidentified Counties, IA"	"19999"	"20-24 years"	"20-24"	44	6916	6.36
+	"Iowa"	"19"	"Unidentified Counties, IA"	"19999"	"25-29 years"	"25-29"	61	11156	5.47
+	"Iowa"	"19"	"Unidentified Counties, IA"	"19999"	"30-34 years"	"30-34"	42	8947	4.69
+	"Iowa"	"19"	"Unidentified Counties, IA"	"19999"	"35-39 years"	"35-39"	20	3390	5.90
+	"Kansas"	"20"	"Johnson County, KS"	"20091"	"25-29 years"	"25-29"	10	2055	4.87 (Unreliable)
+	"Kansas"	"20"	"Sedgwick County, KS"	"20173"	"20-24 years"	"20-24"	22	1762	12.49
+	"Kansas"	"20"	"Sedgwick County, KS"	"20173"	"25-29 years"	"25-29"	22	2270	9.69
+	"Kansas"	"20"	"Unidentified Counties, KS"	"20999"	"15-19 years"	"15-19"	11	1487	7.40 (Unreliable)
+	"Kansas"	"20"	"Unidentified Counties, KS"	"20999"	"20-24 years"	"20-24"	39	6179	6.31
+	"Kansas"	"20"	"Unidentified Counties, KS"	"20999"	"25-29 years"	"25-29"	43	7491	5.74
+	"Kansas"	"20"	"Unidentified Counties, KS"	"20999"	"30-34 years"	"30-34"	29	5626	5.15
+	"Kentucky"	"21"	"Jefferson County, KY"	"21111"	"25-29 years"	"25-29"	29	3019	9.61
+	"Kentucky"	"21"	"Jefferson County, KY"	"21111"	"30-34 years"	"30-34"	14	2718	5.15 (Unreliable)
+	"Kentucky"	"21"	"Unidentified Counties, KY"	"21999"	"15-19 years"	"15-19"	45	3541	12.71
+	"Kentucky"	"21"	"Unidentified Counties, KY"	"21999"	"20-24 years"	"20-24"	106	12025	8.81
+	"Kentucky"	"21"	"Unidentified Counties, KY"	"21999"	"25-29 years"	"25-29"	73	12940	5.64
+	"Kentucky"	"21"	"Unidentified Counties, KY"	"21999"	"30-34 years"	"30-34"	41	8781	4.67
+	"Kentucky"	"21"	"Unidentified Counties, KY"	"21999"	"35-39 years"	"35-39"	19	3510	5.41 (Unreliable)
+	"Louisiana"	"22"	"Caddo Parish, LA"	"22017"	"20-24 years"	"20-24"	12	976	12.30 (Unreliable)
+	"Louisiana"	"22"	"Caddo Parish, LA"	"22017"	"25-29 years"	"25-29"	13	1030	12.62 (Unreliable)
+	"Louisiana"	"22"	"East Baton Rouge Parish, LA"	"22033"	"20-24 years"	"20-24"	23	1480	15.54
+	"Louisiana"	"22"	"East Baton Rouge Parish, LA"	"22033"	"25-29 years"	"25-29"	20	1767	11.32
+	"Louisiana"	"22"	"East Baton Rouge Parish, LA"	"22033"	"30-34 years"	"30-34"	11	1680	6.55 (Unreliable)
+	"Louisiana"	"22"	"Jefferson Parish, LA"	"22051"	"25-29 years"	"25-29"	11	1811	6.07 (Unreliable)
+	"Louisiana"	"22"	"Jefferson Parish, LA"	"22051"	"30-34 years"	"30-34"	10	1648	6.07 (Unreliable)
+	"Louisiana"	"22"	"Orleans Parish, LA"	"22071"	"25-29 years"	"25-29"	13	1377	9.44 (Unreliable)
+	"Louisiana"	"22"	"Unidentified Counties, LA"	"22999"	"15-19 years"	"15-19"	30	3306	9.07
+	"Louisiana"	"22"	"Unidentified Counties, LA"	"22999"	"20-24 years"	"20-24"	98	12219	8.02
+	"Louisiana"	"22"	"Unidentified Counties, LA"	"22999"	"25-29 years"	"25-29"	97	13753	7.05
+	"Louisiana"	"22"	"Unidentified Counties, LA"	"22999"	"30-34 years"	"30-34"	68	9378	7.25
+	"Louisiana"	"22"	"Unidentified Counties, LA"	"22999"	"35-39 years"	"35-39"	30	3595	8.34
+	"Maine"	"23"	"Unidentified Counties, ME"	"23999"	"20-24 years"	"20-24"	11	2203	4.99 (Unreliable)
+	"Maine"	"23"	"Unidentified Counties, ME"	"23999"	"25-29 years"	"25-29"	12	3278	3.66 (Unreliable)
+	"Maine"	"23"	"Unidentified Counties, ME"	"23999"	"30-34 years"	"30-34"	12	2607	4.60 (Unreliable)
+	"Maine"	"23"	"Unidentified Counties, ME"	"23999"	"35-39 years"	"35-39"	10	1048	9.54 (Unreliable)
+	"Maryland"	"24"	"Anne Arundel County, MD"	"24003"	"25-29 years"	"25-29"	21	1982	10.60
+	"Maryland"	"24"	"Anne Arundel County, MD"	"24003"	"30-34 years"	"30-34"	10	2392	4.18 (Unreliable)
+	"Maryland"	"24"	"Baltimore County, MD"	"24005"	"20-24 years"	"20-24"	10	1465	6.83 (Unreliable)
+	"Maryland"	"24"	"Baltimore County, MD"	"24005"	"25-29 years"	"25-29"	15	2827	5.31 (Unreliable)
+	"Maryland"	"24"	"Baltimore County, MD"	"24005"	"30-34 years"	"30-34"	13	3238	4.01 (Unreliable)
+	"Maryland"	"24"	"Baltimore County, MD"	"24005"	"35-39 years"	"35-39"	10	1592	6.28 (Unreliable)
+	"Maryland"	"24"	"Montgomery County, MD"	"24031"	"20-24 years"	"20-24"	11	1242	8.86 (Unreliable)
+	"Maryland"	"24"	"Montgomery County, MD"	"24031"	"25-29 years"	"25-29"	10	2760	3.62 (Unreliable)
+	"Maryland"	"24"	"Montgomery County, MD"	"24031"	"30-34 years"	"30-34"	22	4692	4.69
+	"Maryland"	"24"	"Montgomery County, MD"	"24031"	"35-39 years"	"35-39"	17	3223	5.27 (Unreliable)
+	"Maryland"	"24"	"Prince George's County, MD"	"24033"	"20-24 years"	"20-24"	18	2220	8.11 (Unreliable)
+	"Maryland"	"24"	"Prince George's County, MD"	"24033"	"25-29 years"	"25-29"	24	3427	7.00
+	"Maryland"	"24"	"Prince George's County, MD"	"24033"	"30-34 years"	"30-34"	36	3372	10.68
+	"Maryland"	"24"	"Prince George's County, MD"	"24033"	"35-39 years"	"35-39"	10	2111	4.74 (Unreliable)
+	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"20-24 years"	"20-24"	15	2010	7.46 (Unreliable)
+	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"25-29 years"	"25-29"	23	2409	9.55
+	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"30-34 years"	"30-34"	21	2190	9.59
+	"Maryland"	"24"	"Unidentified Counties, MD"	"24999"	"20-24 years"	"20-24"	31	3449	8.99
+	"Maryland"	"24"	"Unidentified Counties, MD"	"24999"	"25-29 years"	"25-29"	40	5811	6.88
+	"Maryland"	"24"	"Unidentified Counties, MD"	"24999"	"30-34 years"	"30-34"	20	5620	3.56
+	"Maryland"	"24"	"Unidentified Counties, MD"	"24999"	"35-39 years"	"35-39"	19	2605	7.29 (Unreliable)
+	"Massachusetts"	"25"	"Essex County, MA"	"25009"	"25-29 years"	"25-29"	10	2137	4.68 (Unreliable)
+	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	"25-29 years"	"25-29"	18	3487	5.16 (Unreliable)
+	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	"30-34 years"	"30-34"	17	7075	2.40 (Unreliable)
+	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	"35-39 years"	"35-39"	11	4245	2.59 (Unreliable)
+	"Massachusetts"	"25"	"Norfolk County, MA"	"25021"	"30-34 years"	"30-34"	11	3041	3.62 (Unreliable)
+	"Massachusetts"	"25"	"Suffolk County, MA"	"25025"	"25-29 years"	"25-29"	13	2245	5.79 (Unreliable)
+	"Massachusetts"	"25"	"Suffolk County, MA"	"25025"	"30-34 years"	"30-34"	12	3371	3.56 (Unreliable)
+	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	"20-24 years"	"20-24"	12	1270	9.45 (Unreliable)
+	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	"25-29 years"	"25-29"	10	2477	4.04 (Unreliable)
+	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	"30-34 years"	"30-34"	16	2955	5.41 (Unreliable)
+	"Michigan"	"26"	"Genesee County, MI"	"26049"	"20-24 years"	"20-24"	14	1386	10.10 (Unreliable)
+	"Michigan"	"26"	"Genesee County, MI"	"26049"	"25-29 years"	"25-29"	12	1528	7.85 (Unreliable)
+	"Michigan"	"26"	"Kent County, MI"	"26081"	"20-24 years"	"20-24"	13	1674	7.77 (Unreliable)
+	"Michigan"	"26"	"Kent County, MI"	"26081"	"25-29 years"	"25-29"	11	2802	3.93 (Unreliable)
+	"Michigan"	"26"	"Kent County, MI"	"26081"	"30-34 years"	"30-34"	13	2685	4.84 (Unreliable)
+	"Michigan"	"26"	"Kent County, MI"	"26081"	"35-39 years"	"35-39"	11	1047	10.51 (Unreliable)
+	"Michigan"	"26"	"Macomb County, MI"	"26099"	"25-29 years"	"25-29"	19	3031	6.27 (Unreliable)
+	"Michigan"	"26"	"Macomb County, MI"	"26099"	"30-34 years"	"30-34"	15	2891	5.19 (Unreliable)
+	"Michigan"	"26"	"Oakland County, MI"	"26125"	"20-24 years"	"20-24"	17	1703	9.98 (Unreliable)
+	"Michigan"	"26"	"Oakland County, MI"	"26125"	"25-29 years"	"25-29"	19	3679	5.16 (Unreliable)
+	"Michigan"	"26"	"Oakland County, MI"	"26125"	"30-34 years"	"30-34"	21	5066	4.15
+	"Michigan"	"26"	"Wayne County, MI"	"26163"	"15-19 years"	"15-19"	12	1381	8.69 (Unreliable)
+	"Michigan"	"26"	"Wayne County, MI"	"26163"	"20-24 years"	"20-24"	52	5787	8.99
+	"Michigan"	"26"	"Wayne County, MI"	"26163"	"25-29 years"	"25-29"	70	7213	9.70
+	"Michigan"	"26"	"Wayne County, MI"	"26163"	"30-34 years"	"30-34"	33	5521	5.98
+	"Michigan"	"26"	"Wayne County, MI"	"26163"	"35-39 years"	"35-39"	26	2589	10.04
+	"Michigan"	"26"	"Unidentified Counties, MI"	"26999"	"15-19 years"	"15-19"	23	2383	9.65
+	"Michigan"	"26"	"Unidentified Counties, MI"	"26999"	"20-24 years"	"20-24"	69	9757	7.07
+	"Michigan"	"26"	"Unidentified Counties, MI"	"26999"	"25-29 years"	"25-29"	74	13068	5.66
+	"Michigan"	"26"	"Unidentified Counties, MI"	"26999"	"30-34 years"	"30-34"	44	9920	4.44
+	"Michigan"	"26"	"Unidentified Counties, MI"	"26999"	"35-39 years"	"35-39"	23	3886	5.92
+	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	"20-24 years"	"20-24"	23	1846	12.46
+	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	"25-29 years"	"25-29"	22	4208	5.23
+	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	"30-34 years"	"30-34"	26	6191	4.20
+	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	"35-39 years"	"35-39"	10	3210	3.12 (Unreliable)
+	"Minnesota"	"27"	"Ramsey County, MN"	"27123"	"25-29 years"	"25-29"	13	2282	5.70 (Unreliable)
+	"Minnesota"	"27"	"Ramsey County, MN"	"27123"	"30-34 years"	"30-34"	13	2468	5.27 (Unreliable)
+	"Minnesota"	"27"	"Unidentified Counties, MN"	"27999"	"15-19 years"	"15-19"	16	1263	12.67 (Unreliable)
+	"Minnesota"	"27"	"Unidentified Counties, MN"	"27999"	"20-24 years"	"20-24"	36	6016	5.98
+	"Minnesota"	"27"	"Unidentified Counties, MN"	"27999"	"25-29 years"	"25-29"	48	11975	4.01
+	"Minnesota"	"27"	"Unidentified Counties, MN"	"27999"	"30-34 years"	"30-34"	53	11510	4.60
+	"Minnesota"	"27"	"Unidentified Counties, MN"	"27999"	"35-39 years"	"35-39"	24	4448	5.40
+	"Mississippi"	"28"	"Unidentified Counties, MS"	"28999"	"15-19 years"	"15-19"	28	3326	8.42
+	"Mississippi"	"28"	"Unidentified Counties, MS"	"28999"	"20-24 years"	"20-24"	123	11473	10.72
+	"Mississippi"	"28"	"Unidentified Counties, MS"	"28999"	"25-29 years"	"25-29"	93	11726	7.93
+	"Mississippi"	"28"	"Unidentified Counties, MS"	"28999"	"30-34 years"	"30-34"	50	7663	6.52
+	"Mississippi"	"28"	"Unidentified Counties, MS"	"28999"	"35-39 years"	"35-39"	26	3173	8.19
+	"Missouri"	"29"	"Greene County, MO"	"29077"	"25-29 years"	"25-29"	12	1164	10.31 (Unreliable)
+	"Missouri"	"29"	"Jackson County, MO"	"29095"	"20-24 years"	"20-24"	22	2181	10.09
+	"Missouri"	"29"	"Jackson County, MO"	"29095"	"25-29 years"	"25-29"	16	2900	5.52 (Unreliable)
+	"Missouri"	"29"	"Jackson County, MO"	"29095"	"30-34 years"	"30-34"	15	2429	6.18 (Unreliable)
+	"Missouri"	"29"	"St. Louis County, MO"	"29189"	"20-24 years"	"20-24"	12	1899	6.32 (Unreliable)
+	"Missouri"	"29"	"St. Louis County, MO"	"29189"	"25-29 years"	"25-29"	27	3164	8.53
+	"Missouri"	"29"	"St. Louis County, MO"	"29189"	"30-34 years"	"30-34"	18	3953	4.55 (Unreliable)
+	"Missouri"	"29"	"St. Louis city, MO"	"29510"	"20-24 years"	"20-24"	12	1031	11.64 (Unreliable)
+	"Missouri"	"29"	"St. Louis city, MO"	"29510"	"30-34 years"	"30-34"	10	1144	8.74 (Unreliable)
+	"Missouri"	"29"	"Unidentified Counties, MO"	"29999"	"15-19 years"	"15-19"	25	2795	8.94
+	"Missouri"	"29"	"Unidentified Counties, MO"	"29999"	"20-24 years"	"20-24"	108	11046	9.78
+	"Missouri"	"29"	"Unidentified Counties, MO"	"29999"	"25-29 years"	"25-29"	66	13409	4.92
+	"Missouri"	"29"	"Unidentified Counties, MO"	"29999"	"30-34 years"	"30-34"	37	9487	3.90
+	"Missouri"	"29"	"Unidentified Counties, MO"	"29999"	"35-39 years"	"35-39"	35	3754	9.32
+	"Montana"	"30"	"Unidentified Counties, MT"	"30999"	"20-24 years"	"20-24"	20	2707	7.39
+	"Montana"	"30"	"Unidentified Counties, MT"	"30999"	"25-29 years"	"25-29"	15	3860	3.89 (Unreliable)
+	"Montana"	"30"	"Unidentified Counties, MT"	"30999"	"30-34 years"	"30-34"	26	3250	8.00
+	"Nebraska"	"31"	"Douglas County, NE"	"31055"	"25-29 years"	"25-29"	21	2696	7.79
+	"Nebraska"	"31"	"Douglas County, NE"	"31055"	"30-34 years"	"30-34"	16	2792	5.73 (Unreliable)
+	"Nebraska"	"31"	"Douglas County, NE"	"31055"	"35-39 years"	"35-39"	10	1179	8.48 (Unreliable)
+	"Nebraska"	"31"	"Unidentified Counties, NE"	"31999"	"20-24 years"	"20-24"	19	2879	6.60 (Unreliable)
+	"Nebraska"	"31"	"Unidentified Counties, NE"	"31999"	"25-29 years"	"25-29"	23	4718	4.87
+	"Nebraska"	"31"	"Unidentified Counties, NE"	"31999"	"30-34 years"	"30-34"	18	3768	4.78 (Unreliable)
+	"Nebraska"	"31"	"Unidentified Counties, NE"	"31999"	"35-39 years"	"35-39"	14	1469	9.53 (Unreliable)
+	"Nevada"	"32"	"Clark County, NV"	"32003"	"15-19 years"	"15-19"	13	1559	8.34 (Unreliable)
+	"Nevada"	"32"	"Clark County, NV"	"32003"	"20-24 years"	"20-24"	43	6000	7.17
+	"Nevada"	"32"	"Clark County, NV"	"32003"	"25-29 years"	"25-29"	40	8040	4.98
+	"Nevada"	"32"	"Clark County, NV"	"32003"	"30-34 years"	"30-34"	38	7106	5.35
+	"Nevada"	"32"	"Clark County, NV"	"32003"	"35-39 years"	"35-39"	16	3751	4.27 (Unreliable)
+	"Nevada"	"32"	"Washoe County, NV"	"32031"	"25-29 years"	"25-29"	11	1631	6.74 (Unreliable)
+	"New Jersey"	"34"	"Burlington County, NJ"	"34005"	"35-39 years"	"35-39"	10	811	12.33 (Unreliable)
+	"New Jersey"	"34"	"Camden County, NJ"	"34007"	"25-29 years"	"25-29"	16	1687	9.48 (Unreliable)
+	"New Jersey"	"34"	"Camden County, NJ"	"34007"	"30-34 years"	"30-34"	15	1949	7.70 (Unreliable)
+	"New Jersey"	"34"	"Essex County, NJ"	"34013"	"20-24 years"	"20-24"	17	1692	10.05 (Unreliable)
+	"New Jersey"	"34"	"Essex County, NJ"	"34013"	"25-29 years"	"25-29"	12	2602	4.61 (Unreliable)
+	"New Jersey"	"34"	"Essex County, NJ"	"34013"	"30-34 years"	"30-34"	12	3072	3.91 (Unreliable)
+	"New Jersey"	"34"	"Middlesex County, NJ"	"34023"	"25-29 years"	"25-29"	11	2501	4.40 (Unreliable)
+	"New Jersey"	"34"	"Ocean County, NJ"	"34029"	"25-29 years"	"25-29"	10	2528	3.96 (Unreliable)
+	"New Jersey"	"34"	"Unidentified Counties, NJ"	"34999"	"20-24 years"	"20-24"	13	1105	11.76 (Unreliable)
+	"New Jersey"	"34"	"Unidentified Counties, NJ"	"34999"	"25-29 years"	"25-29"	12	1861	6.45 (Unreliable)
+	"New Mexico"	"35"	"Bernalillo County, NM"	"35001"	"20-24 years"	"20-24"	18	1689	10.66 (Unreliable)
+	"New Mexico"	"35"	"Bernalillo County, NM"	"35001"	"25-29 years"	"25-29"	10	2216	4.51 (Unreliable)
+	"New Mexico"	"35"	"Bernalillo County, NM"	"35001"	"30-34 years"	"30-34"	12	2050	5.85 (Unreliable)
+	"New Mexico"	"35"	"Unidentified Counties, NM"	"35999"	"15-19 years"	"15-19"	10	1568	6.38 (Unreliable)
+	"New Mexico"	"35"	"Unidentified Counties, NM"	"35999"	"20-24 years"	"20-24"	24	4838	4.96
+	"New Mexico"	"35"	"Unidentified Counties, NM"	"35999"	"25-29 years"	"25-29"	32	5137	6.23
+	"New Mexico"	"35"	"Unidentified Counties, NM"	"35999"	"30-34 years"	"30-34"	23	3582	6.42
+	"New York"	"36"	"Bronx County, NY"	"36005"	"20-24 years"	"20-24"	18	4384	4.11 (Unreliable)
+	"New York"	"36"	"Bronx County, NY"	"36005"	"25-29 years"	"25-29"	23	6264	3.67
+	"New York"	"36"	"Bronx County, NY"	"36005"	"30-34 years"	"30-34"	27	5320	5.08
+	"New York"	"36"	"Erie County, NY"	"36029"	"20-24 years"	"20-24"	16	1669	9.59 (Unreliable)
+	"New York"	"36"	"Erie County, NY"	"36029"	"25-29 years"	"25-29"	19	2917	6.51 (Unreliable)
+	"New York"	"36"	"Erie County, NY"	"36029"	"30-34 years"	"30-34"	18	3234	5.57 (Unreliable)
+	"New York"	"36"	"Kings County, NY"	"36047"	"20-24 years"	"20-24"	23	7280	3.16
+	"New York"	"36"	"Kings County, NY"	"36047"	"25-29 years"	"25-29"	36	10904	3.30
+	"New York"	"36"	"Kings County, NY"	"36047"	"30-34 years"	"30-34"	48	11589	4.14
+	"New York"	"36"	"Kings County, NY"	"36047"	"35-39 years"	"35-39"	31	7731	4.01
+	"New York"	"36"	"Monroe County, NY"	"36055"	"20-24 years"	"20-24"	11	1311	8.39 (Unreliable)
+	"New York"	"36"	"Monroe County, NY"	"36055"	"25-29 years"	"25-29"	18	2287	7.87 (Unreliable)
+	"New York"	"36"	"Monroe County, NY"	"36055"	"30-34 years"	"30-34"	14	2621	5.34 (Unreliable)
+	"New York"	"36"	"Nassau County, NY"	"36059"	"30-34 years"	"30-34"	13	5266	2.47 (Unreliable)
+	"New York"	"36"	"Nassau County, NY"	"36059"	"35-39 years"	"35-39"	12	3453	3.48 (Unreliable)
+	"New York"	"36"	"New York County, NY"	"36061"	"30-34 years"	"30-34"	20	6523	3.07
+	"New York"	"36"	"Onondaga County, NY"	"36067"	"20-24 years"	"20-24"	13	929	13.99 (Unreliable)
+	"New York"	"36"	"Onondaga County, NY"	"36067"	"25-29 years"	"25-29"	10	1516	6.60 (Unreliable)
+	"New York"	"36"	"Onondaga County, NY"	"36067"	"35-39 years"	"35-39"	12	765	15.69 (Unreliable)
+	"New York"	"36"	"Queens County, NY"	"36081"	"20-24 years"	"20-24"	21	3991	5.26
+	"New York"	"36"	"Queens County, NY"	"36081"	"25-29 years"	"25-29"	28	8672	3.23
+	"New York"	"36"	"Queens County, NY"	"36081"	"30-34 years"	"30-34"	31	9671	3.21
+	"New York"	"36"	"Queens County, NY"	"36081"	"35-39 years"	"35-39"	25	5757	4.34
+	"New York"	"36"	"Suffolk County, NY"	"36103"	"25-29 years"	"25-29"	14	3771	3.71 (Unreliable)
+	"New York"	"36"	"Suffolk County, NY"	"36103"	"30-34 years"	"30-34"	22	5324	4.13
+	"New York"	"36"	"Suffolk County, NY"	"36103"	"35-39 years"	"35-39"	14	3197	4.38 (Unreliable)
+	"New York"	"36"	"Unidentified Counties, NY"	"36999"	"15-19 years"	"15-19"	16	1984	8.06 (Unreliable)
+	"New York"	"36"	"Unidentified Counties, NY"	"36999"	"20-24 years"	"20-24"	55	8660	6.35
+	"New York"	"36"	"Unidentified Counties, NY"	"36999"	"25-29 years"	"25-29"	68	12333	5.51
+	"New York"	"36"	"Unidentified Counties, NY"	"36999"	"30-34 years"	"30-34"	71	10882	6.52
+	"New York"	"36"	"Unidentified Counties, NY"	"36999"	"35-39 years"	"35-39"	16	4774	3.35 (Unreliable)
+	"North Carolina"	"37"	"Cumberland County, NC"	"37051"	"20-24 years"	"20-24"	13	1761	7.38 (Unreliable)
+	"North Carolina"	"37"	"Cumberland County, NC"	"37051"	"25-29 years"	"25-29"	16	1734	9.23 (Unreliable)
+	"North Carolina"	"37"	"Cumberland County, NC"	"37051"	"30-34 years"	"30-34"	11	1122	9.80 (Unreliable)
+	"North Carolina"	"37"	"Durham County, NC"	"37063"	"30-34 years"	"30-34"	11	1441	7.63 (Unreliable)
+	"North Carolina"	"37"	"Forsyth County, NC"	"37067"	"20-24 years"	"20-24"	10	903	11.07 (Unreliable)
+	"North Carolina"	"37"	"Forsyth County, NC"	"37067"	"25-29 years"	"25-29"	10	1385	7.22 (Unreliable)
+	"North Carolina"	"37"	"Guilford County, NC"	"37081"	"20-24 years"	"20-24"	11	1297	8.48 (Unreliable)
+	"North Carolina"	"37"	"Guilford County, NC"	"37081"	"25-29 years"	"25-29"	18	1917	9.39 (Unreliable)
+	"North Carolina"	"37"	"Mecklenburg County, NC"	"37119"	"20-24 years"	"20-24"	24	2314	10.37
+	"North Carolina"	"37"	"Mecklenburg County, NC"	"37119"	"25-29 years"	"25-29"	23	4060	5.67
+	"North Carolina"	"37"	"Mecklenburg County, NC"	"37119"	"30-34 years"	"30-34"	28	4815	5.82
+	"North Carolina"	"37"	"Mecklenburg County, NC"	"37119"	"35-39 years"	"35-39"	15	2481	6.05 (Unreliable)
+	"North Carolina"	"37"	"Wake County, NC"	"37183"	"20-24 years"	"20-24"	14	1508	9.28 (Unreliable)
+	"North Carolina"	"37"	"Wake County, NC"	"37183"	"25-29 years"	"25-29"	14	3388	4.13 (Unreliable)
+	"North Carolina"	"37"	"Wake County, NC"	"37183"	"30-34 years"	"30-34"	22	4686	4.69
+	"North Carolina"	"37"	"Wake County, NC"	"37183"	"35-39 years"	"35-39"	15	2455	6.11 (Unreliable)
+	"North Carolina"	"37"	"Unidentified Counties, NC"	"37999"	"15-19 years"	"15-19"	54	4989	10.82
+	"North Carolina"	"37"	"Unidentified Counties, NC"	"37999"	"20-24 years"	"20-24"	158	18499	8.54
+	"North Carolina"	"37"	"Unidentified Counties, NC"	"37999"	"25-29 years"	"25-29"	136	22395	6.07
+	"North Carolina"	"37"	"Unidentified Counties, NC"	"37999"	"30-34 years"	"30-34"	100	17013	5.88
+	"North Carolina"	"37"	"Unidentified Counties, NC"	"37999"	"35-39 years"	"35-39"	58	7756	7.48
+	"North Carolina"	"37"	"Unidentified Counties, NC"	"37999"	"40-44 years"	"40-44"	18	1539	11.70 (Unreliable)
+	"North Dakota"	"38"	"Unidentified Counties, ND"	"38999"	"15-19 years"	"15-19"	10	469	21.32 (Unreliable)
+	"North Dakota"	"38"	"Unidentified Counties, ND"	"38999"	"20-24 years"	"20-24"	12	2322	5.17 (Unreliable)
+	"North Dakota"	"38"	"Unidentified Counties, ND"	"38999"	"25-29 years"	"25-29"	28	4063	6.89
+	"North Dakota"	"38"	"Unidentified Counties, ND"	"38999"	"30-34 years"	"30-34"	14	3163	4.43 (Unreliable)
+	"Ohio"	"39"	"Butler County, OH"	"39017"	"25-29 years"	"25-29"	11	1388	7.93 (Unreliable)
+	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"15-19 years"	"15-19"	10	865	11.56 (Unreliable)
+	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"20-24 years"	"20-24"	39	3207	12.16
+	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"25-29 years"	"25-29"	30	4240	7.08
+	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"30-34 years"	"30-34"	30	4134	7.26
+	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"35-39 years"	"35-39"	13	1914	6.79 (Unreliable)
+	"Ohio"	"39"	"Franklin County, OH"	"39049"	"15-19 years"	"15-19"	10	926	10.80 (Unreliable)
+	"Ohio"	"39"	"Franklin County, OH"	"39049"	"20-24 years"	"20-24"	44	3503	12.56
+	"Ohio"	"39"	"Franklin County, OH"	"39049"	"25-29 years"	"25-29"	57	5721	9.96
+	"Ohio"	"39"	"Franklin County, OH"	"39049"	"30-34 years"	"30-34"	37	5782	6.40
+	"Ohio"	"39"	"Franklin County, OH"	"39049"	"35-39 years"	"35-39"	10	2597	3.85 (Unreliable)
+	"Ohio"	"39"	"Hamilton County, OH"	"39061"	"15-19 years"	"15-19"	11	581	18.93 (Unreliable)
+	"Ohio"	"39"	"Hamilton County, OH"	"39061"	"20-24 years"	"20-24"	19	2129	8.92 (Unreliable)
+	"Ohio"	"39"	"Hamilton County, OH"	"39061"	"25-29 years"	"25-29"	33	3216	10.26
+	"Ohio"	"39"	"Hamilton County, OH"	"39061"	"30-34 years"	"30-34"	28	3262	8.58
+	"Ohio"	"39"	"Lucas County, OH"	"39095"	"20-24 years"	"20-24"	15	1382	10.85 (Unreliable)
+	"Ohio"	"39"	"Montgomery County, OH"	"39113"	"15-19 years"	"15-19"	10	434	23.04 (Unreliable)
+	"Ohio"	"39"	"Montgomery County, OH"	"39113"	"30-34 years"	"30-34"	12	1656	7.25 (Unreliable)
+	"Ohio"	"39"	"Stark County, OH"	"39151"	"25-29 years"	"25-29"	14	1400	10.00 (Unreliable)
+	"Ohio"	"39"	"Summit County, OH"	"39153"	"20-24 years"	"20-24"	13	1247	10.43 (Unreliable)
+	"Ohio"	"39"	"Summit County, OH"	"39153"	"25-29 years"	"25-29"	17	1813	9.38 (Unreliable)
+	"Ohio"	"39"	"Summit County, OH"	"39153"	"30-34 years"	"30-34"	10	1780	5.62 (Unreliable)
+	"Ohio"	"39"	"Unidentified Counties, OH"	"39999"	"15-19 years"	"15-19"	41	3956	10.36
+	"Ohio"	"39"	"Unidentified Counties, OH"	"39999"	"20-24 years"	"20-24"	121	15480	7.82
+	"Ohio"	"39"	"Unidentified Counties, OH"	"39999"	"25-29 years"	"25-29"	130	20142	6.45
+	"Ohio"	"39"	"Unidentified Counties, OH"	"39999"	"30-34 years"	"30-34"	74	15985	4.63
+	"Ohio"	"39"	"Unidentified Counties, OH"	"39999"	"35-39 years"	"35-39"	46	6417	7.17
+	"Ohio"	"39"	"Unidentified Counties, OH"	"39999"	"40-44 years"	"40-44"	10	1132	8.83 (Unreliable)
+	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	"15-19 years"	"15-19"	12	888	13.51 (Unreliable)
+	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	"20-24 years"	"20-24"	30	2841	10.56
+	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	"25-29 years"	"25-29"	31	3689	8.40
+	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	"30-34 years"	"30-34"	13	3204	4.06 (Unreliable)
+	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	"35-39 years"	"35-39"	10	1274	7.85 (Unreliable)
+	"Oklahoma"	"40"	"Tulsa County, OK"	"40143"	"20-24 years"	"20-24"	29	2310	12.55
+	"Oklahoma"	"40"	"Tulsa County, OK"	"40143"	"25-29 years"	"25-29"	25	2933	8.52
+	"Oklahoma"	"40"	"Tulsa County, OK"	"40143"	"30-34 years"	"30-34"	19	2456	7.74 (Unreliable)
+	"Oklahoma"	"40"	"Unidentified Counties, OK"	"40999"	"15-19 years"	"15-19"	26	2527	10.29
+	"Oklahoma"	"40"	"Unidentified Counties, OK"	"40999"	"20-24 years"	"20-24"	62	8504	7.29
+	"Oklahoma"	"40"	"Unidentified Counties, OK"	"40999"	"25-29 years"	"25-29"	62	8723	7.11
+	"Oklahoma"	"40"	"Unidentified Counties, OK"	"40999"	"30-34 years"	"30-34"	30	5635	5.32
+	"Oklahoma"	"40"	"Unidentified Counties, OK"	"40999"	"35-39 years"	"35-39"	10	1977	5.06 (Unreliable)
+	"Oregon"	"41"	"Multnomah County, OR"	"41051"	"25-29 years"	"25-29"	11	2113	5.21 (Unreliable)
+	"Oregon"	"41"	"Multnomah County, OR"	"41051"	"30-34 years"	"30-34"	12	3012	3.98 (Unreliable)
+	"Oregon"	"41"	"Multnomah County, OR"	"41051"	"35-39 years"	"35-39"	13	1969	6.60 (Unreliable)
+	"Oregon"	"41"	"Unidentified Counties, OR"	"41999"	"20-24 years"	"20-24"	26	3930	6.62
+	"Oregon"	"41"	"Unidentified Counties, OR"	"41999"	"25-29 years"	"25-29"	30	5514	5.44
+	"Oregon"	"41"	"Unidentified Counties, OR"	"41999"	"30-34 years"	"30-34"	22	4353	5.05
+	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"20-24 years"	"20-24"	16	1809	8.84 (Unreliable)
+	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"25-29 years"	"25-29"	14	3781	3.70 (Unreliable)
+	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"30-34 years"	"30-34"	25	4604	5.43
+	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"35-39 years"	"35-39"	12	2163	5.55 (Unreliable)
+	"Pennsylvania"	"42"	"Dauphin County, PA"	"42043"	"30-34 years"	"30-34"	10	957	10.45 (Unreliable)
+	"Pennsylvania"	"42"	"Delaware County, PA"	"42045"	"25-29 years"	"25-29"	13	1698	7.66 (Unreliable)
+	"Pennsylvania"	"42"	"Delaware County, PA"	"42045"	"30-34 years"	"30-34"	14	2367	5.91 (Unreliable)
+	"Pennsylvania"	"42"	"Lancaster County, PA"	"42071"	"20-24 years"	"20-24"	11	1459	7.54 (Unreliable)
+	"Pennsylvania"	"42"	"Lancaster County, PA"	"42071"	"30-34 years"	"30-34"	10	1979	5.05 (Unreliable)
+	"Pennsylvania"	"42"	"Lehigh County, PA"	"42077"	"25-29 years"	"25-29"	10	1286	7.78 (Unreliable)
+	"Pennsylvania"	"42"	"Montgomery County, PA"	"42091"	"25-29 years"	"25-29"	14	2161	6.48 (Unreliable)
+	"Pennsylvania"	"42"	"Montgomery County, PA"	"42091"	"30-34 years"	"30-34"	18	3554	5.06 (Unreliable)
+	"Pennsylvania"	"42"	"Philadelphia County, PA"	"42101"	"15-19 years"	"15-19"	14	1308	10.70 (Unreliable)
+	"Pennsylvania"	"42"	"Philadelphia County, PA"	"42101"	"20-24 years"	"20-24"	53	4658	11.38
+	"Pennsylvania"	"42"	"Philadelphia County, PA"	"42101"	"25-29 years"	"25-29"	47	6191	7.59
+	"Pennsylvania"	"42"	"Philadelphia County, PA"	"42101"	"30-34 years"	"30-34"	38	5896	6.45
+	"Pennsylvania"	"42"	"Philadelphia County, PA"	"42101"	"35-39 years"	"35-39"	20	2819	7.09
+	"Pennsylvania"	"42"	"York County, PA"	"42133"	"25-29 years"	"25-29"	10	1609	6.22 (Unreliable)
+	"Pennsylvania"	"42"	"Unidentified Counties, PA"	"42999"	"15-19 years"	"15-19"	20	2199	9.10
+	"Pennsylvania"	"42"	"Unidentified Counties, PA"	"42999"	"20-24 years"	"20-24"	65	9304	6.99
+	"Pennsylvania"	"42"	"Unidentified Counties, PA"	"42999"	"25-29 years"	"25-29"	65	13425	4.84
+	"Pennsylvania"	"42"	"Unidentified Counties, PA"	"42999"	"30-34 years"	"30-34"	59	11291	5.23
+	"Pennsylvania"	"42"	"Unidentified Counties, PA"	"42999"	"35-39 years"	"35-39"	24	4584	5.24
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"25-29 years"	"25-29"	12	2139	5.61 (Unreliable)
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"30-34 years"	"30-34"	12	2101	5.71 (Unreliable)
+	"South Carolina"	"45"	"Charleston County, SC"	"45019"	"25-29 years"	"25-29"	10	1320	7.58 (Unreliable)
+	"South Carolina"	"45"	"Greenville County, SC"	"45045"	"20-24 years"	"20-24"	10	1240	8.06 (Unreliable)
+	"South Carolina"	"45"	"Greenville County, SC"	"45045"	"25-29 years"	"25-29"	10	1876	5.33 (Unreliable)
+	"South Carolina"	"45"	"Richland County, SC"	"45079"	"25-29 years"	"25-29"	13	1496	8.69 (Unreliable)
+	"South Carolina"	"45"	"Unidentified Counties, SC"	"45999"	"15-19 years"	"15-19"	21	2354	8.92
+	"South Carolina"	"45"	"Unidentified Counties, SC"	"45999"	"20-24 years"	"20-24"	81	8183	9.90
+	"South Carolina"	"45"	"Unidentified Counties, SC"	"45999"	"25-29 years"	"25-29"	65	9778	6.65
+	"South Carolina"	"45"	"Unidentified Counties, SC"	"45999"	"30-34 years"	"30-34"	34	6982	4.87
+	"South Carolina"	"45"	"Unidentified Counties, SC"	"45999"	"35-39 years"	"35-39"	26	3214	8.09
+	"South Dakota"	"46"	"Unidentified Counties, SD"	"46999"	"20-24 years"	"20-24"	15	2616	5.73 (Unreliable)
+	"South Dakota"	"46"	"Unidentified Counties, SD"	"46999"	"25-29 years"	"25-29"	24	4167	5.76
+	"South Dakota"	"46"	"Unidentified Counties, SD"	"46999"	"30-34 years"	"30-34"	13	3315	3.92 (Unreliable)
+	"Tennessee"	"47"	"Davidson County, TN"	"47037"	"20-24 years"	"20-24"	25	1764	14.17
+	"Tennessee"	"47"	"Davidson County, TN"	"47037"	"25-29 years"	"25-29"	19	2895	6.56 (Unreliable)
+	"Tennessee"	"47"	"Davidson County, TN"	"47037"	"30-34 years"	"30-34"	12	3123	3.84 (Unreliable)
+	"Tennessee"	"47"	"Hamilton County, TN"	"47065"	"20-24 years"	"20-24"	14	939	14.91 (Unreliable)
+	"Tennessee"	"47"	"Knox County, TN"	"47093"	"20-24 years"	"20-24"	12	1038	11.56 (Unreliable)
+	"Tennessee"	"47"	"Rutherford County, TN"	"47149"	"25-29 years"	"25-29"	12	1306	9.19 (Unreliable)
+	"Tennessee"	"47"	"Shelby County, TN"	"47157"	"15-19 years"	"15-19"	10	1089	9.18 (Unreliable)
+	"Tennessee"	"47"	"Shelby County, TN"	"47157"	"20-24 years"	"20-24"	32	3356	9.54
+	"Tennessee"	"47"	"Shelby County, TN"	"47157"	"25-29 years"	"25-29"	37	3930	9.41
+	"Tennessee"	"47"	"Shelby County, TN"	"47157"	"30-34 years"	"30-34"	22	3062	7.18
+	"Tennessee"	"47"	"Shelby County, TN"	"47157"	"35-39 years"	"35-39"	16	1481	10.80 (Unreliable)
+	"Tennessee"	"47"	"Unidentified Counties, TN"	"47999"	"15-19 years"	"15-19"	21	3393	6.19
+	"Tennessee"	"47"	"Unidentified Counties, TN"	"47999"	"20-24 years"	"20-24"	93	12528	7.42
+	"Tennessee"	"47"	"Unidentified Counties, TN"	"47999"	"25-29 years"	"25-29"	91	13559	6.71
+	"Tennessee"	"47"	"Unidentified Counties, TN"	"47999"	"30-34 years"	"30-34"	55	9605	5.73
+	"Tennessee"	"47"	"Unidentified Counties, TN"	"47999"	"35-39 years"	"35-39"	34	3917	8.68
+	"Tennessee"	"47"	"Unidentified Counties, TN"	"47999"	"40-44 years"	"40-44"	10	769	13.00 (Unreliable)
+	"Texas"	"48"	"Bell County, TX"	"48027"	"20-24 years"	"20-24"	21	1955	10.74
+	"Texas"	"48"	"Bell County, TX"	"48027"	"25-29 years"	"25-29"	11	1975	5.57 (Unreliable)
+	"Texas"	"48"	"Bexar County, TX"	"48029"	"15-19 years"	"15-19"	12	2028	5.92 (Unreliable)
+	"Texas"	"48"	"Bexar County, TX"	"48029"	"20-24 years"	"20-24"	38	6723	5.65
+	"Texas"	"48"	"Bexar County, TX"	"48029"	"25-29 years"	"25-29"	54	8182	6.60
+	"Texas"	"48"	"Bexar County, TX"	"48029"	"30-34 years"	"30-34"	39	6900	5.65
+	"Texas"	"48"	"Bexar County, TX"	"48029"	"35-39 years"	"35-39"	21	3337	6.29
+	"Texas"	"48"	"Bexar County, TX"	"48029"	"40-44 years"	"40-44"	13	716	18.16 (Unreliable)
+	"Texas"	"48"	"Collin County, TX"	"48085"	"30-34 years"	"30-34"	15	4082	3.67 (Unreliable)
+	"Texas"	"48"	"Collin County, TX"	"48085"	"35-39 years"	"35-39"	13	2063	6.30 (Unreliable)
+	"Texas"	"48"	"Dallas County, TX"	"48113"	"15-19 years"	"15-19"	27	3007	8.98
+	"Texas"	"48"	"Dallas County, TX"	"48113"	"20-24 years"	"20-24"	52	9018	5.77
+	"Texas"	"48"	"Dallas County, TX"	"48113"	"25-29 years"	"25-29"	49	11426	4.29
+	"Texas"	"48"	"Dallas County, TX"	"48113"	"30-34 years"	"30-34"	58	10391	5.58
+	"Texas"	"48"	"Dallas County, TX"	"48113"	"35-39 years"	"35-39"	26	5244	4.96
+	"Texas"	"48"	"Dallas County, TX"	"48113"	"40-44 years"	"40-44"	16	1146	13.96 (Unreliable)
+	"Texas"	"48"	"Denton County, TX"	"48121"	"25-29 years"	"25-29"	20	2934	6.82
+	"Texas"	"48"	"Denton County, TX"	"48121"	"30-34 years"	"30-34"	13	3317	3.92 (Unreliable)
+	"Texas"	"48"	"El Paso County, TX"	"48141"	"20-24 years"	"20-24"	10	3942	2.54 (Unreliable)
+	"Texas"	"48"	"El Paso County, TX"	"48141"	"25-29 years"	"25-29"	17	3783	4.49 (Unreliable)
+	"Texas"	"48"	"El Paso County, TX"	"48141"	"30-34 years"	"30-34"	12	2606	4.60 (Unreliable)
+	"Texas"	"48"	"Fort Bend County, TX"	"48157"	"25-29 years"	"25-29"	16	2560	6.25 (Unreliable)
+	"Texas"	"48"	"Fort Bend County, TX"	"48157"	"30-34 years"	"30-34"	12	3707	3.24 (Unreliable)
+	"Texas"	"48"	"Harris County, TX"	"48201"	"15-19 years"	"15-19"	35	4792	7.30
+	"Texas"	"48"	"Harris County, TX"	"48201"	"20-24 years"	"20-24"	109	15192	7.17
+	"Texas"	"48"	"Harris County, TX"	"48201"	"25-29 years"	"25-29"	130	20286	6.41
+	"Texas"	"48"	"Harris County, TX"	"48201"	"30-34 years"	"30-34"	97	19768	4.91
+	"Texas"	"48"	"Harris County, TX"	"48201"	"35-39 years"	"35-39"	49	9972	4.91
+	"Texas"	"48"	"Harris County, TX"	"48201"	"40-44 years"	"40-44"	12	2211	5.43 (Unreliable)
+	"Texas"	"48"	"Hidalgo County, TX"	"48215"	"15-19 years"	"15-19"	10	1693	5.91 (Unreliable)
+	"Texas"	"48"	"Hidalgo County, TX"	"48215"	"20-24 years"	"20-24"	19	4270	4.45 (Unreliable)
+	"Texas"	"48"	"Hidalgo County, TX"	"48215"	"25-29 years"	"25-29"	16	4150	3.86 (Unreliable)
+	"Texas"	"48"	"Hidalgo County, TX"	"48215"	"30-34 years"	"30-34"	15	2986	5.02 (Unreliable)
+	"Texas"	"48"	"Jefferson County, TX"	"48245"	"20-24 years"	"20-24"	12	1039	11.55 (Unreliable)
+	"Texas"	"48"	"Jefferson County, TX"	"48245"	"25-29 years"	"25-29"	11	1104	9.96 (Unreliable)
+	"Texas"	"48"	"Montgomery County, TX"	"48339"	"20-24 years"	"20-24"	18	1530	11.76 (Unreliable)
+	"Texas"	"48"	"Nueces County, TX"	"48355"	"20-24 years"	"20-24"	12	1285	9.34 (Unreliable)
+	"Texas"	"48"	"Tarrant County, TX"	"48439"	"15-19 years"	"15-19"	22	1781	12.35
+	"Texas"	"48"	"Tarrant County, TX"	"48439"	"20-24 years"	"20-24"	33	6121	5.39
+	"Texas"	"48"	"Tarrant County, TX"	"48439"	"25-29 years"	"25-29"	54	8606	6.27
+	"Texas"	"48"	"Tarrant County, TX"	"48439"	"30-34 years"	"30-34"	41	7771	5.28
+	"Texas"	"48"	"Tarrant County, TX"	"48439"	"35-39 years"	"35-39"	26	3640	7.14
+	"Texas"	"48"	"Travis County, TX"	"48453"	"20-24 years"	"20-24"	12	2471	4.86 (Unreliable)
+	"Texas"	"48"	"Travis County, TX"	"48453"	"25-29 years"	"25-29"	16	3893	4.11 (Unreliable)
+	"Texas"	"48"	"Travis County, TX"	"48453"	"30-34 years"	"30-34"	13	5230	2.49 (Unreliable)
+	"Texas"	"48"	"Williamson County, TX"	"48491"	"30-34 years"	"30-34"	16	2250	7.11 (Unreliable)
+	"Texas"	"48"	"Unidentified Counties, TX"	"48999"	"15-19 years"	"15-19"	64	9104	7.03
+	"Texas"	"48"	"Unidentified Counties, TX"	"48999"	"20-24 years"	"20-24"	186	28088	6.62
+	"Texas"	"48"	"Unidentified Counties, TX"	"48999"	"25-29 years"	"25-29"	162	30375	5.33
+	"Texas"	"48"	"Unidentified Counties, TX"	"48999"	"30-34 years"	"30-34"	117	21471	5.45
+	"Texas"	"48"	"Unidentified Counties, TX"	"48999"	"35-39 years"	"35-39"	49	8649	5.67
+	"Texas"	"48"	"Unidentified Counties, TX"	"48999"	"40-44 years"	"40-44"	18	1658	10.86 (Unreliable)
+	"Utah"	"49"	"Davis County, UT"	"49011"	"25-29 years"	"25-29"	12	2025	5.93 (Unreliable)
+	"Utah"	"49"	"Salt Lake County, UT"	"49035"	"20-24 years"	"20-24"	13	3305	3.93 (Unreliable)
+	"Utah"	"49"	"Salt Lake County, UT"	"49035"	"25-29 years"	"25-29"	28	5639	4.97
+	"Utah"	"49"	"Salt Lake County, UT"	"49035"	"30-34 years"	"30-34"	27	4946	5.46
+	"Utah"	"49"	"Salt Lake County, UT"	"49035"	"35-39 years"	"35-39"	16	2516	6.36 (Unreliable)
+	"Utah"	"49"	"Utah County, UT"	"49049"	"20-24 years"	"20-24"	15	2531	5.93 (Unreliable)
+	"Utah"	"49"	"Utah County, UT"	"49049"	"25-29 years"	"25-29"	28	4370	6.41
+	"Utah"	"49"	"Utah County, UT"	"49049"	"30-34 years"	"30-34"	24	3175	7.56
+	"Utah"	"49"	"Utah County, UT"	"49049"	"35-39 years"	"35-39"	10	1385	7.22 (Unreliable)
+	"Utah"	"49"	"Unidentified Counties, UT"	"49999"	"20-24 years"	"20-24"	18	3745	4.81 (Unreliable)
+	"Utah"	"49"	"Unidentified Counties, UT"	"49999"	"25-29 years"	"25-29"	19	4983	3.81 (Unreliable)
+	"Utah"	"49"	"Unidentified Counties, UT"	"49999"	"30-34 years"	"30-34"	19	3882	4.89 (Unreliable)
+	"Utah"	"49"	"Unidentified Counties, UT"	"49999"	"35-39 years"	"35-39"	10	1593	6.28 (Unreliable)
+	"Virginia"	"51"	"Fairfax County, VA"	"51059"	"25-29 years"	"25-29"	12	3151	3.81 (Unreliable)
+	"Virginia"	"51"	"Fairfax County, VA"	"51059"	"30-34 years"	"30-34"	13	5411	2.40 (Unreliable)
+	"Virginia"	"51"	"Fairfax County, VA"	"51059"	"35-39 years"	"35-39"	17	3462	4.91 (Unreliable)
+	"Virginia"	"51"	"Virginia Beach city, VA"	"51810"	"25-29 years"	"25-29"	10	1796	5.57 (Unreliable)
+	"Virginia"	"51"	"Unidentified Counties, VA"	"51999"	"15-19 years"	"15-19"	30	3065	9.79
+	"Virginia"	"51"	"Unidentified Counties, VA"	"51999"	"20-24 years"	"20-24"	102	13632	7.48
+	"Virginia"	"51"	"Unidentified Counties, VA"	"51999"	"25-29 years"	"25-29"	129	18672	6.91
+	"Virginia"	"51"	"Unidentified Counties, VA"	"51999"	"30-34 years"	"30-34"	88	16911	5.20
+	"Virginia"	"51"	"Unidentified Counties, VA"	"51999"	"35-39 years"	"35-39"	49	8052	6.09
+	"Virginia"	"51"	"Unidentified Counties, VA"	"51999"	"40-44 years"	"40-44"	10	1557	6.42 (Unreliable)
+	"Washington"	"53"	"King County, WA"	"53033"	"20-24 years"	"20-24"	18	2423	7.43 (Unreliable)
+	"Washington"	"53"	"King County, WA"	"53033"	"25-29 years"	"25-29"	25	6014	4.16
+	"Washington"	"53"	"King County, WA"	"53033"	"30-34 years"	"30-34"	37	10085	3.67
+	"Washington"	"53"	"King County, WA"	"53033"	"35-39 years"	"35-39"	13	5686	2.29 (Unreliable)
+	"Washington"	"53"	"Pierce County, WA"	"53053"	"20-24 years"	"20-24"	12	2563	4.68 (Unreliable)
+	"Washington"	"53"	"Pierce County, WA"	"53053"	"25-29 years"	"25-29"	11	3743	2.94 (Unreliable)
+	"Washington"	"53"	"Pierce County, WA"	"53053"	"30-34 years"	"30-34"	15	3258	4.60 (Unreliable)
+	"Washington"	"53"	"Snohomish County, WA"	"53061"	"25-29 years"	"25-29"	16	3057	5.23 (Unreliable)
+	"Washington"	"53"	"Snohomish County, WA"	"53061"	"30-34 years"	"30-34"	16	3434	4.66 (Unreliable)
+	"Washington"	"53"	"Unidentified Counties, WA"	"53999"	"15-19 years"	"15-19"	10	1597	6.26 (Unreliable)
+	"Washington"	"53"	"Unidentified Counties, WA"	"53999"	"20-24 years"	"20-24"	34	5619	6.05
+	"Washington"	"53"	"Unidentified Counties, WA"	"53999"	"25-29 years"	"25-29"	38	7804	4.87
+	"Washington"	"53"	"Unidentified Counties, WA"	"53999"	"30-34 years"	"30-34"	27	6146	4.39
+	"Washington"	"53"	"Unidentified Counties, WA"	"53999"	"35-39 years"	"35-39"	10	2683	3.73 (Unreliable)
+	"West Virginia"	"54"	"Unidentified Counties, WV"	"54999"	"15-19 years"	"15-19"	12	1555	7.72 (Unreliable)
+	"West Virginia"	"54"	"Unidentified Counties, WV"	"54999"	"20-24 years"	"20-24"	45	5541	8.12
+	"West Virginia"	"54"	"Unidentified Counties, WV"	"54999"	"25-29 years"	"25-29"	37	5910	6.26
+	"West Virginia"	"54"	"Unidentified Counties, WV"	"54999"	"30-34 years"	"30-34"	33	4069	8.11
+	"Wisconsin"	"55"	"Dane County, WI"	"55025"	"30-34 years"	"30-34"	18	2408	7.48 (Unreliable)
+	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"15-19 years"	"15-19"	10	877	11.40 (Unreliable)
+	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"20-24 years"	"20-24"	27	3006	8.98
+	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"25-29 years"	"25-29"	29	3920	7.40
+	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"30-34 years"	"30-34"	19	3839	4.95 (Unreliable)
+	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"35-39 years"	"35-39"	18	1683	10.70 (Unreliable)
+	"Wisconsin"	"55"	"Unidentified Counties, WI"	"55999"	"15-19 years"	"15-19"	18	1742	10.33 (Unreliable)
+	"Wisconsin"	"55"	"Unidentified Counties, WI"	"55999"	"20-24 years"	"20-24"	49	7988	6.13
+	"Wisconsin"	"55"	"Unidentified Counties, WI"	"55999"	"25-29 years"	"25-29"	81	14413	5.62
+	"Wisconsin"	"55"	"Unidentified Counties, WI"	"55999"	"30-34 years"	"30-34"	78	12799	6.09
+	"Wisconsin"	"55"	"Unidentified Counties, WI"	"55999"	"35-39 years"	"35-39"	29	5095	5.69
+	"Wyoming"	"56"	"Unidentified Counties, WY"	"56999"	"20-24 years"	"20-24"	11	1760	6.25 (Unreliable)
+	"Wyoming"	"56"	"Unidentified Counties, WY"	"56999"	"25-29 years"	"25-29"	13	2362	5.50 (Unreliable)
+"---"
+"Dataset: Linked Birth / Infant Death Records, 2007-2016"
+"Query Parameters:"
+"Year of Death: 2016"
+"Group By: State; County; Age of Mother"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd.html for more information."
+"---"
+"Query Date: Mar 8, 2019 8:36:16 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS). Linked Birth / Infant Death Records"
+"2007-2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program, on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-current.html on Mar 8, 2019 8:36:16 PM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears instead of death, birth, and rate values when the death value represents 0-9 sub-national events. This"
+"is because the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#Assurance of Confidentiality."
+"2. 'Unreliable' appears for rates when there are fewer than 20 deaths in the numerator. This is because the figure does not meet"
+"the NCHS standard of reliability or precision. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Unreliable."
+"3. 'Missing' appears when county data is not available for a certain year. This occurs because the county did not meet minimum"
+"population standards and thus the data for the county was recoded to the ""Unidentified Counties"" category for the state of the"
+"county. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Missing."
+"4. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#WeightFactors-Totals."
+"5. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Weight Factors."
+"6. County-level data are shown only for counties with populations of 250,000 persons or more. Data for all counties with fewer"
+"than 250,000 persons within a state are combined together under the label ""Unidentified Counties."""
+"7. Dade county, Florida (FIPS code 12025) was renamed Miami-Dade County (FIPS code 12086) effective November 13, 1997. The area"
+"is coded to Miami-Dade (12086) after 2002 and Dade (12025) for earlier years in other linked-birth datasets."
+"8. The independent city of Baltimore, Maryland (FIPS code 24510) is reported separately from Baltimore county (FIPS code 24005)."
+"9. The independent city of St. Louis, Missouri (FIPS code 29510) is reported separately from St. Louis county (FIPS code 29189)."
+"10. Bronx, New York (FIPS code 36005) represents Bronx Borough, New York City."
+"11. Kings county, New York (FIPS code 36047) represents Brooklyn Borough, New York City."
+"12. New York county, New York (FIPS code 36061) represents Manhattan Borough, New York City."
+"13. Queens, New York (FIPS code 36081) represents Queens Borough, New York City."
+"14. Richmond county, New York (FIPS code 36085) represents Staten Island Borough, New York City."
+"15. As a result of population changes the following counties do not have data available for all years.<br/> Before 2014 the data"
+"for the following counties was recoded to the ""Unidentified Counties"" category within the state of the county because they did"
+"not meet minimum population standards. Pinal County, AZ (04021); Marin County, CA (06041); Merced County, CA (06047); Placer"
+"County, CA (06061); San Luis Obispo County, CA (06079); Douglas County, CO (08035); Weld County, CO (08123); Lake County, FL"
+"(12069); Leon County, FL (12073); Osceola County, FL (12097); St. Lucie County, FL (12111); Chatham County, GA (13051); Clayton"
+"County, GA (13063); Hamilton County, IN (18057); Howard County, MD (24027); Kalamazoo County, MI (26077); Ottawa County, MI"
+"(26139); Greene County, MO (29077); Durham County, NC (37063); Cleveland County, OK (40027); Horry County, SC (45051); Lexington"
+"County, SC (45063); Rutherford County, TN (47149); Bell County, TX (48027); Brazoria County, TX (48039); Lubbock County, TX"
+"(48303); Webb County, TX (48479); Williamson County, TX (48491); Davis County, UT (49011); Loudoun County, VA (51107); Kitsap"
+"County, WA (53035); Thurston County, WA (53067). <br/> After 2013 the data for the following counties was recoded to the"
+"""Unidentified Counties"" category within the state of the county because they did not meet minimum population standards. Hinds"
+"County, MS (28049); Mahoning County, OH (39099)."

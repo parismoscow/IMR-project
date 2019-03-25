@@ -1,0 +1,432 @@
+﻿Notes,State,State Code,Birth Weight,Birth Weight Code,Deaths,Births,Death Rate
+,Alabama,1,499 grams or less,1,128,160,800
+,Alabama,1,500 - 999 grams,2,112,485,230.93
+,Alabama,1,1000 - 1499 grams,3,30,533,56.29
+,Alabama,1,1500 - 1999 grams,4,44,1176,37.41
+,Alabama,1,2000 - 2499 grams,5,46,3755,12.25
+,Alabama,1,2500 - 2999 grams,6,69,12383,5.57
+,Alabama,1,3000 - 3499 grams,7,65,22843,2.85
+,Alabama,1,3500 - 3999 grams,8,29,14040,2.07
+Total,Alabama,1,,,534,59151,9.03
+,Alaska,2,500 - 999 grams,2,11,47,234.04
+,Alaska,2,3000 - 3499 grams,7,11,4021,2.74
+Total,Alaska,2,,,58,11209,5.17
+,Arizona,4,499 grams or less,1,107,120,891.67
+,Arizona,4,500 - 999 grams,2,76,370,205.41
+,Arizona,4,1000 - 1499 grams,3,24,520,46.15
+,Arizona,4,1500 - 1999 grams,4,39,1171,33.3
+,Arizona,4,2000 - 2499 grams,5,38,4016,9.46
+,Arizona,4,2500 - 2999 grams,6,46,15092,3.05
+,Arizona,4,3000 - 3499 grams,7,69,33941,2.03
+,Arizona,4,3500 - 3999 grams,8,34,22679,1.5
+,Arizona,4,4000 - 4499 grams,9,10,5666,1.76
+Total,Arizona,4,,,450,84520,5.32
+,Arkansas,5,499 grams or less,1,45,54,833.33
+,Arkansas,5,500 - 999 grams,2,50,232,215.52
+,Arkansas,5,1000 - 1499 grams,3,22,323,68.11
+,Arkansas,5,1500 - 1999 grams,4,27,645,41.86
+,Arkansas,5,2000 - 2499 grams,5,28,2119,13.21
+,Arkansas,5,2500 - 2999 grams,6,50,7446,6.72
+,Arkansas,5,3000 - 3499 grams,7,54,14844,3.64
+,Arkansas,5,3500 - 3999 grams,8,25,9776,2.56
+,Arkansas,5,4000 - 4499 grams,9,11,2388,4.61
+Total,Arkansas,5,,,314,38274,8.2
+,California,6,499 grams or less,1,401,473,847.78
+,California,6,500 - 999 grams,2,481,1957,245.78
+,California,6,1000 - 1499 grams,3,131,2996,43.72
+,California,6,1500 - 1999 grams,4,165,6592,25.03
+,California,6,2000 - 2499 grams,5,172,21500,8
+,California,6,2500 - 2999 grams,6,245,88346,2.77
+,California,6,3000 - 3499 grams,7,276,194674,1.42
+,California,6,3500 - 3999 grams,8,135,132665,1.02
+,California,6,4000 - 4499 grams,9,40,34092,1.17
+Total,California,6,,,2063,488827,4.22
+,Colorado,8,499 grams or less,1,74,85,870.59
+,Colorado,8,500 - 999 grams,2,70,257,272.37
+,Colorado,8,1000 - 1499 grams,3,24,440,54.55
+,Colorado,8,1500 - 1999 grams,4,26,1152,22.57
+,Colorado,8,2000 - 2499 grams,5,29,4041,7.18
+,Colorado,8,2500 - 2999 grams,6,38,14555,2.61
+,Colorado,8,3000 - 3499 grams,7,36,27289,1.32
+,Colorado,8,3500 - 3999 grams,8,15,15376,0.98
+Total,Colorado,8,,,317,66613,4.76
+,Connecticut,9,499 grams or less,1,58,67,865.67
+,Connecticut,9,500 - 999 grams,2,42,174,241.38
+,Connecticut,9,1000 - 1499 grams,3,10,277,36.1
+,Connecticut,9,2000 - 2499 grams,5,11,1737,6.33
+,Connecticut,9,2500 - 2999 grams,6,14,6398,2.19
+,Connecticut,9,3000 - 3499 grams,7,17,13705,1.24
+Total,Connecticut,9,,,172,36015,4.78
+,Delaware,10,499 grams or less,1,26,27,962.96
+,Delaware,10,500 - 999 grams,2,24,86,279.07
+Total,Delaware,10,,,86,10992,7.82
+,District of Columbia,11,499 grams or less,1,18,21,857.14
+,District of Columbia,11,500 - 999 grams,2,18,72,250
+,District of Columbia,11,2500 - 2999 grams,6,11,2015,5.46
+Total,District of Columbia,11,,,71,9858,7.2
+,Florida,12,499 grams or less,1,397,434,914.75
+,Florida,12,500 - 999 grams,2,309,1327,232.86
+,Florida,12,1000 - 1499 grams,3,77,1710,45.03
+,Florida,12,1500 - 1999 grams,4,85,3835,22.16
+,Florida,12,2000 - 2499 grams,5,111,12349,8.99
+,Florida,12,2500 - 2999 grams,6,162,43505,3.72
+,Florida,12,3000 - 3499 grams,7,149,88791,1.68
+,Florida,12,3500 - 3999 grams,8,56,57287,0.98
+,Florida,12,4000 - 4499 grams,9,16,13575,1.18 (Unreliable)
+,Florida,12,Not stated,12,11,20,550.00 (Unreliable)
+Total,Florida,12,,,1382,225022,6.14
+,Georgia,13,499 grams or less,1,260,299,869.57
+,Georgia,13,500 - 999 grams,2,237,954,248.43
+,Georgia,13,1000 - 1499 grams,3,51,1174,43.44
+,Georgia,13,1500 - 1999 grams,4,58,2414,24.03
+,Georgia,13,2000 - 2499 grams,5,87,7906,11
+,Georgia,13,2500 - 2999 grams,6,99,26637,3.72
+,Georgia,13,3000 - 3499 grams,7,100,50420,1.98
+,Georgia,13,3500 - 3999 grams,8,57,31407,1.81
+,Georgia,13,4000 - 4499 grams,9,12,7465,1.61 (Unreliable)
+Total,Georgia,13,,,972,130042,7.47
+,Hawaii,15,499 grams or less,1,24,25,960
+,Hawaii,15,500 - 999 grams,2,28,108,259.26
+,Hawaii,15,2500 - 2999 grams,6,17,3777,4.50 (Unreliable)
+,Hawaii,15,3000 - 3499 grams,7,16,7132,2.24 (Unreliable)
+Total,Hawaii,15,,,109,18059,6.04
+,Idaho,16,499 grams or less,1,36,37,972.97
+,Idaho,16,500 - 999 grams,2,17,77,220.78 (Unreliable)
+,Idaho,16,1000 - 1499 grams,3,11,132,83.33 (Unreliable)
+,Idaho,16,2000 - 2499 grams,5,10,1026,9.75 (Unreliable)
+,Idaho,16,2500 - 2999 grams,6,20,3852,5.19
+,Idaho,16,3000 - 3499 grams,7,17,8898,1.91 (Unreliable)
+Total,Idaho,16,,,131,22482,5.83
+,Illinois,17,499 grams or less,1,289,326,886.5
+,Illinois,17,500 - 999 grams,2,225,843,266.9
+,Illinois,17,1000 - 1499 grams,3,59,1250,47.2
+,Illinois,17,1500 - 1999 grams,4,56,2576,21.74
+,Illinois,17,2000 - 2499 grams,5,84,8042,10.45
+,Illinois,17,2500 - 2999 grams,6,104,28326,3.67
+,Illinois,17,3000 - 3499 grams,7,93,58988,1.58
+,Illinois,17,3500 - 3999 grams,8,53,41519,1.28
+,Illinois,17,4000 - 4499 grams,9,10,10834,0.92 (Unreliable)
+,Illinois,17,Not stated,12,12,32,375.00 (Unreliable)
+Total,Illinois,17,,,985,154445,6.38
+,Indiana,18,499 grams or less,1,132,152,868.42
+,Indiana,18,500 - 999 grams,2,116,449,258.35
+,Indiana,18,1000 - 1499 grams,3,47,636,73.9
+,Indiana,18,1500 - 1999 grams,4,43,1297,33.15
+,Indiana,18,2000 - 2499 grams,5,67,4286,15.63
+,Indiana,18,2500 - 2999 grams,6,81,14599,5.55
+,Indiana,18,3000 - 3499 grams,7,74,31767,2.33
+,Indiana,18,3500 - 3999 grams,8,33,22901,1.44
+,Indiana,18,4000 - 4499 grams,9,12,5980,2.01 (Unreliable)
+Total,Indiana,18,,,614,83091,7.39
+,Iowa,19,499 grams or less,1,50,66,757.58
+,Iowa,19,500 - 999 grams,2,47,164,286.59
+,Iowa,19,1000 - 1499 grams,3,14,247,56.68 (Unreliable)
+,Iowa,19,1500 - 1999 grams,4,23,511,45.01
+,Iowa,19,2000 - 2499 grams,5,18,1681,10.71 (Unreliable)
+,Iowa,19,2500 - 2999 grams,6,16,5976,2.68 (Unreliable)
+,Iowa,19,3000 - 3499 grams,7,40,14404,2.78
+,Iowa,19,3500 - 3999 grams,8,18,12123,1.48 (Unreliable)
+Total,Iowa,19,,,235,39403,5.96
+,Kansas,20,499 grams or less,1,38,45,844.44
+,Kansas,20,500 - 999 grams,2,47,182,258.24
+,Kansas,20,1000 - 1499 grams,3,10,201,49.75 (Unreliable)
+,Kansas,20,1500 - 1999 grams,4,19,533,35.65 (Unreliable)
+,Kansas,20,2000 - 2499 grams,5,28,1689,16.58
+,Kansas,20,2500 - 2999 grams,6,30,6436,4.66
+,Kansas,20,3000 - 3499 grams,7,30,14633,2.05
+,Kansas,20,3500 - 3999 grams,8,20,10878,1.84
+Total,Kansas,20,,,228,38053,5.99
+,Kentucky,21,499 grams or less,1,70,110,636.36
+,Kentucky,21,500 - 999 grams,2,64,283,226.15
+,Kentucky,21,1000 - 1499 grams,3,23,495,46.46
+,Kentucky,21,1500 - 1999 grams,4,36,988,36.44
+,Kentucky,21,2000 - 2499 grams,5,35,3168,11.05
+,Kentucky,21,2500 - 2999 grams,6,55,10176,5.4
+,Kentucky,21,3000 - 3499 grams,7,45,20743,2.17
+,Kentucky,21,3500 - 3999 grams,8,38,14902,2.55
+Total,Kentucky,21,,,376,55449,6.78
+,Louisiana,22,499 grams or less,1,104,142,732.39
+,Louisiana,22,500 - 999 grams,2,106,467,226.98
+,Louisiana,22,1000 - 1499 grams,3,29,618,46.93
+,Louisiana,22,1500 - 1999 grams,4,41,1280,32.03
+,Louisiana,22,2000 - 2499 grams,5,46,4233,10.87
+,Louisiana,22,2500 - 2999 grams,6,62,13710,4.52
+,Louisiana,22,3000 - 3499 grams,7,78,24670,3.16
+,Louisiana,22,3500 - 3999 grams,8,28,14434,1.94
+Total,Louisiana,22,,,504,63178,7.98
+,Maine,23,499 grams or less,1,28,29,965.52
+,Maine,23,500 - 999 grams,2,13,40,325.00 (Unreliable)
+,Maine,23,3000 - 3499 grams,7,11,4549,2.42 (Unreliable)
+Total,Maine,23,,,73,12705,5.75
+,Maryland,24,499 grams or less,1,173,186,930.11
+,Maryland,24,500 - 999 grams,2,99,412,240.29
+,Maryland,24,1000 - 1499 grams,3,23,634,36.28
+,Maryland,24,1500 - 1999 grams,4,31,1183,26.2
+,Maryland,24,2000 - 2499 grams,5,43,3864,11.13
+,Maryland,24,2500 - 2999 grams,6,40,13629,2.93
+,Maryland,24,3000 - 3499 grams,7,40,27954,1.43
+,Maryland,24,3500 - 3999 grams,8,16,19360,0.83 (Unreliable)
+Total,Maryland,24,,,478,73136,6.54
+,Massachusetts,25,499 grams or less,1,80,92,869.57
+,Massachusetts,25,500 - 999 grams,2,83,326,254.6
+,Massachusetts,25,1000 - 1499 grams,3,11,431,25.52 (Unreliable)
+,Massachusetts,25,1500 - 1999 grams,4,15,1077,13.93 (Unreliable)
+,Massachusetts,25,2000 - 2499 grams,5,12,3421,3.51 (Unreliable)
+,Massachusetts,25,2500 - 2999 grams,6,25,12123,2.06
+,Massachusetts,25,3000 - 3499 grams,7,30,26888,1.12
+,Massachusetts,25,3500 - 3999 grams,8,19,20113,0.94 (Unreliable)
+Total,Massachusetts,25,,,281,71317,3.94
+,Michigan,26,499 grams or less,1,191,222,860.36
+,Michigan,26,500 - 999 grams,2,137,626,218.85
+,Michigan,26,1000 - 1499 grams,3,40,849,47.11
+,Michigan,26,1500 - 1999 grams,4,57,1957,29.13
+,Michigan,26,2000 - 2499 grams,5,61,6052,10.08
+,Michigan,26,2500 - 2999 grams,6,92,20538,4.48
+,Michigan,26,3000 - 3499 grams,7,85,41990,2.02
+,Michigan,26,3500 - 3999 grams,8,44,30980,1.42
+,Michigan,26,4000 - 4499 grams,9,15,8621,1.74 (Unreliable)
+Total,Michigan,26,,,727,113315,6.42
+,Minnesota,27,499 grams or less,1,92,105,876.19
+,Minnesota,27,500 - 999 grams,2,70,294,238.1
+,Minnesota,27,1000 - 1499 grams,3,20,403,49.63
+,Minnesota,27,1500 - 1999 grams,4,19,915,20.77 (Unreliable)
+,Minnesota,27,2000 - 2499 grams,5,23,2871,8.01
+,Minnesota,27,2500 - 2999 grams,6,45,10684,4.21
+,Minnesota,27,3000 - 3499 grams,7,49,25748,1.9
+,Minnesota,27,3500 - 3999 grams,8,28,21049,1.33
+Total,Minnesota,27,,,358,69749,5.13
+,Mississippi,28,499 grams or less,1,65,77,844.16
+,Mississippi,28,500 - 999 grams,2,85,331,256.8
+,Mississippi,28,1000 - 1499 grams,3,20,402,49.75
+,Mississippi,28,1500 - 1999 grams,4,20,850,23.53
+,Mississippi,28,2000 - 2499 grams,5,30,2692,11.14
+,Mississippi,28,2500 - 2999 grams,6,44,8711,5.05
+,Mississippi,28,3000 - 3499 grams,7,44,14612,3.01
+,Mississippi,28,3500 - 3999 grams,8,19,8232,2.31 (Unreliable)
+Total,Mississippi,28,,,329,37928,8.67
+,Missouri,29,499 grams or less,1,120,143,839.16
+,Missouri,29,500 - 999 grams,2,84,369,227.64
+,Missouri,29,1000 - 1499 grams,3,25,583,42.88
+,Missouri,29,1500 - 1999 grams,4,38,1262,30.11
+,Missouri,29,2000 - 2499 grams,5,46,4139,11.11
+,Missouri,29,2500 - 2999 grams,6,65,13089,4.97
+,Missouri,29,3000 - 3499 grams,7,55,28175,1.95
+,Missouri,29,3500 - 3999 grams,8,38,20494,1.85
+,Missouri,29,4000 - 4499 grams,9,11,5503,2.00 (Unreliable)
+Total,Missouri,29,,,492,74705,6.59
+,Montana,30,499 grams or less,1,10,10,1000.00 (Unreliable)
+,Montana,30,500 - 999 grams,2,15,51,294.12 (Unreliable)
+,Montana,30,3000 - 3499 grams,7,16,4798,3.33 (Unreliable)
+Total,Montana,30,,,71,12282,5.78
+,Nebraska,31,499 grams or less,1,30,35,857.14
+,Nebraska,31,500 - 999 grams,2,40,115,347.83
+,Nebraska,31,2000 - 2499 grams,5,13,1171,11.10 (Unreliable)
+,Nebraska,31,2500 - 2999 grams,6,19,4298,4.42 (Unreliable)
+,Nebraska,31,3000 - 3499 grams,7,20,10100,1.98
+,Nebraska,31,3500 - 3999 grams,8,10,7865,1.27 (Unreliable)
+Total,Nebraska,31,,,161,26589,6.06
+,Nevada,32,499 grams or less,1,36,43,837.21
+,Nevada,32,500 - 999 grams,2,44,166,265.06
+,Nevada,32,1000 - 1499 grams,3,16,259,61.78 (Unreliable)
+,Nevada,32,1500 - 1999 grams,4,15,611,24.55 (Unreliable)
+,Nevada,32,2000 - 2499 grams,5,18,1991,9.04 (Unreliable)
+,Nevada,32,2500 - 2999 grams,6,28,7379,3.79
+,Nevada,32,3000 - 3499 grams,7,37,14753,2.51
+,Nevada,32,3500 - 3999 grams,8,14,8928,1.57 (Unreliable)
+Total,Nevada,32,,,209,36260,5.76
+,New Hampshire,33,499 grams or less,1,11,12,916.67 (Unreliable)
+Total,New Hampshire,33,,,45,12267,3.67
+,New Jersey,34,499 grams or less,1,112,127,881.89
+,New Jersey,34,500 - 999 grams,2,117,522,224.14
+,New Jersey,34,1000 - 1499 grams,3,31,785,39.49
+,New Jersey,34,1500 - 1999 grams,4,22,1659,13.26
+,New Jersey,34,2000 - 2499 grams,5,23,5188,4.43
+,New Jersey,34,2500 - 2999 grams,6,38,19351,1.96
+,New Jersey,34,3000 - 3499 grams,7,46,40191,1.14
+,New Jersey,34,3500 - 3999 grams,8,17,27048,0.63 (Unreliable)
+Total,New Jersey,34,,,414,102647,4.03
+,New Mexico,35,499 grams or less,1,28,38,736.84
+,New Mexico,35,500 - 999 grams,2,33,126,261.9
+,New Mexico,35,1500 - 1999 grams,4,12,415,28.92 (Unreliable)
+,New Mexico,35,2000 - 2499 grams,5,15,1448,10.36 (Unreliable)
+,New Mexico,35,2500 - 2999 grams,6,19,5473,3.47 (Unreliable)
+,New Mexico,35,3000 - 3499 grams,7,25,10149,2.46
+Total,New Mexico,35,,,152,24692,6.16
+,New York,36,499 grams or less,1,238,259,918.92
+,New York,36,500 - 999 grams,2,281,1213,231.66
+,New York,36,1000 - 1499 grams,3,76,1677,45.32
+,New York,36,1500 - 1999 grams,4,60,3604,16.65
+,New York,36,2000 - 2499 grams,5,68,11849,5.74
+,New York,36,2500 - 2999 grams,6,118,43821,2.69
+,New York,36,3000 - 3499 grams,7,130,91290,1.42
+,New York,36,3500 - 3999 grams,8,61,62094,0.98
+,New York,36,4000 - 4499 grams,9,13,15874,0.82 (Unreliable)
+Total,New York,36,,,1056,234283,4.51
+,North Carolina,37,499 grams or less,1,250,284,880.28
+,North Carolina,37,500 - 999 grams,2,189,773,244.5
+,North Carolina,37,1000 - 1499 grams,3,43,956,44.98
+,North Carolina,37,1500 - 1999 grams,4,61,2234,27.31
+,North Carolina,37,2000 - 2499 grams,5,73,6919,10.55
+,North Carolina,37,2500 - 2999 grams,6,97,22558,4.3
+,North Carolina,37,3000 - 3499 grams,7,99,45475,2.18
+,North Carolina,37,3500 - 3999 grams,8,49,31582,1.55
+Total,North Carolina,37,,,874,120779,7.24
+,North Dakota,38,499 grams or less,1,15,17,882.35 (Unreliable)
+,North Dakota,38,500 - 999 grams,2,15,60,250.00 (Unreliable)
+,North Dakota,38,2500 - 2999 grams,6,11,1698,6.48 (Unreliable)
+Total,North Dakota,38,,,73,11383,6.41
+,Ohio,39,499 grams or less,1,263,277,949.46
+,Ohio,39,500 - 999 grams,2,210,799,262.83
+,Ohio,39,1000 - 1499 grams,3,63,1130,55.75
+,Ohio,39,1500 - 1999 grams,4,55,2370,23.21
+,Ohio,39,2000 - 2499 grams,5,84,7467,11.25
+,Ohio,39,2500 - 2999 grams,6,133,25739,5.17
+,Ohio,39,3000 - 3499 grams,7,122,51827,2.35
+,Ohio,39,3500 - 3999 grams,8,54,37022,1.46
+,Ohio,39,4000 - 4499 grams,9,16,9885,1.62 (Unreliable)
+,Ohio,39,Not stated,12,23,93,247.31
+Total,Ohio,39,,,1026,138085,7.43
+,Oklahoma,40,499 grams or less,1,82,97,845.36
+,Oklahoma,40,500 - 999 grams,2,73,242,301.65
+,Oklahoma,40,1000 - 1499 grams,3,22,375,58.67
+,Oklahoma,40,1500 - 1999 grams,4,22,805,27.33
+,Oklahoma,40,2000 - 2499 grams,5,37,2607,14.19
+,Oklahoma,40,2500 - 2999 grams,6,59,9709,6.08
+,Oklahoma,40,3000 - 3499 grams,7,60,20352,2.95
+,Oklahoma,40,3500 - 3999 grams,8,25,14133,1.77
+Total,Oklahoma,40,,,393,52592,7.47
+,Oregon,41,499 grams or less,1,42,43,976.74
+,Oregon,41,500 - 999 grams,2,55,166,331.33
+,Oregon,41,1500 - 1999 grams,4,21,622,33.76
+,Oregon,41,2000 - 2499 grams,5,16,1918,8.34 (Unreliable)
+,Oregon,41,2500 - 2999 grams,6,21,7028,2.99
+,Oregon,41,3000 - 3499 grams,7,36,17130,2.1
+Total,Oregon,41,,,214,45535,4.7
+,Pennsylvania,42,499 grams or less,1,269,286,940.56
+,Pennsylvania,42,500 - 999 grams,2,170,689,246.73
+,Pennsylvania,42,1000 - 1499 grams,3,37,1045,35.41
+,Pennsylvania,42,1500 - 1999 grams,4,57,2133,26.72
+,Pennsylvania,42,2000 - 2499 grams,5,56,7240,7.73
+,Pennsylvania,42,2500 - 2999 grams,6,76,24856,3.06
+,Pennsylvania,42,3000 - 3499 grams,7,107,52068,2.06
+,Pennsylvania,42,3500 - 3999 grams,8,51,37842,1.35
+,Pennsylvania,42,4000 - 4499 grams,9,15,10513,1.43 (Unreliable)
+,Pennsylvania,42,Not stated,12,16,1081,14.80 (Unreliable)
+Total,Pennsylvania,42,,,857,139409,6.15
+,Rhode Island,44,499 grams or less,1,21,22,954.55
+,Rhode Island,44,500 - 999 grams,2,16,49,326.53 (Unreliable)
+Total,Rhode Island,44,,,60,10798,5.56
+,South Carolina,45,499 grams or less,1,81,104,778.85
+,South Carolina,45,500 - 999 grams,2,92,380,242.11
+,South Carolina,45,1000 - 1499 grams,3,28,552,50.72
+,South Carolina,45,1500 - 1999 grams,4,32,1083,29.55
+,South Carolina,45,2000 - 2499 grams,5,31,3376,9.18
+,South Carolina,45,2500 - 2999 grams,6,58,11201,5.18
+,South Carolina,45,3000 - 3499 grams,7,49,21851,2.24
+,South Carolina,45,3500 - 3999 grams,8,25,14483,1.73
+Total,South Carolina,45,,,402,57342,7.01
+,South Dakota,46,500 - 999 grams,2,11,42,261.90 (Unreliable)
+,South Dakota,46,3000 - 3499 grams,7,13,4535,2.87 (Unreliable)
+Total,South Dakota,46,,,60,12275,4.89
+,Tennessee,47,499 grams or less,1,108,141,765.96
+,Tennessee,47,500 - 999 grams,2,133,433,307.16
+,Tennessee,47,1000 - 1499 grams,3,34,729,46.64
+,Tennessee,47,1500 - 1999 grams,4,47,1518,30.96
+,Tennessee,47,2000 - 2499 grams,5,47,4627,10.16
+,Tennessee,47,2500 - 2999 grams,6,73,15534,4.7
+,Tennessee,47,3000 - 3499 grams,7,95,30739,3.09
+,Tennessee,47,3500 - 3999 grams,8,40,20470,1.95
+,Tennessee,47,4000 - 4499 grams,9,11,5103,2.16 (Unreliable)
+Total,Tennessee,47,,,594,80807,7.35
+,Texas,48,499 grams or less,1,465,677,686.85
+,Texas,48,500 - 999 grams,2,484,2151,225.01
+,Texas,48,1000 - 1499 grams,3,148,2917,50.74
+,Texas,48,1500 - 1999 grams,4,174,6379,27.28
+,Texas,48,2000 - 2499 grams,5,230,21357,10.77
+,Texas,48,2500 - 2999 grams,6,262,77455,3.38
+,Texas,48,3000 - 3499 grams,7,315,159948,1.97
+,Texas,48,3500 - 3999 grams,8,145,100421,1.44
+,Texas,48,4000 - 4499 grams,9,45,22852,1.97
+Total,Texas,48,,,2277,398047,5.72
+,Utah,49,499 grams or less,1,66,68,970.59
+,Utah,49,500 - 999 grams,2,45,179,251.4
+,Utah,49,1000 - 1499 grams,3,18,324,55.56 (Unreliable)
+,Utah,49,1500 - 1999 grams,4,22,705,31.21
+,Utah,49,2000 - 2499 grams,5,22,2355,9.34
+,Utah,49,2500 - 2999 grams,6,41,9500,4.32
+,Utah,49,3000 - 3499 grams,7,43,20376,2.11
+,Utah,49,3500 - 3999 grams,8,13,13425,0.97 (Unreliable)
+Total,Utah,49,,,274,50464,5.43
+Total,Vermont,50,,,20,5756,3.47
+,Virginia,51,499 grams or less,1,129,167,772.46
+,Virginia,51,500 - 999 grams,2,132,579,227.98
+,Virginia,51,1000 - 1499 grams,3,32,792,40.4
+,Virginia,51,1500 - 1999 grams,4,35,1635,21.41
+,Virginia,51,2000 - 2499 grams,5,51,5117,9.97
+,Virginia,51,2500 - 2999 grams,6,70,18526,3.78
+,Virginia,51,3000 - 3499 grams,7,85,38945,2.18
+,Virginia,51,3500 - 3999 grams,8,47,27961,1.68
+,Virginia,51,4000 - 4499 grams,9,10,7465,1.34 (Unreliable)
+Total,Virginia,51,,,599,102460,5.85
+,Washington,53,499 grams or less,1,69,75,920
+,Washington,53,500 - 999 grams,2,77,288,267.36
+,Washington,53,1000 - 1499 grams,3,21,527,39.85
+,Washington,53,1500 - 1999 grams,4,31,1172,26.45
+,Washington,53,2000 - 2499 grams,5,41,3740,10.96
+,Washington,53,2500 - 2999 grams,6,42,14203,2.96
+,Washington,53,3000 - 3499 grams,7,63,33969,1.85
+,Washington,53,3500 - 3999 grams,8,33,27028,1.22
+Total,Washington,53,,,391,90505,4.32
+,West Virginia,54,499 grams or less,1,26,28,928.57
+,West Virginia,54,500 - 999 grams,2,26,90,288.89
+,West Virginia,54,1000 - 1499 grams,3,12,158,75.95 (Unreliable)
+,West Virginia,54,2000 - 2499 grams,5,20,1208,16.56
+,West Virginia,54,2500 - 2999 grams,6,16,3690,4.34 (Unreliable)
+,West Virginia,54,3000 - 3499 grams,7,19,7180,2.65 (Unreliable)
+,West Virginia,54,3500 - 3999 grams,8,10,4938,2.03 (Unreliable)
+Total,West Virginia,54,,,138,19079,7.23
+,Wisconsin,55,499 grams or less,1,92,100,920
+,Wisconsin,55,500 - 999 grams,2,89,293,303.75
+,Wisconsin,55,1000 - 1499 grams,3,25,461,54.23
+,Wisconsin,55,1500 - 1999 grams,4,33,998,33.07
+,Wisconsin,55,2000 - 2499 grams,5,33,3096,10.66
+,Wisconsin,55,2500 - 2999 grams,6,50,10840,4.61
+,Wisconsin,55,3000 - 3499 grams,7,52,24599,2.11
+,Wisconsin,55,3500 - 3999 grams,8,32,19583,1.63
+,Wisconsin,55,4000 - 4499 grams,9,10,5639,1.77 (Unreliable)
+Total,Wisconsin,55,,,420,66615,6.3
+Total,Wyoming,56,,,37,7386,5.01
+Total,,,,,23157,3945875,5.87
+---,,,,,,,
+"Dataset: Linked Birth / Infant Death Records, 2007-2016",,,,,,,
+Query Parameters:,,,,,,,
+Year of Death: 2016,,,,,,,
+Group By: State; Birth Weight,,,,,,,
+Show Totals: True,,,,,,,
+Show Zero Values: False,,,,,,,
+Show Suppressed: False,,,,,,,
+"Calculate Rates Per: 1,000",,,,,,,
+---,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/lbd.html for more information.,,,,,,,
+---,,,,,,,
+"Query Date: Mar 6, 2019 6:42:24 PM",,,,,,,
+---,,,,,,,
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention",,,,,,,
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS). Linked Birth / Infant Death Records",,,,,,,
+"2007-2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative",,,,,,,
+"Program, on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-current.html on Mar 6, 2019 6:42:24 PM",,,,,,,
+---,,,,,,,
+Messages:,,,,,,,
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Births values in those rows are included in the totals. Use Quick",,,,,,,
+Options above to show suppressed rows.,,,,,,,
+---,,,,,,,
+Caveats:,,,,,,,
+"1. 'Suppressed' appears instead of death, birth, and rate values when the death value represents 0-9 sub-national events. This",,,,,,,
+is because the data do not meet the criteria for confidentiality constraints. More information:,,,,,,,
+http://wonder.cdc.gov/wonder/help/lbd.html#Assurance of Confidentiality.,,,,,,,
+2. 'Unreliable' appears for rates when there are fewer than 20 deaths in the numerator. This is because the figure does not meet,,,,,,,
+the NCHS standard of reliability or precision. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Unreliable.,,,,,,,
+3. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:,,,,,,,
+http://wonder.cdc.gov/wonder/help/lbd.html#WeightFactors-Totals.,,,,,,,
+4. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to,,,,,,,
+the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Weight Factors.,,,,,,,

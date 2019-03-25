@@ -1,0 +1,701 @@
+Age of Mother,Age of Mother Code,State,State Code,County,County Code,Deaths,Births,Death Rate
+15-19 years,15-19,Alabama,1,"Unidentified Counties, AL",1999,34,3325,10.23
+15-19 years,15-19,Arizona,4,"Maricopa County, AZ",4013,24,3137,7.65
+15-19 years,15-19,Arkansas,5,"Unidentified Counties, AR",5999,33,2996,11.01
+15-19 years,15-19,California,6,"Los Angeles County, CA",6037,27,5303,5.09
+15-19 years,15-19,California,6,"San Bernardino County, CA",6071,16,1796,8.91 (Unreliable)
+15-19 years,15-19,Florida,12,"Duval County, FL",12031,10,739,13.53 (Unreliable)
+15-19 years,15-19,Florida,12,"Unidentified Counties, FL",12999,29,2213,13.10
+15-19 years,15-19,Georgia,13,"DeKalb County, GA",13089,10,554,18.05 (Unreliable)
+15-19 years,15-19,Georgia,13,"Unidentified Counties, GA",13999,62,5798,10.69
+15-19 years,15-19,Illinois,17,"Cook County, IL",17031,36,3395,10.60
+15-19 years,15-19,Illinois,17,"Unidentified Counties, IL",17999,29,2514,11.54
+15-19 years,15-19,Indiana,18,"Marion County, IN",18097,10,905,11.05 (Unreliable)
+15-19 years,15-19,Indiana,18,"Unidentified Counties, IN",18999,23,3401,6.76
+15-19 years,15-19,Kansas,20,"Unidentified Counties, KS",20999,11,1487,7.40 (Unreliable)
+15-19 years,15-19,Kentucky,21,"Unidentified Counties, KY",21999,45,3541,12.71
+15-19 years,15-19,Louisiana,22,"Unidentified Counties, LA",22999,30,3306,9.07
+15-19 years,15-19,Michigan,26,"Wayne County, MI",26163,12,1381,8.69 (Unreliable)
+15-19 years,15-19,Michigan,26,"Unidentified Counties, MI",26999,23,2383,9.65
+15-19 years,15-19,Minnesota,27,"Unidentified Counties, MN",27999,16,1263,12.67 (Unreliable)
+15-19 years,15-19,Mississippi,28,"Unidentified Counties, MS",28999,28,3326,8.42
+15-19 years,15-19,Missouri,29,"Unidentified Counties, MO",29999,25,2795,8.94
+15-19 years,15-19,Nevada,32,"Clark County, NV",32003,13,1559,8.34 (Unreliable)
+15-19 years,15-19,New Mexico,35,"Unidentified Counties, NM",35999,10,1568,6.38 (Unreliable)
+15-19 years,15-19,New York,36,"Unidentified Counties, NY",36999,16,1984,8.06 (Unreliable)
+15-19 years,15-19,North Carolina,37,"Unidentified Counties, NC",37999,54,4989,10.82
+15-19 years,15-19,North Dakota,38,"Unidentified Counties, ND",38999,10,469,21.32 (Unreliable)
+15-19 years,15-19,Ohio,39,"Cuyahoga County, OH",39035,10,865,11.56 (Unreliable)
+15-19 years,15-19,Ohio,39,"Franklin County, OH",39049,10,926,10.80 (Unreliable)
+15-19 years,15-19,Ohio,39,"Hamilton County, OH",39061,11,581,18.93 (Unreliable)
+15-19 years,15-19,Ohio,39,"Montgomery County, OH",39113,10,434,23.04 (Unreliable)
+15-19 years,15-19,Ohio,39,"Unidentified Counties, OH",39999,41,3956,10.36
+15-19 years,15-19,Oklahoma,40,"Oklahoma County, OK",40109,12,888,13.51 (Unreliable)
+15-19 years,15-19,Oklahoma,40,"Unidentified Counties, OK",40999,26,2527,10.29
+15-19 years,15-19,Pennsylvania,42,"Philadelphia County, PA",42101,14,1308,10.70 (Unreliable)
+15-19 years,15-19,Pennsylvania,42,"Unidentified Counties, PA",42999,20,2199,9.10
+15-19 years,15-19,South Carolina,45,"Unidentified Counties, SC",45999,21,2354,8.92
+15-19 years,15-19,Tennessee,47,"Shelby County, TN",47157,10,1089,9.18 (Unreliable)
+15-19 years,15-19,Tennessee,47,"Unidentified Counties, TN",47999,21,3393,6.19
+15-19 years,15-19,Texas,48,"Bexar County, TX",48029,12,2028,5.92 (Unreliable)
+15-19 years,15-19,Texas,48,"Dallas County, TX",48113,27,3007,8.98
+15-19 years,15-19,Texas,48,"Harris County, TX",48201,35,4792,7.30
+15-19 years,15-19,Texas,48,"Hidalgo County, TX",48215,10,1693,5.91 (Unreliable)
+15-19 years,15-19,Texas,48,"Tarrant County, TX",48439,22,1781,12.35
+15-19 years,15-19,Texas,48,"Unidentified Counties, TX",48999,64,9104,7.03
+15-19 years,15-19,Virginia,51,"Unidentified Counties, VA",51999,30,3065,9.79
+15-19 years,15-19,Washington,53,"Unidentified Counties, WA",53999,10,1597,6.26 (Unreliable)
+15-19 years,15-19,West Virginia,54,"Unidentified Counties, WV",54999,12,1555,7.72 (Unreliable)
+15-19 years,15-19,Wisconsin,55,"Milwaukee County, WI",55079,10,877,11.40 (Unreliable)
+15-19 years,15-19,Wisconsin,55,"Unidentified Counties, WI",55999,18,1742,10.33 (Unreliable)
+20-24 years,20-24,Alabama,1,"Jefferson County, AL",1073,24,1886,12.73
+20-24 years,20-24,Alabama,1,"Mobile County, AL",1097,17,1586,10.72 (Unreliable)
+20-24 years,20-24,Alabama,1,"Unidentified Counties, AL",1999,117,11707,9.99
+20-24 years,20-24,Arizona,4,"Maricopa County, AZ",4013,74,11983,6.18
+20-24 years,20-24,Arizona,4,"Pima County, AZ",4019,13,2674,4.86 (Unreliable)
+20-24 years,20-24,Arizona,4,"Unidentified Counties, AZ",4999,19,4061,4.68 (Unreliable)
+20-24 years,20-24,Arkansas,5,"Pulaski County, AR",5119,13,1377,9.44 (Unreliable)
+20-24 years,20-24,Arkansas,5,"Unidentified Counties, AR",5999,85,9772,8.70
+20-24 years,20-24,California,6,"Fresno County, CA",6019,12,3490,3.44 (Unreliable)
+20-24 years,20-24,California,6,"Kern County, CA",6029,24,3523,6.81
+20-24 years,20-24,California,6,"Los Angeles County, CA",6037,100,20235,4.94
+20-24 years,20-24,California,6,"Orange County, CA",6059,13,4679,2.78 (Unreliable)
+20-24 years,20-24,California,6,"Riverside County, CA",6065,29,6589,4.40
+20-24 years,20-24,California,6,"Sacramento County, CA",6067,21,3585,5.86
+20-24 years,20-24,California,6,"San Bernardino County, CA",6071,43,7135,6.03
+20-24 years,20-24,California,6,"San Diego County, CA",6073,33,7288,4.53
+20-24 years,20-24,California,6,"Stanislaus County, CA",6099,11,1756,6.26 (Unreliable)
+20-24 years,20-24,California,6,"Tulare County, CA",6107,14,1838,7.62 (Unreliable)
+20-24 years,20-24,California,6,"Unidentified Counties, CA",6999,42,6432,6.53
+20-24 years,20-24,Colorado,8,"Arapahoe County, CO",8005,10,1265,7.91 (Unreliable)
+20-24 years,20-24,Colorado,8,"Denver County, CO",8031,10,1544,6.48 (Unreliable)
+20-24 years,20-24,Colorado,8,"El Paso County, CO",8041,15,2226,6.74 (Unreliable)
+20-24 years,20-24,Colorado,8,"Unidentified Counties, CO",8999,14,2812,4.98 (Unreliable)
+20-24 years,20-24,Connecticut,9,"New Haven County, CT",9009,12,1377,8.71 (Unreliable)
+20-24 years,20-24,Delaware,10,"New Castle County, DE",10003,20,1059,18.89
+20-24 years,20-24,District of Columbia,11,"District of Columbia, DC",11001,21,1592,13.19
+20-24 years,20-24,Florida,12,"Broward County, FL",12011,17,3489,4.87 (Unreliable)
+20-24 years,20-24,Florida,12,"Duval County, FL",12031,31,3036,10.21
+20-24 years,20-24,Florida,12,"Hillsborough County, FL",12057,36,3620,9.94
+20-24 years,20-24,Florida,12,"Lee County, FL",12071,11,1509,7.29 (Unreliable)
+20-24 years,20-24,Florida,12,"Marion County, FL",12083,15,970,15.46 (Unreliable)
+20-24 years,20-24,Florida,12,"Miami-Dade County, FL",12086,38,5267,7.21
+20-24 years,20-24,Florida,12,"Orange County, FL",12095,20,3171,6.31
+20-24 years,20-24,Florida,12,"Palm Beach County, FL",12099,23,2462,9.34
+20-24 years,20-24,Florida,12,"Pinellas County, FL",12103,13,1698,7.66 (Unreliable)
+20-24 years,20-24,Florida,12,"Polk County, FL",12105,14,2089,6.70 (Unreliable)
+20-24 years,20-24,Florida,12,"Volusia County, FL",12127,11,1197,9.19 (Unreliable)
+20-24 years,20-24,Florida,12,"Unidentified Counties, FL",12999,59,8278,7.13
+20-24 years,20-24,Georgia,13,"Chatham County, GA",13051,11,917,12.00 (Unreliable)
+20-24 years,20-24,Georgia,13,"Clayton County, GA",13063,14,1015,13.79 (Unreliable)
+20-24 years,20-24,Georgia,13,"DeKalb County, GA",13089,20,1941,10.30
+20-24 years,20-24,Georgia,13,"Fulton County, GA",13121,31,2289,13.54
+20-24 years,20-24,Georgia,13,"Gwinnett County, GA",13135,13,1929,6.74 (Unreliable)
+20-24 years,20-24,Georgia,13,"Unidentified Counties, GA",13999,177,20651,8.57
+20-24 years,20-24,Hawaii,15,"Honolulu County, HI",15003,14,2516,5.56 (Unreliable)
+20-24 years,20-24,Idaho,16,"Unidentified Counties, ID",16999,37,4768,7.76
+20-24 years,20-24,Illinois,17,"Cook County, IL",17031,98,11141,8.80
+20-24 years,20-24,Illinois,17,"Winnebago County, IL",17201,10,943,10.60 (Unreliable)
+20-24 years,20-24,Illinois,17,"Unidentified Counties, IL",17999,80,9526,8.40
+20-24 years,20-24,Indiana,18,"Lake County, IN",18089,10,1307,7.65 (Unreliable)
+20-24 years,20-24,Indiana,18,"Marion County, IN",18097,41,3455,11.87
+20-24 years,20-24,Indiana,18,"Unidentified Counties, IN",18999,105,13120,8.00
+20-24 years,20-24,Iowa,19,"Polk County, IA",19153,13,1251,10.39 (Unreliable)
+20-24 years,20-24,Iowa,19,"Unidentified Counties, IA",19999,44,6916,6.36
+20-24 years,20-24,Kansas,20,"Sedgwick County, KS",20173,22,1762,12.49
+20-24 years,20-24,Kansas,20,"Unidentified Counties, KS",20999,39,6179,6.31
+20-24 years,20-24,Kentucky,21,"Unidentified Counties, KY",21999,106,12025,8.81
+20-24 years,20-24,Louisiana,22,"Caddo Parish, LA",22017,12,976,12.30 (Unreliable)
+20-24 years,20-24,Louisiana,22,"East Baton Rouge Parish, LA",22033,23,1480,15.54
+20-24 years,20-24,Louisiana,22,"Unidentified Counties, LA",22999,98,12219,8.02
+20-24 years,20-24,Maine,23,"Unidentified Counties, ME",23999,11,2203,4.99 (Unreliable)
+20-24 years,20-24,Maryland,24,"Baltimore County, MD",24005,10,1465,6.83 (Unreliable)
+20-24 years,20-24,Maryland,24,"Montgomery County, MD",24031,11,1242,8.86 (Unreliable)
+20-24 years,20-24,Maryland,24,"Prince George's County, MD",24033,18,2220,8.11 (Unreliable)
+20-24 years,20-24,Maryland,24,"Baltimore city, MD",24510,15,2010,7.46 (Unreliable)
+20-24 years,20-24,Maryland,24,"Unidentified Counties, MD",24999,31,3449,8.99
+20-24 years,20-24,Massachusetts,25,"Worcester County, MA",25027,12,1270,9.45 (Unreliable)
+20-24 years,20-24,Michigan,26,"Genesee County, MI",26049,14,1386,10.10 (Unreliable)
+20-24 years,20-24,Michigan,26,"Kent County, MI",26081,13,1674,7.77 (Unreliable)
+20-24 years,20-24,Michigan,26,"Oakland County, MI",26125,17,1703,9.98 (Unreliable)
+20-24 years,20-24,Michigan,26,"Wayne County, MI",26163,52,5787,8.99
+20-24 years,20-24,Michigan,26,"Unidentified Counties, MI",26999,69,9757,7.07
+20-24 years,20-24,Minnesota,27,"Hennepin County, MN",27053,23,1846,12.46
+20-24 years,20-24,Minnesota,27,"Unidentified Counties, MN",27999,36,6016,5.98
+20-24 years,20-24,Mississippi,28,"Unidentified Counties, MS",28999,123,11473,10.72
+20-24 years,20-24,Missouri,29,"Jackson County, MO",29095,22,2181,10.09
+20-24 years,20-24,Missouri,29,"St. Louis County, MO",29189,12,1899,6.32 (Unreliable)
+20-24 years,20-24,Missouri,29,"St. Louis city, MO",29510,12,1031,11.64 (Unreliable)
+20-24 years,20-24,Missouri,29,"Unidentified Counties, MO",29999,108,11046,9.78
+20-24 years,20-24,Montana,30,"Unidentified Counties, MT",30999,20,2707,7.39
+20-24 years,20-24,Nebraska,31,"Unidentified Counties, NE",31999,19,2879,6.60 (Unreliable)
+20-24 years,20-24,Nevada,32,"Clark County, NV",32003,43,6000,7.17
+20-24 years,20-24,New Jersey,34,"Essex County, NJ",34013,17,1692,10.05 (Unreliable)
+20-24 years,20-24,New Jersey,34,"Unidentified Counties, NJ",34999,13,1105,11.76 (Unreliable)
+20-24 years,20-24,New Mexico,35,"Bernalillo County, NM",35001,18,1689,10.66 (Unreliable)
+20-24 years,20-24,New Mexico,35,"Unidentified Counties, NM",35999,24,4838,4.96
+20-24 years,20-24,New York,36,"Bronx County, NY",36005,18,4384,4.11 (Unreliable)
+20-24 years,20-24,New York,36,"Erie County, NY",36029,16,1669,9.59 (Unreliable)
+20-24 years,20-24,New York,36,"Kings County, NY",36047,23,7280,3.16
+20-24 years,20-24,New York,36,"Monroe County, NY",36055,11,1311,8.39 (Unreliable)
+20-24 years,20-24,New York,36,"Onondaga County, NY",36067,13,929,13.99 (Unreliable)
+20-24 years,20-24,New York,36,"Queens County, NY",36081,21,3991,5.26
+20-24 years,20-24,New York,36,"Unidentified Counties, NY",36999,55,8660,6.35
+20-24 years,20-24,North Carolina,37,"Cumberland County, NC",37051,13,1761,7.38 (Unreliable)
+20-24 years,20-24,North Carolina,37,"Forsyth County, NC",37067,10,903,11.07 (Unreliable)
+20-24 years,20-24,North Carolina,37,"Guilford County, NC",37081,11,1297,8.48 (Unreliable)
+20-24 years,20-24,North Carolina,37,"Mecklenburg County, NC",37119,24,2314,10.37
+20-24 years,20-24,North Carolina,37,"Wake County, NC",37183,14,1508,9.28 (Unreliable)
+20-24 years,20-24,North Carolina,37,"Unidentified Counties, NC",37999,158,18499,8.54
+20-24 years,20-24,North Dakota,38,"Unidentified Counties, ND",38999,12,2322,5.17 (Unreliable)
+20-24 years,20-24,Ohio,39,"Cuyahoga County, OH",39035,39,3207,12.16
+20-24 years,20-24,Ohio,39,"Franklin County, OH",39049,44,3503,12.56
+20-24 years,20-24,Ohio,39,"Hamilton County, OH",39061,19,2129,8.92 (Unreliable)
+20-24 years,20-24,Ohio,39,"Lucas County, OH",39095,15,1382,10.85 (Unreliable)
+20-24 years,20-24,Ohio,39,"Summit County, OH",39153,13,1247,10.43 (Unreliable)
+20-24 years,20-24,Ohio,39,"Unidentified Counties, OH",39999,121,15480,7.82
+20-24 years,20-24,Oklahoma,40,"Oklahoma County, OK",40109,30,2841,10.56
+20-24 years,20-24,Oklahoma,40,"Tulsa County, OK",40143,29,2310,12.55
+20-24 years,20-24,Oklahoma,40,"Unidentified Counties, OK",40999,62,8504,7.29
+20-24 years,20-24,Oregon,41,"Unidentified Counties, OR",41999,26,3930,6.62
+20-24 years,20-24,Pennsylvania,42,"Allegheny County, PA",42003,16,1809,8.84 (Unreliable)
+20-24 years,20-24,Pennsylvania,42,"Lancaster County, PA",42071,11,1459,7.54 (Unreliable)
+20-24 years,20-24,Pennsylvania,42,"Philadelphia County, PA",42101,53,4658,11.38
+20-24 years,20-24,Pennsylvania,42,"Unidentified Counties, PA",42999,65,9304,6.99
+20-24 years,20-24,South Carolina,45,"Greenville County, SC",45045,10,1240,8.06 (Unreliable)
+20-24 years,20-24,South Carolina,45,"Unidentified Counties, SC",45999,81,8183,9.90
+20-24 years,20-24,South Dakota,46,"Unidentified Counties, SD",46999,15,2616,5.73 (Unreliable)
+20-24 years,20-24,Tennessee,47,"Davidson County, TN",47037,25,1764,14.17
+20-24 years,20-24,Tennessee,47,"Hamilton County, TN",47065,14,939,14.91 (Unreliable)
+20-24 years,20-24,Tennessee,47,"Knox County, TN",47093,12,1038,11.56 (Unreliable)
+20-24 years,20-24,Tennessee,47,"Shelby County, TN",47157,32,3356,9.54
+20-24 years,20-24,Tennessee,47,"Unidentified Counties, TN",47999,93,12528,7.42
+20-24 years,20-24,Texas,48,"Bell County, TX",48027,21,1955,10.74
+20-24 years,20-24,Texas,48,"Bexar County, TX",48029,38,6723,5.65
+20-24 years,20-24,Texas,48,"Dallas County, TX",48113,52,9018,5.77
+20-24 years,20-24,Texas,48,"El Paso County, TX",48141,10,3942,2.54 (Unreliable)
+20-24 years,20-24,Texas,48,"Harris County, TX",48201,109,15192,7.17
+20-24 years,20-24,Texas,48,"Hidalgo County, TX",48215,19,4270,4.45 (Unreliable)
+20-24 years,20-24,Texas,48,"Jefferson County, TX",48245,12,1039,11.55 (Unreliable)
+20-24 years,20-24,Texas,48,"Montgomery County, TX",48339,18,1530,11.76 (Unreliable)
+20-24 years,20-24,Texas,48,"Nueces County, TX",48355,12,1285,9.34 (Unreliable)
+20-24 years,20-24,Texas,48,"Tarrant County, TX",48439,33,6121,5.39
+20-24 years,20-24,Texas,48,"Travis County, TX",48453,12,2471,4.86 (Unreliable)
+20-24 years,20-24,Texas,48,"Unidentified Counties, TX",48999,186,28088,6.62
+20-24 years,20-24,Utah,49,"Salt Lake County, UT",49035,13,3305,3.93 (Unreliable)
+20-24 years,20-24,Utah,49,"Utah County, UT",49049,15,2531,5.93 (Unreliable)
+20-24 years,20-24,Utah,49,"Unidentified Counties, UT",49999,18,3745,4.81 (Unreliable)
+20-24 years,20-24,Virginia,51,"Unidentified Counties, VA",51999,102,13632,7.48
+20-24 years,20-24,Washington,53,"King County, WA",53033,18,2423,7.43 (Unreliable)
+20-24 years,20-24,Washington,53,"Pierce County, WA",53053,12,2563,4.68 (Unreliable)
+20-24 years,20-24,Washington,53,"Unidentified Counties, WA",53999,34,5619,6.05
+20-24 years,20-24,West Virginia,54,"Unidentified Counties, WV",54999,45,5541,8.12
+20-24 years,20-24,Wisconsin,55,"Milwaukee County, WI",55079,27,3006,8.98
+20-24 years,20-24,Wisconsin,55,"Unidentified Counties, WI",55999,49,7988,6.13
+20-24 years,20-24,Wyoming,56,"Unidentified Counties, WY",56999,11,1760,6.25 (Unreliable)
+25-29 years,25-29,Alabama,1,"Jefferson County, AL",1073,26,2650,9.81
+25-29 years,25-29,Alabama,1,"Madison County, AL",1089,10,1360,7.35 (Unreliable)
+25-29 years,25-29,Alabama,1,"Mobile County, AL",1097,12,1751,6.85 (Unreliable)
+25-29 years,25-29,Alabama,1,"Unidentified Counties, AL",1999,97,12888,7.53
+25-29 years,25-29,Arizona,4,"Maricopa County, AZ",4013,80,16024,4.99
+25-29 years,25-29,Arizona,4,"Pima County, AZ",4019,17,3486,4.88 (Unreliable)
+25-29 years,25-29,Arizona,4,"Unidentified Counties, AZ",4999,28,4447,6.30
+25-29 years,25-29,Arkansas,5,"Pulaski County, AR",5119,18,1579,11.40 (Unreliable)
+25-29 years,25-29,Arkansas,5,"Unidentified Counties, AR",5999,78,10303,7.57
+25-29 years,25-29,California,6,"Alameda County, CA",6001,24,4421,5.43
+25-29 years,25-29,California,6,"Fresno County, CA",6019,28,4593,6.10
+25-29 years,25-29,California,6,"Kern County, CA",6029,18,4135,4.35 (Unreliable)
+25-29 years,25-29,California,6,"Los Angeles County, CA",6037,122,31434,3.88
+25-29 years,25-29,California,6,"Orange County, CA",6059,27,9341,2.89
+25-29 years,25-29,California,6,"Riverside County, CA",6065,39,9100,4.29
+25-29 years,25-29,California,6,"Sacramento County, CA",6067,16,5721,2.80 (Unreliable)
+25-29 years,25-29,California,6,"San Bernardino County, CA",6071,57,9409,6.06
+25-29 years,25-29,California,6,"San Diego County, CA",6073,40,11262,3.55
+25-29 years,25-29,California,6,"San Joaquin County, CA",6077,17,3157,5.38 (Unreliable)
+25-29 years,25-29,California,6,"Santa Clara County, CA",6085,18,5155,3.49 (Unreliable)
+25-29 years,25-29,California,6,"Solano County, CA",6095,14,1542,9.08 (Unreliable)
+25-29 years,25-29,California,6,"Stanislaus County, CA",6099,14,2437,5.74 (Unreliable)
+25-29 years,25-29,California,6,"Unidentified Counties, CA",6999,35,9060,3.86
+25-29 years,25-29,Colorado,8,"Adams County, CO",8001,11,2000,5.50 (Unreliable)
+25-29 years,25-29,Colorado,8,"Arapahoe County, CO",8005,13,2229,5.83 (Unreliable)
+25-29 years,25-29,Colorado,8,"Denver County, CO",8031,11,2402,4.58 (Unreliable)
+25-29 years,25-29,Colorado,8,"El Paso County, CO",8041,11,2985,3.69 (Unreliable)
+25-29 years,25-29,Colorado,8,"Unidentified Counties, CO",8999,14,3707,3.78 (Unreliable)
+25-29 years,25-29,Connecticut,9,"Hartford County, CT",9003,15,2593,5.78 (Unreliable)
+25-29 years,25-29,Connecticut,9,"Unidentified Counties, CT",9999,11,1373,8.01 (Unreliable)
+25-29 years,25-29,Delaware,10,"New Castle County, DE",10003,19,1869,10.17 (Unreliable)
+25-29 years,25-29,District of Columbia,11,"District of Columbia, DC",11001,13,2086,6.23 (Unreliable)
+25-29 years,25-29,Florida,12,"Broward County, FL",12011,37,6194,5.97
+25-29 years,25-29,Florida,12,"Duval County, FL",12031,32,4151,7.71
+25-29 years,25-29,Florida,12,"Escambia County, FL",12033,10,1267,7.89 (Unreliable)
+25-29 years,25-29,Florida,12,"Hillsborough County, FL",12057,40,5093,7.85
+25-29 years,25-29,Florida,12,"Lee County, FL",12071,13,2003,6.49 (Unreliable)
+25-29 years,25-29,Florida,12,"Marion County, FL",12083,12,1120,10.71 (Unreliable)
+25-29 years,25-29,Florida,12,"Miami-Dade County, FL",12086,44,9219,4.77
+25-29 years,25-29,Florida,12,"Orange County, FL",12095,37,4793,7.72
+25-29 years,25-29,Florida,12,"Palm Beach County, FL",12099,17,4151,4.10 (Unreliable)
+25-29 years,25-29,Florida,12,"Pinellas County, FL",12103,15,2398,6.26 (Unreliable)
+25-29 years,25-29,Florida,12,"Polk County, FL",12105,13,2459,5.29 (Unreliable)
+25-29 years,25-29,Florida,12,"Volusia County, FL",12127,10,1643,6.09 (Unreliable)
+25-29 years,25-29,Florida,12,"Unidentified Counties, FL",12999,51,10365,4.92
+25-29 years,25-29,Georgia,13,"Clayton County, GA",13063,10,1165,8.58 (Unreliable)
+25-29 years,25-29,Georgia,13,"Cobb County, GA",13067,13,2596,5.01 (Unreliable)
+25-29 years,25-29,Georgia,13,"Fulton County, GA",13121,16,3337,4.79 (Unreliable)
+25-29 years,25-29,Georgia,13,"Gwinnett County, GA",13135,20,3050,6.56
+25-29 years,25-29,Georgia,13,"Unidentified Counties, GA",13999,170,23800,7.14
+25-29 years,25-29,Hawaii,15,"Honolulu County, HI",15003,17,3685,4.61 (Unreliable)
+25-29 years,25-29,Hawaii,15,"Unidentified Counties, HI",15999,10,1421,7.04 (Unreliable)
+25-29 years,25-29,Idaho,16,"Unidentified Counties, ID",16999,28,5634,4.97
+25-29 years,25-29,Illinois,17,"Cook County, IL",17031,120,16411,7.31
+25-29 years,25-29,Illinois,17,"DuPage County, IL",17043,11,2733,4.02 (Unreliable)
+25-29 years,25-29,Illinois,17,"Kane County, IL",17089,15,1760,8.52 (Unreliable)
+25-29 years,25-29,Illinois,17,"Will County, IL",17197,18,2130,8.45 (Unreliable)
+25-29 years,25-29,Illinois,17,"Unidentified Counties, IL",17999,55,13685,4.02
+25-29 years,25-29,Indiana,18,"Allen County, IN",18003,19,1721,11.04 (Unreliable)
+25-29 years,25-29,Indiana,18,"Lake County, IN",18089,13,1710,7.60 (Unreliable)
+25-29 years,25-29,Indiana,18,"Marion County, IN",18097,22,4290,5.13
+25-29 years,25-29,Indiana,18,"Unidentified Counties, IN",18999,106,16662,6.36
+25-29 years,25-29,Iowa,19,"Polk County, IA",19153,14,2167,6.46 (Unreliable)
+25-29 years,25-29,Iowa,19,"Unidentified Counties, IA",19999,61,11156,5.47
+25-29 years,25-29,Kansas,20,"Johnson County, KS",20091,10,2055,4.87 (Unreliable)
+25-29 years,25-29,Kansas,20,"Sedgwick County, KS",20173,22,2270,9.69
+25-29 years,25-29,Kansas,20,"Unidentified Counties, KS",20999,43,7491,5.74
+25-29 years,25-29,Kentucky,21,"Jefferson County, KY",21111,29,3019,9.61
+25-29 years,25-29,Kentucky,21,"Unidentified Counties, KY",21999,73,12940,5.64
+25-29 years,25-29,Louisiana,22,"Caddo Parish, LA",22017,13,1030,12.62 (Unreliable)
+25-29 years,25-29,Louisiana,22,"East Baton Rouge Parish, LA",22033,20,1767,11.32
+25-29 years,25-29,Louisiana,22,"Jefferson Parish, LA",22051,11,1811,6.07 (Unreliable)
+25-29 years,25-29,Louisiana,22,"Orleans Parish, LA",22071,13,1377,9.44 (Unreliable)
+25-29 years,25-29,Louisiana,22,"Unidentified Counties, LA",22999,97,13753,7.05
+25-29 years,25-29,Maine,23,"Unidentified Counties, ME",23999,12,3278,3.66 (Unreliable)
+25-29 years,25-29,Maryland,24,"Anne Arundel County, MD",24003,21,1982,10.60
+25-29 years,25-29,Maryland,24,"Baltimore County, MD",24005,15,2827,5.31 (Unreliable)
+25-29 years,25-29,Maryland,24,"Montgomery County, MD",24031,10,2760,3.62 (Unreliable)
+25-29 years,25-29,Maryland,24,"Prince George's County, MD",24033,24,3427,7.00
+25-29 years,25-29,Maryland,24,"Baltimore city, MD",24510,23,2409,9.55
+25-29 years,25-29,Maryland,24,"Unidentified Counties, MD",24999,40,5811,6.88
+25-29 years,25-29,Massachusetts,25,"Essex County, MA",25009,10,2137,4.68 (Unreliable)
+25-29 years,25-29,Massachusetts,25,"Middlesex County, MA",25017,18,3487,5.16 (Unreliable)
+25-29 years,25-29,Massachusetts,25,"Suffolk County, MA",25025,13,2245,5.79 (Unreliable)
+25-29 years,25-29,Massachusetts,25,"Worcester County, MA",25027,10,2477,4.04 (Unreliable)
+25-29 years,25-29,Michigan,26,"Genesee County, MI",26049,12,1528,7.85 (Unreliable)
+25-29 years,25-29,Michigan,26,"Kent County, MI",26081,11,2802,3.93 (Unreliable)
+25-29 years,25-29,Michigan,26,"Macomb County, MI",26099,19,3031,6.27 (Unreliable)
+25-29 years,25-29,Michigan,26,"Oakland County, MI",26125,19,3679,5.16 (Unreliable)
+25-29 years,25-29,Michigan,26,"Wayne County, MI",26163,70,7213,9.70
+25-29 years,25-29,Michigan,26,"Unidentified Counties, MI",26999,74,13068,5.66
+25-29 years,25-29,Minnesota,27,"Hennepin County, MN",27053,22,4208,5.23
+25-29 years,25-29,Minnesota,27,"Ramsey County, MN",27123,13,2282,5.70 (Unreliable)
+25-29 years,25-29,Minnesota,27,"Unidentified Counties, MN",27999,48,11975,4.01
+25-29 years,25-29,Mississippi,28,"Unidentified Counties, MS",28999,93,11726,7.93
+25-29 years,25-29,Missouri,29,"Greene County, MO",29077,12,1164,10.31 (Unreliable)
+25-29 years,25-29,Missouri,29,"Jackson County, MO",29095,16,2900,5.52 (Unreliable)
+25-29 years,25-29,Missouri,29,"St. Louis County, MO",29189,27,3164,8.53
+25-29 years,25-29,Missouri,29,"Unidentified Counties, MO",29999,66,13409,4.92
+25-29 years,25-29,Montana,30,"Unidentified Counties, MT",30999,15,3860,3.89 (Unreliable)
+25-29 years,25-29,Nebraska,31,"Douglas County, NE",31055,21,2696,7.79
+25-29 years,25-29,Nebraska,31,"Unidentified Counties, NE",31999,23,4718,4.87
+25-29 years,25-29,Nevada,32,"Clark County, NV",32003,40,8040,4.98
+25-29 years,25-29,Nevada,32,"Washoe County, NV",32031,11,1631,6.74 (Unreliable)
+25-29 years,25-29,New Jersey,34,"Camden County, NJ",34007,16,1687,9.48 (Unreliable)
+25-29 years,25-29,New Jersey,34,"Essex County, NJ",34013,12,2602,4.61 (Unreliable)
+25-29 years,25-29,New Jersey,34,"Middlesex County, NJ",34023,11,2501,4.40 (Unreliable)
+25-29 years,25-29,New Jersey,34,"Ocean County, NJ",34029,10,2528,3.96 (Unreliable)
+25-29 years,25-29,New Jersey,34,"Unidentified Counties, NJ",34999,12,1861,6.45 (Unreliable)
+25-29 years,25-29,New Mexico,35,"Bernalillo County, NM",35001,10,2216,4.51 (Unreliable)
+25-29 years,25-29,New Mexico,35,"Unidentified Counties, NM",35999,32,5137,6.23
+25-29 years,25-29,New York,36,"Bronx County, NY",36005,23,6264,3.67
+25-29 years,25-29,New York,36,"Erie County, NY",36029,19,2917,6.51 (Unreliable)
+25-29 years,25-29,New York,36,"Kings County, NY",36047,36,10904,3.30
+25-29 years,25-29,New York,36,"Monroe County, NY",36055,18,2287,7.87 (Unreliable)
+25-29 years,25-29,New York,36,"Onondaga County, NY",36067,10,1516,6.60 (Unreliable)
+25-29 years,25-29,New York,36,"Queens County, NY",36081,28,8672,3.23
+25-29 years,25-29,New York,36,"Suffolk County, NY",36103,14,3771,3.71 (Unreliable)
+25-29 years,25-29,New York,36,"Unidentified Counties, NY",36999,68,12333,5.51
+25-29 years,25-29,North Carolina,37,"Cumberland County, NC",37051,16,1734,9.23 (Unreliable)
+25-29 years,25-29,North Carolina,37,"Forsyth County, NC",37067,10,1385,7.22 (Unreliable)
+25-29 years,25-29,North Carolina,37,"Guilford County, NC",37081,18,1917,9.39 (Unreliable)
+25-29 years,25-29,North Carolina,37,"Mecklenburg County, NC",37119,23,4060,5.67
+25-29 years,25-29,North Carolina,37,"Wake County, NC",37183,14,3388,4.13 (Unreliable)
+25-29 years,25-29,North Carolina,37,"Unidentified Counties, NC",37999,136,22395,6.07
+25-29 years,25-29,North Dakota,38,"Unidentified Counties, ND",38999,28,4063,6.89
+25-29 years,25-29,Ohio,39,"Butler County, OH",39017,11,1388,7.93 (Unreliable)
+25-29 years,25-29,Ohio,39,"Cuyahoga County, OH",39035,30,4240,7.08
+25-29 years,25-29,Ohio,39,"Franklin County, OH",39049,57,5721,9.96
+25-29 years,25-29,Ohio,39,"Hamilton County, OH",39061,33,3216,10.26
+25-29 years,25-29,Ohio,39,"Stark County, OH",39151,14,1400,10.00 (Unreliable)
+25-29 years,25-29,Ohio,39,"Summit County, OH",39153,17,1813,9.38 (Unreliable)
+25-29 years,25-29,Ohio,39,"Unidentified Counties, OH",39999,130,20142,6.45
+25-29 years,25-29,Oklahoma,40,"Oklahoma County, OK",40109,31,3689,8.40
+25-29 years,25-29,Oklahoma,40,"Tulsa County, OK",40143,25,2933,8.52
+25-29 years,25-29,Oklahoma,40,"Unidentified Counties, OK",40999,62,8723,7.11
+25-29 years,25-29,Oregon,41,"Multnomah County, OR",41051,11,2113,5.21 (Unreliable)
+25-29 years,25-29,Oregon,41,"Unidentified Counties, OR",41999,30,5514,5.44
+25-29 years,25-29,Pennsylvania,42,"Allegheny County, PA",42003,14,3781,3.70 (Unreliable)
+25-29 years,25-29,Pennsylvania,42,"Delaware County, PA",42045,13,1698,7.66 (Unreliable)
+25-29 years,25-29,Pennsylvania,42,"Lehigh County, PA",42077,10,1286,7.78 (Unreliable)
+25-29 years,25-29,Pennsylvania,42,"Montgomery County, PA",42091,14,2161,6.48 (Unreliable)
+25-29 years,25-29,Pennsylvania,42,"Philadelphia County, PA",42101,47,6191,7.59
+25-29 years,25-29,Pennsylvania,42,"York County, PA",42133,10,1609,6.22 (Unreliable)
+25-29 years,25-29,Pennsylvania,42,"Unidentified Counties, PA",42999,65,13425,4.84
+25-29 years,25-29,Rhode Island,44,"Providence County, RI",44007,12,2139,5.61 (Unreliable)
+25-29 years,25-29,South Carolina,45,"Charleston County, SC",45019,10,1320,7.58 (Unreliable)
+25-29 years,25-29,South Carolina,45,"Greenville County, SC",45045,10,1876,5.33 (Unreliable)
+25-29 years,25-29,South Carolina,45,"Richland County, SC",45079,13,1496,8.69 (Unreliable)
+25-29 years,25-29,South Carolina,45,"Unidentified Counties, SC",45999,65,9778,6.65
+25-29 years,25-29,South Dakota,46,"Unidentified Counties, SD",46999,24,4167,5.76
+25-29 years,25-29,Tennessee,47,"Davidson County, TN",47037,19,2895,6.56 (Unreliable)
+25-29 years,25-29,Tennessee,47,"Rutherford County, TN",47149,12,1306,9.19 (Unreliable)
+25-29 years,25-29,Tennessee,47,"Shelby County, TN",47157,37,3930,9.41
+25-29 years,25-29,Tennessee,47,"Unidentified Counties, TN",47999,91,13559,6.71
+25-29 years,25-29,Texas,48,"Bell County, TX",48027,11,1975,5.57 (Unreliable)
+25-29 years,25-29,Texas,48,"Bexar County, TX",48029,54,8182,6.60
+25-29 years,25-29,Texas,48,"Dallas County, TX",48113,49,11426,4.29
+25-29 years,25-29,Texas,48,"Denton County, TX",48121,20,2934,6.82
+25-29 years,25-29,Texas,48,"El Paso County, TX",48141,17,3783,4.49 (Unreliable)
+25-29 years,25-29,Texas,48,"Fort Bend County, TX",48157,16,2560,6.25 (Unreliable)
+25-29 years,25-29,Texas,48,"Harris County, TX",48201,130,20286,6.41
+25-29 years,25-29,Texas,48,"Hidalgo County, TX",48215,16,4150,3.86 (Unreliable)
+25-29 years,25-29,Texas,48,"Jefferson County, TX",48245,11,1104,9.96 (Unreliable)
+25-29 years,25-29,Texas,48,"Tarrant County, TX",48439,54,8606,6.27
+25-29 years,25-29,Texas,48,"Travis County, TX",48453,16,3893,4.11 (Unreliable)
+25-29 years,25-29,Texas,48,"Unidentified Counties, TX",48999,162,30375,5.33
+25-29 years,25-29,Utah,49,"Davis County, UT",49011,12,2025,5.93 (Unreliable)
+25-29 years,25-29,Utah,49,"Salt Lake County, UT",49035,28,5639,4.97
+25-29 years,25-29,Utah,49,"Utah County, UT",49049,28,4370,6.41
+25-29 years,25-29,Utah,49,"Unidentified Counties, UT",49999,19,4983,3.81 (Unreliable)
+25-29 years,25-29,Virginia,51,"Fairfax County, VA",51059,12,3151,3.81 (Unreliable)
+25-29 years,25-29,Virginia,51,"Virginia Beach city, VA",51810,10,1796,5.57 (Unreliable)
+25-29 years,25-29,Virginia,51,"Unidentified Counties, VA",51999,129,18672,6.91
+25-29 years,25-29,Washington,53,"King County, WA",53033,25,6014,4.16
+25-29 years,25-29,Washington,53,"Pierce County, WA",53053,11,3743,2.94 (Unreliable)
+25-29 years,25-29,Washington,53,"Snohomish County, WA",53061,16,3057,5.23 (Unreliable)
+25-29 years,25-29,Washington,53,"Unidentified Counties, WA",53999,38,7804,4.87
+25-29 years,25-29,West Virginia,54,"Unidentified Counties, WV",54999,37,5910,6.26
+25-29 years,25-29,Wisconsin,55,"Milwaukee County, WI",55079,29,3920,7.40
+25-29 years,25-29,Wisconsin,55,"Unidentified Counties, WI",55999,81,14413,5.62
+25-29 years,25-29,Wyoming,56,"Unidentified Counties, WY",56999,13,2362,5.50 (Unreliable)
+30-34 years,30-34,Alabama,1,"Jefferson County, AL",1073,25,2384,10.49
+30-34 years,30-34,Alabama,1,"Mobile County, AL",1097,14,1172,11.95 (Unreliable)
+30-34 years,30-34,Alabama,1,"Unidentified Counties, AL",1999,81,8720,9.29
+30-34 years,30-34,Arizona,4,"Maricopa County, AZ",4013,67,14386,4.66
+30-34 years,30-34,Arizona,4,"Pima County, AZ",4019,10,2893,3.46 (Unreliable)
+30-34 years,30-34,Arizona,4,"Unidentified Counties, AZ",4999,11,3050,3.61 (Unreliable)
+30-34 years,30-34,Arkansas,5,"Unidentified Counties, AR",5999,53,6675,7.94
+30-34 years,30-34,California,6,"Alameda County, CA",6001,19,7151,2.66 (Unreliable)
+30-34 years,30-34,California,6,"Contra Costa County, CA",6013,12,4205,2.85 (Unreliable)
+30-34 years,30-34,California,6,"Fresno County, CA",6019,12,3743,3.21 (Unreliable)
+30-34 years,30-34,California,6,"Kern County, CA",6029,12,3192,3.76 (Unreliable)
+30-34 years,30-34,California,6,"Los Angeles County, CA",6037,132,36526,3.61
+30-34 years,30-34,California,6,"Orange County, CA",6059,37,12882,2.87
+30-34 years,30-34,California,6,"Riverside County, CA",6065,38,8284,4.59
+30-34 years,30-34,California,6,"Sacramento County, CA",6067,28,5875,4.77
+30-34 years,30-34,California,6,"San Bernardino County, CA",6071,46,7837,5.87
+30-34 years,30-34,California,6,"San Diego County, CA",6073,49,13306,3.68
+30-34 years,30-34,California,6,"Santa Clara County, CA",6085,29,8900,3.26
+30-34 years,30-34,California,6,"Tulare County, CA",6107,11,1663,6.61 (Unreliable)
+30-34 years,30-34,California,6,"Unidentified Counties, CA",6999,26,7726,3.37
+30-34 years,30-34,Colorado,8,"El Paso County, CO",8041,13,2488,5.23 (Unreliable)
+30-34 years,30-34,Colorado,8,"Unidentified Counties, CO",8999,16,3288,4.87 (Unreliable)
+30-34 years,30-34,Connecticut,9,"Fairfield County, CT",9001,11,3742,2.94 (Unreliable)
+30-34 years,30-34,Connecticut,9,"Hartford County, CT",9003,19,3186,5.96 (Unreliable)
+30-34 years,30-34,Connecticut,9,"New Haven County, CT",9009,11,2897,3.80 (Unreliable)
+30-34 years,30-34,Delaware,10,"New Castle County, DE",10003,12,2067,5.81 (Unreliable)
+30-34 years,30-34,District of Columbia,11,"District of Columbia, DC",11001,15,3087,4.86 (Unreliable)
+30-34 years,30-34,Florida,12,"Broward County, FL",12011,35,6987,5.01
+30-34 years,30-34,Florida,12,"Duval County, FL",12031,20,3527,5.67
+30-34 years,30-34,Florida,12,"Escambia County, FL",12033,11,913,12.05 (Unreliable)
+30-34 years,30-34,Florida,12,"Hillsborough County, FL",12057,23,4908,4.69
+30-34 years,30-34,Florida,12,"Lee County, FL",12071,15,1769,8.48 (Unreliable)
+30-34 years,30-34,Florida,12,"Miami-Dade County, FL",12086,42,9983,4.21
+30-34 years,30-34,Florida,12,"Orange County, FL",12095,36,4774,7.54
+30-34 years,30-34,Florida,12,"Palm Beach County, FL",12099,10,4506,2.22 (Unreliable)
+30-34 years,30-34,Florida,12,"Pasco County, FL",12101,12,1429,8.40 (Unreliable)
+30-34 years,30-34,Florida,12,"Pinellas County, FL",12103,12,2443,4.91 (Unreliable)
+30-34 years,30-34,Florida,12,"Polk County, FL",12105,12,1758,6.83 (Unreliable)
+30-34 years,30-34,Florida,12,"Unidentified Counties, FL",12999,32,8261,3.87
+30-34 years,30-34,Georgia,13,"Clayton County, GA",13063,12,836,14.35 (Unreliable)
+30-34 years,30-34,Georgia,13,"Cobb County, GA",13067,25,3130,7.99
+30-34 years,30-34,Georgia,13,"DeKalb County, GA",13089,16,3329,4.81 (Unreliable)
+30-34 years,30-34,Georgia,13,"Fulton County, GA",13121,15,4120,3.64 (Unreliable)
+30-34 years,30-34,Georgia,13,"Gwinnett County, GA",13135,33,3415,9.66
+30-34 years,30-34,Georgia,13,"Unidentified Counties, GA",13999,117,17563,6.66
+30-34 years,30-34,Hawaii,15,"Honolulu County, HI",15003,28,3667,7.64
+30-34 years,30-34,Hawaii,15,"Unidentified Counties, HI",15999,15,1370,10.95 (Unreliable)
+30-34 years,30-34,Idaho,16,"Unidentified Counties, ID",16999,20,4038,4.95
+30-34 years,30-34,Illinois,17,"Cook County, IL",17031,130,21213,6.13
+30-34 years,30-34,Illinois,17,"DuPage County, IL",17043,17,4302,3.95 (Unreliable)
+30-34 years,30-34,Illinois,17,"Will County, IL",17197,14,2632,5.32 (Unreliable)
+30-34 years,30-34,Illinois,17,"Unidentified Counties, IL",17999,62,10901,5.69
+30-34 years,30-34,Indiana,18,"Lake County, IN",18089,13,1400,9.29 (Unreliable)
+30-34 years,30-34,Indiana,18,"Marion County, IN",18097,28,3661,7.65
+30-34 years,30-34,Indiana,18,"Unidentified Counties, IN",18999,79,11935,6.62
+30-34 years,30-34,Iowa,19,"Polk County, IA",19153,17,2145,7.93 (Unreliable)
+30-34 years,30-34,Iowa,19,"Unidentified Counties, IA",19999,42,8947,4.69
+30-34 years,30-34,Kansas,20,"Unidentified Counties, KS",20999,29,5626,5.15
+30-34 years,30-34,Kentucky,21,"Jefferson County, KY",21111,14,2718,5.15 (Unreliable)
+30-34 years,30-34,Kentucky,21,"Unidentified Counties, KY",21999,41,8781,4.67
+30-34 years,30-34,Louisiana,22,"East Baton Rouge Parish, LA",22033,11,1680,6.55 (Unreliable)
+30-34 years,30-34,Louisiana,22,"Jefferson Parish, LA",22051,10,1648,6.07 (Unreliable)
+30-34 years,30-34,Louisiana,22,"Unidentified Counties, LA",22999,68,9378,7.25
+30-34 years,30-34,Maine,23,"Unidentified Counties, ME",23999,12,2607,4.60 (Unreliable)
+30-34 years,30-34,Maryland,24,"Anne Arundel County, MD",24003,10,2392,4.18 (Unreliable)
+30-34 years,30-34,Maryland,24,"Baltimore County, MD",24005,13,3238,4.01 (Unreliable)
+30-34 years,30-34,Maryland,24,"Montgomery County, MD",24031,22,4692,4.69
+30-34 years,30-34,Maryland,24,"Prince George's County, MD",24033,36,3372,10.68
+30-34 years,30-34,Maryland,24,"Baltimore city, MD",24510,21,2190,9.59
+30-34 years,30-34,Maryland,24,"Unidentified Counties, MD",24999,20,5620,3.56
+30-34 years,30-34,Massachusetts,25,"Middlesex County, MA",25017,17,7075,2.40 (Unreliable)
+30-34 years,30-34,Massachusetts,25,"Norfolk County, MA",25021,11,3041,3.62 (Unreliable)
+30-34 years,30-34,Massachusetts,25,"Suffolk County, MA",25025,12,3371,3.56 (Unreliable)
+30-34 years,30-34,Massachusetts,25,"Worcester County, MA",25027,16,2955,5.41 (Unreliable)
+30-34 years,30-34,Michigan,26,"Kent County, MI",26081,13,2685,4.84 (Unreliable)
+30-34 years,30-34,Michigan,26,"Macomb County, MI",26099,15,2891,5.19 (Unreliable)
+30-34 years,30-34,Michigan,26,"Oakland County, MI",26125,21,5066,4.15
+30-34 years,30-34,Michigan,26,"Wayne County, MI",26163,33,5521,5.98
+30-34 years,30-34,Michigan,26,"Unidentified Counties, MI",26999,44,9920,4.44
+30-34 years,30-34,Minnesota,27,"Hennepin County, MN",27053,26,6191,4.20
+30-34 years,30-34,Minnesota,27,"Ramsey County, MN",27123,13,2468,5.27 (Unreliable)
+30-34 years,30-34,Minnesota,27,"Unidentified Counties, MN",27999,53,11510,4.60
+30-34 years,30-34,Mississippi,28,"Unidentified Counties, MS",28999,50,7663,6.52
+30-34 years,30-34,Missouri,29,"Jackson County, MO",29095,15,2429,6.18 (Unreliable)
+30-34 years,30-34,Missouri,29,"St. Louis County, MO",29189,18,3953,4.55 (Unreliable)
+30-34 years,30-34,Missouri,29,"St. Louis city, MO",29510,10,1144,8.74 (Unreliable)
+30-34 years,30-34,Missouri,29,"Unidentified Counties, MO",29999,37,9487,3.90
+30-34 years,30-34,Montana,30,"Unidentified Counties, MT",30999,26,3250,8.00
+30-34 years,30-34,Nebraska,31,"Douglas County, NE",31055,16,2792,5.73 (Unreliable)
+30-34 years,30-34,Nebraska,31,"Unidentified Counties, NE",31999,18,3768,4.78 (Unreliable)
+30-34 years,30-34,Nevada,32,"Clark County, NV",32003,38,7106,5.35
+30-34 years,30-34,New Jersey,34,"Camden County, NJ",34007,15,1949,7.70 (Unreliable)
+30-34 years,30-34,New Jersey,34,"Essex County, NJ",34013,12,3072,3.91 (Unreliable)
+30-34 years,30-34,New Mexico,35,"Bernalillo County, NM",35001,12,2050,5.85 (Unreliable)
+30-34 years,30-34,New Mexico,35,"Unidentified Counties, NM",35999,23,3582,6.42
+30-34 years,30-34,New York,36,"Bronx County, NY",36005,27,5320,5.08
+30-34 years,30-34,New York,36,"Erie County, NY",36029,18,3234,5.57 (Unreliable)
+30-34 years,30-34,New York,36,"Kings County, NY",36047,48,11589,4.14
+30-34 years,30-34,New York,36,"Monroe County, NY",36055,14,2621,5.34 (Unreliable)
+30-34 years,30-34,New York,36,"Nassau County, NY",36059,13,5266,2.47 (Unreliable)
+30-34 years,30-34,New York,36,"New York County, NY",36061,20,6523,3.07
+30-34 years,30-34,New York,36,"Queens County, NY",36081,31,9671,3.21
+30-34 years,30-34,New York,36,"Suffolk County, NY",36103,22,5324,4.13
+30-34 years,30-34,New York,36,"Unidentified Counties, NY",36999,71,10882,6.52
+30-34 years,30-34,North Carolina,37,"Cumberland County, NC",37051,11,1122,9.80 (Unreliable)
+30-34 years,30-34,North Carolina,37,"Durham County, NC",37063,11,1441,7.63 (Unreliable)
+30-34 years,30-34,North Carolina,37,"Mecklenburg County, NC",37119,28,4815,5.82
+30-34 years,30-34,North Carolina,37,"Wake County, NC",37183,22,4686,4.69
+30-34 years,30-34,North Carolina,37,"Unidentified Counties, NC",37999,100,17013,5.88
+30-34 years,30-34,North Dakota,38,"Unidentified Counties, ND",38999,14,3163,4.43 (Unreliable)
+30-34 years,30-34,Ohio,39,"Cuyahoga County, OH",39035,30,4134,7.26
+30-34 years,30-34,Ohio,39,"Franklin County, OH",39049,37,5782,6.40
+30-34 years,30-34,Ohio,39,"Hamilton County, OH",39061,28,3262,8.58
+30-34 years,30-34,Ohio,39,"Montgomery County, OH",39113,12,1656,7.25 (Unreliable)
+30-34 years,30-34,Ohio,39,"Summit County, OH",39153,10,1780,5.62 (Unreliable)
+30-34 years,30-34,Ohio,39,"Unidentified Counties, OH",39999,74,15985,4.63
+30-34 years,30-34,Oklahoma,40,"Oklahoma County, OK",40109,13,3204,4.06 (Unreliable)
+30-34 years,30-34,Oklahoma,40,"Tulsa County, OK",40143,19,2456,7.74 (Unreliable)
+30-34 years,30-34,Oklahoma,40,"Unidentified Counties, OK",40999,30,5635,5.32
+30-34 years,30-34,Oregon,41,"Multnomah County, OR",41051,12,3012,3.98 (Unreliable)
+30-34 years,30-34,Oregon,41,"Unidentified Counties, OR",41999,22,4353,5.05
+30-34 years,30-34,Pennsylvania,42,"Allegheny County, PA",42003,25,4604,5.43
+30-34 years,30-34,Pennsylvania,42,"Dauphin County, PA",42043,10,957,10.45 (Unreliable)
+30-34 years,30-34,Pennsylvania,42,"Delaware County, PA",42045,14,2367,5.91 (Unreliable)
+30-34 years,30-34,Pennsylvania,42,"Lancaster County, PA",42071,10,1979,5.05 (Unreliable)
+30-34 years,30-34,Pennsylvania,42,"Montgomery County, PA",42091,18,3554,5.06 (Unreliable)
+30-34 years,30-34,Pennsylvania,42,"Philadelphia County, PA",42101,38,5896,6.45
+30-34 years,30-34,Pennsylvania,42,"Unidentified Counties, PA",42999,59,11291,5.23
+30-34 years,30-34,Rhode Island,44,"Providence County, RI",44007,12,2101,5.71 (Unreliable)
+30-34 years,30-34,South Carolina,45,"Unidentified Counties, SC",45999,34,6982,4.87
+30-34 years,30-34,South Dakota,46,"Unidentified Counties, SD",46999,13,3315,3.92 (Unreliable)
+30-34 years,30-34,Tennessee,47,"Davidson County, TN",47037,12,3123,3.84 (Unreliable)
+30-34 years,30-34,Tennessee,47,"Shelby County, TN",47157,22,3062,7.18
+30-34 years,30-34,Tennessee,47,"Unidentified Counties, TN",47999,55,9605,5.73
+30-34 years,30-34,Texas,48,"Bexar County, TX",48029,39,6900,5.65
+30-34 years,30-34,Texas,48,"Collin County, TX",48085,15,4082,3.67 (Unreliable)
+30-34 years,30-34,Texas,48,"Dallas County, TX",48113,58,10391,5.58
+30-34 years,30-34,Texas,48,"Denton County, TX",48121,13,3317,3.92 (Unreliable)
+30-34 years,30-34,Texas,48,"El Paso County, TX",48141,12,2606,4.60 (Unreliable)
+30-34 years,30-34,Texas,48,"Fort Bend County, TX",48157,12,3707,3.24 (Unreliable)
+30-34 years,30-34,Texas,48,"Harris County, TX",48201,97,19768,4.91
+30-34 years,30-34,Texas,48,"Hidalgo County, TX",48215,15,2986,5.02 (Unreliable)
+30-34 years,30-34,Texas,48,"Tarrant County, TX",48439,41,7771,5.28
+30-34 years,30-34,Texas,48,"Travis County, TX",48453,13,5230,2.49 (Unreliable)
+30-34 years,30-34,Texas,48,"Williamson County, TX",48491,16,2250,7.11 (Unreliable)
+30-34 years,30-34,Texas,48,"Unidentified Counties, TX",48999,117,21471,5.45
+30-34 years,30-34,Utah,49,"Salt Lake County, UT",49035,27,4946,5.46
+30-34 years,30-34,Utah,49,"Utah County, UT",49049,24,3175,7.56
+30-34 years,30-34,Utah,49,"Unidentified Counties, UT",49999,19,3882,4.89 (Unreliable)
+30-34 years,30-34,Virginia,51,"Fairfax County, VA",51059,13,5411,2.40 (Unreliable)
+30-34 years,30-34,Virginia,51,"Unidentified Counties, VA",51999,88,16911,5.20
+30-34 years,30-34,Washington,53,"King County, WA",53033,37,10085,3.67
+30-34 years,30-34,Washington,53,"Pierce County, WA",53053,15,3258,4.60 (Unreliable)
+30-34 years,30-34,Washington,53,"Snohomish County, WA",53061,16,3434,4.66 (Unreliable)
+30-34 years,30-34,Washington,53,"Unidentified Counties, WA",53999,27,6146,4.39
+30-34 years,30-34,West Virginia,54,"Unidentified Counties, WV",54999,33,4069,8.11
+30-34 years,30-34,Wisconsin,55,"Dane County, WI",55025,18,2408,7.48 (Unreliable)
+30-34 years,30-34,Wisconsin,55,"Milwaukee County, WI",55079,19,3839,4.95 (Unreliable)
+30-34 years,30-34,Wisconsin,55,"Unidentified Counties, WI",55999,78,12799,6.09
+35-39 years,35-39,Alabama,1,"Unidentified Counties, AL",1999,25,3477,7.19
+35-39 years,35-39,Arizona,4,"Maricopa County, AZ",4013,39,6970,5.60
+35-39 years,35-39,Arizona,4,"Unidentified Counties, AZ",4999,14,1398,10.01 (Unreliable)
+35-39 years,35-39,Arkansas,5,"Unidentified Counties, AR",5999,21,2646,7.94
+35-39 years,35-39,California,6,"Alameda County, CA",6001,13,4402,2.95 (Unreliable)
+35-39 years,35-39,California,6,"Fresno County, CA",6019,10,1786,5.60 (Unreliable)
+35-39 years,35-39,California,6,"Los Angeles County, CA",6037,105,23107,4.54
+35-39 years,35-39,California,6,"Orange County, CA",6059,27,7920,3.41
+35-39 years,35-39,California,6,"Riverside County, CA",6065,26,4061,6.40
+35-39 years,35-39,California,6,"Sacramento County, CA",6067,17,2968,5.73 (Unreliable)
+35-39 years,35-39,California,6,"San Bernardino County, CA",6071,28,3906,7.17
+35-39 years,35-39,California,6,"San Diego County, CA",6073,35,7530,4.65
+35-39 years,35-39,California,6,"Santa Clara County, CA",6085,20,5113,3.91
+35-39 years,35-39,California,6,"Unidentified Counties, CA",6999,22,3854,5.71
+35-39 years,35-39,Colorado,8,"Denver County, CO",8031,14,1869,7.49 (Unreliable)
+35-39 years,35-39,Connecticut,9,"Fairfield County, CT",9001,10,2306,4.34 (Unreliable)
+35-39 years,35-39,Connecticut,9,"Hartford County, CT",9003,12,1574,7.62 (Unreliable)
+35-39 years,35-39,Delaware,10,"New Castle County, DE",10003,10,1002,9.98 (Unreliable)
+35-39 years,35-39,District of Columbia,11,"District of Columbia, DC",11001,15,2115,7.09 (Unreliable)
+35-39 years,35-39,Florida,12,"Broward County, FL",12011,23,4007,5.74
+35-39 years,35-39,Florida,12,"Duval County, FL",12031,12,1528,7.85 (Unreliable)
+35-39 years,35-39,Florida,12,"Hillsborough County, FL",12057,12,2358,5.09 (Unreliable)
+35-39 years,35-39,Florida,12,"Miami-Dade County, FL",12086,27,5476,4.93
+35-39 years,35-39,Florida,12,"Orange County, FL",12095,17,2540,6.69 (Unreliable)
+35-39 years,35-39,Florida,12,"Unidentified Counties, FL",12999,25,3707,6.74
+35-39 years,35-39,Georgia,13,"Cobb County, GA",13067,10,1684,5.94 (Unreliable)
+35-39 years,35-39,Georgia,13,"DeKalb County, GA",13089,13,1839,7.07 (Unreliable)
+35-39 years,35-39,Georgia,13,"Fulton County, GA",13121,10,2241,4.46 (Unreliable)
+35-39 years,35-39,Georgia,13,"Gwinnett County, GA",13135,16,1976,8.10 (Unreliable)
+35-39 years,35-39,Georgia,13,"Unidentified Counties, GA",13999,57,7652,7.45
+35-39 years,35-39,Idaho,16,"Unidentified Counties, ID",16999,12,1622,7.40 (Unreliable)
+35-39 years,35-39,Illinois,17,"Cook County, IL",17031,60,11767,5.10
+35-39 years,35-39,Illinois,17,"Unidentified Counties, IL",17999,29,4202,6.90
+35-39 years,35-39,Indiana,18,"Marion County, IN",18097,17,1626,10.46 (Unreliable)
+35-39 years,35-39,Indiana,18,"Unidentified Counties, IN",18999,37,4590,8.06
+35-39 years,35-39,Iowa,19,"Unidentified Counties, IA",19999,20,3390,5.90
+35-39 years,35-39,Kentucky,21,"Unidentified Counties, KY",21999,19,3510,5.41 (Unreliable)
+35-39 years,35-39,Louisiana,22,"Unidentified Counties, LA",22999,30,3595,8.34
+35-39 years,35-39,Maine,23,"Unidentified Counties, ME",23999,10,1048,9.54 (Unreliable)
+35-39 years,35-39,Maryland,24,"Baltimore County, MD",24005,10,1592,6.28 (Unreliable)
+35-39 years,35-39,Maryland,24,"Montgomery County, MD",24031,17,3223,5.27 (Unreliable)
+35-39 years,35-39,Maryland,24,"Prince George's County, MD",24033,10,2111,4.74 (Unreliable)
+35-39 years,35-39,Maryland,24,"Unidentified Counties, MD",24999,19,2605,7.29 (Unreliable)
+35-39 years,35-39,Massachusetts,25,"Middlesex County, MA",25017,11,4245,2.59 (Unreliable)
+35-39 years,35-39,Michigan,26,"Kent County, MI",26081,11,1047,10.51 (Unreliable)
+35-39 years,35-39,Michigan,26,"Wayne County, MI",26163,26,2589,10.04
+35-39 years,35-39,Michigan,26,"Unidentified Counties, MI",26999,23,3886,5.92
+35-39 years,35-39,Minnesota,27,"Hennepin County, MN",27053,10,3210,3.12 (Unreliable)
+35-39 years,35-39,Minnesota,27,"Unidentified Counties, MN",27999,24,4448,5.40
+35-39 years,35-39,Mississippi,28,"Unidentified Counties, MS",28999,26,3173,8.19
+35-39 years,35-39,Missouri,29,"Unidentified Counties, MO",29999,35,3754,9.32
+35-39 years,35-39,Nebraska,31,"Douglas County, NE",31055,10,1179,8.48 (Unreliable)
+35-39 years,35-39,Nebraska,31,"Unidentified Counties, NE",31999,14,1469,9.53 (Unreliable)
+35-39 years,35-39,Nevada,32,"Clark County, NV",32003,16,3751,4.27 (Unreliable)
+35-39 years,35-39,New Jersey,34,"Burlington County, NJ",34005,10,811,12.33 (Unreliable)
+35-39 years,35-39,New York,36,"Kings County, NY",36047,31,7731,4.01
+35-39 years,35-39,New York,36,"Nassau County, NY",36059,12,3453,3.48 (Unreliable)
+35-39 years,35-39,New York,36,"Onondaga County, NY",36067,12,765,15.69 (Unreliable)
+35-39 years,35-39,New York,36,"Queens County, NY",36081,25,5757,4.34
+35-39 years,35-39,New York,36,"Suffolk County, NY",36103,14,3197,4.38 (Unreliable)
+35-39 years,35-39,New York,36,"Unidentified Counties, NY",36999,16,4774,3.35 (Unreliable)
+35-39 years,35-39,North Carolina,37,"Mecklenburg County, NC",37119,15,2481,6.05 (Unreliable)
+35-39 years,35-39,North Carolina,37,"Wake County, NC",37183,15,2455,6.11 (Unreliable)
+35-39 years,35-39,North Carolina,37,"Unidentified Counties, NC",37999,58,7756,7.48
+35-39 years,35-39,Ohio,39,"Cuyahoga County, OH",39035,13,1914,6.79 (Unreliable)
+35-39 years,35-39,Ohio,39,"Franklin County, OH",39049,10,2597,3.85 (Unreliable)
+35-39 years,35-39,Ohio,39,"Unidentified Counties, OH",39999,46,6417,7.17
+35-39 years,35-39,Oklahoma,40,"Oklahoma County, OK",40109,10,1274,7.85 (Unreliable)
+35-39 years,35-39,Oklahoma,40,"Unidentified Counties, OK",40999,10,1977,5.06 (Unreliable)
+35-39 years,35-39,Oregon,41,"Multnomah County, OR",41051,13,1969,6.60 (Unreliable)
+35-39 years,35-39,Pennsylvania,42,"Allegheny County, PA",42003,12,2163,5.55 (Unreliable)
+35-39 years,35-39,Pennsylvania,42,"Philadelphia County, PA",42101,20,2819,7.09
+35-39 years,35-39,Pennsylvania,42,"Unidentified Counties, PA",42999,24,4584,5.24
+35-39 years,35-39,South Carolina,45,"Unidentified Counties, SC",45999,26,3214,8.09
+35-39 years,35-39,Tennessee,47,"Shelby County, TN",47157,16,1481,10.80 (Unreliable)
+35-39 years,35-39,Tennessee,47,"Unidentified Counties, TN",47999,34,3917,8.68
+35-39 years,35-39,Texas,48,"Bexar County, TX",48029,21,3337,6.29
+35-39 years,35-39,Texas,48,"Collin County, TX",48085,13,2063,6.30 (Unreliable)
+35-39 years,35-39,Texas,48,"Dallas County, TX",48113,26,5244,4.96
+35-39 years,35-39,Texas,48,"Harris County, TX",48201,49,9972,4.91
+35-39 years,35-39,Texas,48,"Tarrant County, TX",48439,26,3640,7.14
+35-39 years,35-39,Texas,48,"Unidentified Counties, TX",48999,49,8649,5.67
+35-39 years,35-39,Utah,49,"Salt Lake County, UT",49035,16,2516,6.36 (Unreliable)
+35-39 years,35-39,Utah,49,"Utah County, UT",49049,10,1385,7.22 (Unreliable)
+35-39 years,35-39,Utah,49,"Unidentified Counties, UT",49999,10,1593,6.28 (Unreliable)
+35-39 years,35-39,Virginia,51,"Fairfax County, VA",51059,17,3462,4.91 (Unreliable)
+35-39 years,35-39,Virginia,51,"Unidentified Counties, VA",51999,49,8052,6.09
+35-39 years,35-39,Washington,53,"King County, WA",53033,13,5686,2.29 (Unreliable)
+35-39 years,35-39,Washington,53,"Unidentified Counties, WA",53999,10,2683,3.73 (Unreliable)
+35-39 years,35-39,Wisconsin,55,"Milwaukee County, WI",55079,18,1683,10.70 (Unreliable)
+35-39 years,35-39,Wisconsin,55,"Unidentified Counties, WI",55999,29,5095,5.69
+40-44 years,40-44,Arizona,4,"Maricopa County, AZ",4013,10,1493,6.70 (Unreliable)
+40-44 years,40-44,California,6,"Los Angeles County, CA",6037,31,5892,5.26
+40-44 years,40-44,Florida,12,"Miami-Dade County, FL",12086,10,1464,6.83 (Unreliable)
+40-44 years,40-44,Georgia,13,"Unidentified Counties, GA",13999,11,1486,7.40 (Unreliable)
+40-44 years,40-44,Illinois,17,"Cook County, IL",17031,22,2605,8.45
+40-44 years,40-44,North Carolina,37,"Unidentified Counties, NC",37999,18,1539,11.70 (Unreliable)
+40-44 years,40-44,Ohio,39,"Unidentified Counties, OH",39999,10,1132,8.83 (Unreliable)
+40-44 years,40-44,Tennessee,47,"Unidentified Counties, TN",47999,10,769,13.00 (Unreliable)
+40-44 years,40-44,Texas,48,"Bexar County, TX",48029,13,716,18.16 (Unreliable)
+40-44 years,40-44,Texas,48,"Dallas County, TX",48113,16,1146,13.96 (Unreliable)
+40-44 years,40-44,Texas,48,"Harris County, TX",48201,12,2211,5.43 (Unreliable)
+40-44 years,40-44,Texas,48,"Unidentified Counties, TX",48999,18,1658,10.86 (Unreliable)
+40-44 years,40-44,Virginia,51,"Unidentified Counties, VA",51999,10,1557,6.42 (Unreliable)
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

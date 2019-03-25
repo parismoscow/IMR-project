@@ -1,0 +1,63 @@
+"Notes"	"OE Gestational Age 10"	"OE Gestational Age 10 Code"	"Bridged Race"	"Bridged Race Code"	Births
+	"Under 20 weeks"	"01"	"American Indian or Alaska Native"	"1002-5"	16
+	"Under 20 weeks"	"01"	"Asian or Pacific Islander"	"A-PI"	82
+	"Under 20 weeks"	"01"	"Black or African American"	"2054-5"	562
+	"Under 20 weeks"	"01"	"White"	"2106-3"	729
+	"20 - 27 weeks"	"02"	"American Indian or Alaska Native"	"1002-5"	291
+	"20 - 27 weeks"	"02"	"Asian or Pacific Islander"	"A-PI"	1505
+	"20 - 27 weeks"	"02"	"Black or African American"	"2054-5"	8858
+	"20 - 27 weeks"	"02"	"White"	"2106-3"	13870
+	"28 - 31 weeks"	"03"	"American Indian or Alaska Native"	"1002-5"	427
+	"28 - 31 weeks"	"03"	"Asian or Pacific Islander"	"A-PI"	2174
+	"28 - 31 weeks"	"03"	"Black or African American"	"2054-5"	10127
+	"28 - 31 weeks"	"03"	"White"	"2106-3"	22748
+	"32 - 35 weeks"	"04"	"American Indian or Alaska Native"	"1002-5"	2179
+	"32 - 35 weeks"	"04"	"Asian or Pacific Islander"	"A-PI"	11578
+	"32 - 35 weeks"	"04"	"Black or African American"	"2054-5"	38167
+	"32 - 35 weeks"	"04"	"White"	"2106-3"	118294
+	"36 weeks"	"05"	"American Indian or Alaska Native"	"1002-5"	1927
+	"36 weeks"	"05"	"Asian or Pacific Islander"	"A-PI"	10781
+	"36 weeks"	"05"	"Black or African American"	"2054-5"	30634
+	"36 weeks"	"05"	"White"	"2106-3"	107777
+	"37 - 39 weeks"	"06"	"American Indian or Alaska Native"	"1002-5"	26619
+	"37 - 39 weeks"	"06"	"Asian or Pacific Islander"	"A-PI"	195540
+	"37 - 39 weeks"	"06"	"Black or African American"	"2054-5"	416780
+	"37 - 39 weeks"	"06"	"White"	"2106-3"	1796000
+	"40 weeks"	"07"	"American Indian or Alaska Native"	"1002-5"	7906
+	"40 weeks"	"07"	"Asian or Pacific Islander"	"A-PI"	59865
+	"40 weeks"	"07"	"Black or African American"	"2054-5"	116862
+	"40 weeks"	"07"	"White"	"2106-3"	597012
+	"41 weeks"	"08"	"American Indian or Alaska Native"	"1002-5"	2350
+	"41 weeks"	"08"	"Asian or Pacific Islander"	"A-PI"	15471
+	"41 weeks"	"08"	"Black or African American"	"2054-5"	33686
+	"41 weeks"	"08"	"White"	"2106-3"	189364
+	"42 weeks or more"	"09"	"American Indian or Alaska Native"	"1002-5"	125
+	"42 weeks or more"	"09"	"Asian or Pacific Islander"	"A-PI"	487
+	"42 weeks or more"	"09"	"Black or African American"	"2054-5"	1841
+	"42 weeks or more"	"09"	"White"	"2106-3"	10107
+	"Unknown"	"10"	"American Indian or Alaska Native"	"1002-5"	76
+	"Unknown"	"10"	"Asian or Pacific Islander"	"A-PI"	141
+	"Unknown"	"10"	"Black or African American"	"2054-5"	598
+	"Unknown"	"10"	"White"	"2106-3"	1944
+"---"
+"Dataset: Natality, 2007-2017"
+"Query Parameters:"
+"Title: extreme prematurity by race, 2007-2017"
+"Year: 2017"
+"Group By: OE Gestational Age 10; Bridged Race"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality.html for more information."
+"---"
+"Query Date: Mar 9, 2019 2:32:06 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics, Natality public-use data 2007-2017, on CDC"
+"WONDER Online Database, October 2018. Accessed at http://wonder.cdc.gov/natality-current.html on Mar 9, 2019 2:32:06 PM"
+"---"
+Caveats:
+"1. Each birth record represents one living baby."

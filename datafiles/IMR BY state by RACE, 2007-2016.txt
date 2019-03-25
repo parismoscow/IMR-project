@@ -1,0 +1,166 @@
+"Notes"	"State"	"State Code"	"Race"	"Race Code"	Deaths	Births	Death Rate
+	"North Dakota"	"38"	"American Indian or Alaska Native"	"1002-5"	16	1029	15.55 (Unreliable)
+	"Minnesota"	"27"	"American Indian or Alaska Native"	"1002-5"	21	1386	15.15
+	"North Dakota"	"38"	"Black or African American"	"2054-5"	11	741	14.84 (Unreliable)
+	"Wisconsin"	"55"	"Black or African American"	"2054-5"	107	7456	14.35
+	"Alabama"	"01"	"Black or African American"	"2054-5"	264	18488	14.28
+	"Ohio"	"39"	"Black or African American"	"2054-5"	344	25161	13.67
+	"Oklahoma"	"40"	"Black or African American"	"2054-5"	76	5561	13.67
+	"Iowa"	"19"	"Black or African American"	"2054-5"	38	2831	13.42
+	"Kansas"	"20"	"Black or African American"	"2054-5"	41	3086	13.29
+	"Indiana"	"18"	"Black or African American"	"2054-5"	142	10860	13.08
+	"Delaware"	"10"	"Black or African American"	"2054-5"	41	3215	12.75
+	"Arkansas"	"05"	"Black or African American"	"2054-5"	97	7670	12.65
+	"Illinois"	"17"	"Black or African American"	"2054-5"	348	27844	12.50
+	"Nebraska"	"31"	"Black or African American"	"2054-5"	27	2179	12.39
+	"Montana"	"30"	"American Indian or Alaska Native"	"1002-5"	19	1537	12.36 (Unreliable)
+	"Michigan"	"26"	"Black or African American"	"2054-5"	273	22260	12.26
+	"Missouri"	"29"	"Black or African American"	"2054-5"	144	11751	12.25
+	"Louisiana"	"22"	"Black or African American"	"2054-5"	304	25037	12.14
+	"Kentucky"	"21"	"Black or African American"	"2054-5"	67	5601	11.96
+	"North Carolina"	"37"	"Black or African American"	"2054-5"	394	32966	11.95
+	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	273	23150	11.79
+	"Tennessee"	"47"	"Black or African American"	"2054-5"	203	17951	11.31
+	"Georgia"	"13"	"Black or African American"	"2054-5"	545	48904	11.14
+	"Texas"	"48"	"American Indian or Alaska Native"	"1002-5"	14	1272	11.01 (Unreliable)
+	"Mississippi"	"28"	"Black or African American"	"2054-5"	183	16671	10.98
+	"Florida"	"12"	"Black or African American"	"2054-5"	612	57593	10.63
+	"District of Columbia"	"11"	"Black or African American"	"2054-5"	59	5581	10.57
+	"South Dakota"	"46"	"American Indian or Alaska Native"	"1002-5"	21	2001	10.49
+	"Nevada"	"32"	"Black or African American"	"2054-5"	54	5149	10.49
+	"South Carolina"	"45"	"Black or African American"	"2054-5"	191	18343	10.41
+	"Colorado"	"08"	"Black or African American"	"2054-5"	43	4147	10.37
+	"Connecticut"	"09"	"Black or African American"	"2054-5"	58	5675	10.22
+	"Maryland"	"24"	"Black or African American"	"2054-5"	263	26414	9.96
+	"Oklahoma"	"40"	"American Indian or Alaska Native"	"1002-5"	61	6149	9.92
+	"Texas"	"48"	"Black or African American"	"2054-5"	554	56338	9.83
+	"Virginia"	"51"	"Black or African American"	"2054-5"	228	23339	9.77
+	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	21	2164	9.70
+	"Rhode Island"	"44"	"Black or African American"	"2054-5"	13	1362	9.54 (Unreliable)
+	"New Jersey"	"34"	"Black or African American"	"2054-5"	168	17772	9.45
+	"Arizona"	"04"	"American Indian or Alaska Native"	"1002-5"	48	5310	9.04
+	"Alaska"	"02"	"American Indian or Alaska Native"	"1002-5"	22	2503	8.79
+	"Arizona"	"04"	"Black or African American"	"2054-5"	44	5222	8.43
+	"Connecticut"	"09"	"Asian or Pacific Islander"	"A-PI"	24	2867	8.37
+	"Iowa"	"19"	"Asian or Pacific Islander"	"A-PI"	12	1477	8.12 (Unreliable)
+	"California"	"06"	"Black or African American"	"2054-5"	246	30808	7.98
+	"Arkansas"	"05"	"Asian or Pacific Islander"	"A-PI"	11	1380	7.97 (Unreliable)
+	"North Carolina"	"37"	"American Indian or Alaska Native"	"1002-5"	15	1886	7.95 (Unreliable)
+	"New York"	"36"	"Black or African American"	"2054-5"	361	45989	7.85
+	"Washington"	"53"	"Black or African American"	"2054-5"	43	5847	7.35
+	"Arkansas"	"05"	"White"	"2106-3"	205	28922	7.09
+	"West Virginia"	"54"	"White"	"2106-3"	128	18078	7.08
+	"Mississippi"	"28"	"White"	"2106-3"	144	20466	7.04
+	"Massachusetts"	"25"	"Black or African American"	"2054-5"	66	9526	6.93
+	"Tennessee"	"47"	"Asian or Pacific Islander"	"A-PI"	16	2312	6.92 (Unreliable)
+	"Louisiana"	"22"	"Asian or Pacific Islander"	"A-PI"	11	1592	6.91 (Unreliable)
+	"Minnesota"	"27"	"Black or African American"	"2054-5"	61	8845	6.90
+	"Hawaii"	"15"	"Asian or Pacific Islander"	"A-PI"	76	11217	6.78
+	"Minnesota"	"27"	"Asian or Pacific Islander"	"A-PI"	39	5844	6.67
+	"Indiana"	"18"	"White"	"2106-3"	461	69408	6.64
+	"Alabama"	"01"	"White"	"2106-3"	258	39223	6.58
+	"Oklahoma"	"40"	"Asian or Pacific Islander"	"A-PI"	12	1829	6.56 (Unreliable)
+	"Oklahoma"	"40"	"White"	"2106-3"	244	39053	6.25
+	"Tennessee"	"47"	"White"	"2106-3"	375	60395	6.21
+	"Kentucky"	"21"	"White"	"2106-3"	300	48361	6.20
+	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	21	3436	6.11
+	"Ohio"	"39"	"White"	"2106-3"	656	107826	6.08
+	"New Mexico"	"35"	"White"	"2106-3"	123	20357	6.04
+	"Delaware"	"10"	"White"	"2106-3"	42	7056	5.95
+	"New Mexico"	"35"	"American Indian or Alaska Native"	"1002-5"	19	3206	5.93 (Unreliable)
+	"Utah"	"49"	"Asian or Pacific Islander"	"A-PI"	12	2028	5.92 (Unreliable)
+	"Idaho"	"16"	"White"	"2106-3"	123	21247	5.79
+	"Nebraska"	"31"	"White"	"2106-3"	131	22777	5.75
+	"Maine"	"23"	"White"	"2106-3"	68	11903	5.71
+	"Missouri"	"29"	"White"	"2106-3"	335	60235	5.56
+	"Wisconsin"	"55"	"Asian or Pacific Islander"	"A-PI"	19	3432	5.54 (Unreliable)
+	"North Carolina"	"37"	"White"	"2106-3"	438	79747	5.49
+	"Georgia"	"13"	"White"	"2106-3"	405	73999	5.47
+	"South Carolina"	"45"	"White"	"2106-3"	204	37382	5.46
+	"Kansas"	"20"	"White"	"2106-3"	179	33165	5.40
+	"Nevada"	"32"	"Asian or Pacific Islander"	"A-PI"	19	3531	5.38 (Unreliable)
+	"Utah"	"49"	"White"	"2106-3"	251	46985	5.34
+	"Wisconsin"	"55"	"White"	"2106-3"	290	54782	5.29
+	"Iowa"	"19"	"White"	"2106-3"	183	34862	5.25
+	"Illinois"	"17"	"White"	"2106-3"	601	115643	5.20
+	"Ohio"	"39"	"Asian or Pacific Islander"	"A-PI"	25	4827	5.18
+	"Louisiana"	"22"	"White"	"2106-3"	187	36154	5.17
+	"Arizona"	"04"	"Asian or Pacific Islander"	"A-PI"	19	3714	5.12 (Unreliable)
+	"Pennsylvania"	"42"	"White"	"2106-3"	553	108413	5.10
+	"Texas"	"48"	"White"	"2106-3"	1611	316371	5.09
+	"Michigan"	"26"	"White"	"2106-3"	436	85673	5.09
+	"Maryland"	"24"	"Asian or Pacific Islander"	"A-PI"	31	6170	5.02
+	"Rhode Island"	"44"	"White"	"2106-3"	43	8599	5.00
+	"Nevada"	"32"	"White"	"2106-3"	132	27130	4.87
+	"Arizona"	"04"	"White"	"2106-3"	338	70274	4.81
+	"Oregon"	"41"	"White"	"2106-3"	192	40179	4.78
+	"North Dakota"	"38"	"White"	"2106-3"	44	9233	4.77
+	"Hawaii"	"15"	"White"	"2106-3"	29	6103	4.75
+	"Virginia"	"51"	"White"	"2106-3"	328	69409	4.73
+	"Florida"	"12"	"White"	"2106-3"	733	158448	4.63
+	"Montana"	"30"	"White"	"2106-3"	48	10426	4.60
+	"Maryland"	"24"	"White"	"2106-3"	183	40308	4.54
+	"Minnesota"	"27"	"White"	"2106-3"	237	53674	4.42
+	"Wyoming"	"56"	"White"	"2106-3"	30	6857	4.38
+	"North Carolina"	"37"	"Asian or Pacific Islander"	"A-PI"	27	6180	4.37
+	"Colorado"	"08"	"White"	"2106-3"	253	58259	4.34
+	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	13	3095	4.20 (Unreliable)
+	"Colorado"	"08"	"Asian or Pacific Islander"	"A-PI"	14	3377	4.15 (Unreliable)
+	"Virginia"	"51"	"Asian or Pacific Islander"	"A-PI"	39	9498	4.11
+	"California"	"06"	"White"	"2106-3"	1516	370521	4.09
+	"Indiana"	"18"	"Asian or Pacific Islander"	"A-PI"	11	2689	4.09 (Unreliable)
+	"Washington"	"53"	"White"	"2106-3"	288	70519	4.08
+	"Texas"	"48"	"Asian or Pacific Islander"	"A-PI"	98	24066	4.07
+	"Florida"	"12"	"Asian or Pacific Islander"	"A-PI"	35	8627	4.06
+	"New York"	"36"	"White"	"2106-3"	593	157401	3.77
+	"Pennsylvania"	"42"	"Asian or Pacific Islander"	"A-PI"	28	7512	3.73
+	"Massachusetts"	"25"	"White"	"2106-3"	196	54643	3.59
+	"Vermont"	"50"	"White"	"2106-3"	19	5451	3.49 (Unreliable)
+	"South Dakota"	"46"	"White"	"2106-3"	33	9550	3.46
+	"Michigan"	"26"	"Asian or Pacific Islander"	"A-PI"	16	4671	3.43 (Unreliable)
+	"New Hampshire"	"33"	"White"	"2106-3"	38	11370	3.34
+	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	280	84062	3.33
+	"Connecticut"	"09"	"White"	"2106-3"	90	27311	3.30
+	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	39	11975	3.26
+	"Illinois"	"17"	"Asian or Pacific Islander"	"A-PI"	35	10749	3.26
+	"Alaska"	"02"	"White"	"2106-3"	23	7072	3.25
+	"New York"	"36"	"Asian or Pacific Islander"	"A-PI"	97	30159	3.22
+	"District of Columbia"	"11"	"White"	"2106-3"	11	3708	2.97 (Unreliable)
+	"New Jersey"	"34"	"White"	"2106-3"	209	71042	2.94
+	"Georgia"	"13"	"Asian or Pacific Islander"	"A-PI"	19	6878	2.76 (Unreliable)
+	"Massachusetts"	"25"	"Asian or Pacific Islander"	"A-PI"	19	6988	2.72 (Unreliable)
+	"New Jersey"	"34"	"Asian or Pacific Islander"	"A-PI"	36	13656	2.64
+"---"
+"Dataset: Linked Birth / Infant Death Records, 2007-2016"
+"Query Parameters:"
+"Year of Death: 2016"
+"Group By: State; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd.html for more information."
+"---"
+"Query Date: Mar 4, 2019 11:24:46 AM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS). Linked Birth / Infant Death Records"
+"2007-2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program, on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-current.html on Mar 4, 2019 11:24:46 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears instead of death, birth, and rate values when the death value represents 0-9 sub-national events. This"
+"is because the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#Assurance of Confidentiality."
+"2. 'Unreliable' appears for rates when there are fewer than 20 deaths in the numerator. This is because the figure does not meet"
+"the NCHS standard of reliability or precision. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Unreliable."
+"3. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#WeightFactors-Totals."
+"4. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Weight Factors."

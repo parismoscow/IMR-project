@@ -1,0 +1,96 @@
+﻿State,State Code,Birth Weight,Birth Weight Code,Deaths,Births,Death Rate
+Alabama,1,499 grams or less,1,128,160,800
+Alabama,1,500 - 999 grams,2,112,485,230.93
+Alaska,2,500 - 999 grams,2,11,47,234.04 (Unreliable)
+Arizona,4,499 grams or less,1,107,120,891.67
+Arizona,4,500 - 999 grams,2,76,370,205.41
+Arkansas,5,499 grams or less,1,45,54,833.33
+Arkansas,5,500 - 999 grams,2,50,232,215.52
+California,6,499 grams or less,1,401,473,847.78
+California,6,500 - 999 grams,2,481,1957,245.78
+Colorado,8,499 grams or less,1,74,85,870.59
+Colorado,8,500 - 999 grams,2,70,257,272.37
+Connecticut,9,499 grams or less,1,58,67,865.67
+Connecticut,9,500 - 999 grams,2,42,174,241.38
+Delaware,10,499 grams or less,1,26,27,962.96
+Delaware,10,500 - 999 grams,2,24,86,279.07
+District of Columbia,11,499 grams or less,1,18,21,857.14 (Unreliable)
+District of Columbia,11,500 - 999 grams,2,18,72,250.00 (Unreliable)
+Florida,12,499 grams or less,1,397,434,914.75
+Florida,12,500 - 999 grams,2,309,1327,232.86
+Georgia,13,499 grams or less,1,260,299,869.57
+Georgia,13,500 - 999 grams,2,237,954,248.43
+Hawaii,15,499 grams or less,1,24,25,960
+Hawaii,15,500 - 999 grams,2,28,108,259.26
+Idaho,16,499 grams or less,1,36,37,972.97
+Idaho,16,500 - 999 grams,2,17,77,220.78 (Unreliable)
+Illinois,17,499 grams or less,1,289,326,886.5
+Illinois,17,500 - 999 grams,2,225,843,266.9
+Indiana,18,499 grams or less,1,132,152,868.42
+Indiana,18,500 - 999 grams,2,116,449,258.35
+Iowa,19,499 grams or less,1,50,66,757.58
+Iowa,19,500 - 999 grams,2,47,164,286.59
+Kansas,20,499 grams or less,1,38,45,844.44
+Kansas,20,500 - 999 grams,2,47,182,258.24
+Kentucky,21,499 grams or less,1,70,110,636.36
+Kentucky,21,500 - 999 grams,2,64,283,226.15
+Louisiana,22,499 grams or less,1,104,142,732.39
+Louisiana,22,500 - 999 grams,2,106,467,226.98
+Maine,23,499 grams or less,1,28,29,965.52
+Maine,23,500 - 999 grams,2,13,40,325.00 (Unreliable)
+Maryland,24,499 grams or less,1,173,186,930.11
+Maryland,24,500 - 999 grams,2,99,412,240.29
+Massachusetts,25,499 grams or less,1,80,92,869.57
+Massachusetts,25,500 - 999 grams,2,83,326,254.6
+Michigan,26,499 grams or less,1,191,222,860.36
+Michigan,26,500 - 999 grams,2,137,626,218.85
+Minnesota,27,499 grams or less,1,92,105,876.19
+Minnesota,27,500 - 999 grams,2,70,294,238.1
+Mississippi,28,499 grams or less,1,65,77,844.16
+Mississippi,28,500 - 999 grams,2,85,331,256.8
+Missouri,29,499 grams or less,1,120,143,839.16
+Missouri,29,500 - 999 grams,2,84,369,227.64
+Montana,30,499 grams or less,1,10,10,1000.00 (Unreliable)
+Montana,30,500 - 999 grams,2,15,51,294.12 (Unreliable)
+Nebraska,31,499 grams or less,1,30,35,857.14
+Nebraska,31,500 - 999 grams,2,40,115,347.83
+Nevada,32,499 grams or less,1,36,43,837.21
+Nevada,32,500 - 999 grams,2,44,166,265.06
+New Hampshire,33,499 grams or less,1,11,12,916.67 (Unreliable)
+New Jersey,34,499 grams or less,1,112,127,881.89
+New Jersey,34,500 - 999 grams,2,117,522,224.14
+New Mexico,35,499 grams or less,1,28,38,736.84
+New Mexico,35,500 - 999 grams,2,33,126,261.9
+New York,36,499 grams or less,1,238,259,918.92
+New York,36,500 - 999 grams,2,281,1213,231.66
+North Carolina,37,499 grams or less,1,250,284,880.28
+North Carolina,37,500 - 999 grams,2,189,773,244.5
+North Dakota,38,499 grams or less,1,15,17,882.35 (Unreliable)
+North Dakota,38,500 - 999 grams,2,15,60,250.00 (Unreliable)
+Ohio,39,499 grams or less,1,263,277,949.46
+Ohio,39,500 - 999 grams,2,210,799,262.83
+Oklahoma,40,499 grams or less,1,82,97,845.36
+Oklahoma,40,500 - 999 grams,2,73,242,301.65
+Oregon,41,499 grams or less,1,42,43,976.74
+Oregon,41,500 - 999 grams,2,55,166,331.33
+Pennsylvania,42,499 grams or less,1,269,286,940.56
+Pennsylvania,42,500 - 999 grams,2,170,689,246.73
+Rhode Island,44,499 grams or less,1,21,22,954.55
+Rhode Island,44,500 - 999 grams,2,16,49,326.53 (Unreliable)
+South Carolina,45,499 grams or less,1,81,104,778.85
+South Carolina,45,500 - 999 grams,2,92,380,242.11
+South Dakota,46,500 - 999 grams,2,11,42,261.90 (Unreliable)
+Tennessee,47,499 grams or less,1,108,141,765.96
+Tennessee,47,500 - 999 grams,2,133,433,307.16
+Texas,48,499 grams or less,1,465,677,686.85
+Texas,48,500 - 999 grams,2,484,2151,225.01
+Utah,49,499 grams or less,1,66,68,970.59
+Utah,49,500 - 999 grams,2,45,179,251.4
+Virginia,51,499 grams or less,1,129,167,772.46
+Virginia,51,500 - 999 grams,2,132,579,227.98
+Washington,53,499 grams or less,1,69,75,920
+Washington,53,500 - 999 grams,2,77,288,267.36
+West Virginia,54,499 grams or less,1,26,28,928.57
+West Virginia,54,500 - 999 grams,2,26,90,288.89
+Wisconsin,55,499 grams or less,1,92,100,920
+Wisconsin,55,500 - 999 grams,2,89,293,303.75

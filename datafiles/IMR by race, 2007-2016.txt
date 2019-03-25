@@ -1,0 +1,29 @@
+"Notes"	"Race"	"Race Code"	Deaths	Births	Death Rate
+	"Black or African American"	"2054-5"	73877	6477025	11.41
+	"American Indian or Alaska Native"	"1002-5"	3873	465690	8.32
+"Total"			249135	40445070	6.16
+	"White"	"2106-3"	160101	30838048	5.19
+	"Asian or Pacific Islander"	"A-PI"	11284	2664307	4.24
+"---"
+"Dataset: Linked Birth / Infant Death Records, 2007-2016"
+"Query Parameters:"
+"Group By: Race"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd.html for more information."
+"---"
+"Query Date: Mar 4, 2019 9:10:46 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS). Linked Birth / Infant Death Records"
+"2007-2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program, on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-current.html on Mar 4, 2019 9:10:46 PM"
+"---"
+Caveats:
+"1. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#WeightFactors-Totals."
+"2. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Weight Factors."

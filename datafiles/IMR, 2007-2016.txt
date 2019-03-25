@@ -1,0 +1,77 @@
+"Notes"	"State"	"State Code"	Deaths	Births	Death Rate
+	"Alabama"	"01"	534	59151	9.03
+	"Mississippi"	"28"	329	37928	8.67
+	"Arkansas"	"05"	314	38274	8.20
+	"Louisiana"	"22"	504	63178	7.98
+	"Delaware"	"10"	86	10992	7.82
+	"Georgia"	"13"	972	130042	7.47
+	"Oklahoma"	"40"	393	52592	7.47
+	"Ohio"	"39"	1026	138085	7.43
+	"Indiana"	"18"	614	83091	7.39
+	"Tennessee"	"47"	594	80807	7.35
+	"North Carolina"	"37"	874	120779	7.24
+	"West Virginia"	"54"	138	19079	7.23
+	"District of Columbia"	"11"	71	9858	7.20
+	"South Carolina"	"45"	402	57342	7.01
+	"Kentucky"	"21"	376	55449	6.78
+	"Missouri"	"29"	492	74705	6.59
+	"Maryland"	"24"	478	73136	6.54
+	"Michigan"	"26"	727	113315	6.42
+	"North Dakota"	"38"	73	11383	6.41
+	"Illinois"	"17"	985	154445	6.38
+	"Wisconsin"	"55"	420	66615	6.30
+	"New Mexico"	"35"	152	24692	6.16
+	"Pennsylvania"	"42"	857	139409	6.15
+	"Florida"	"12"	1382	225022	6.14
+	"Nebraska"	"31"	161	26589	6.06
+	"Hawaii"	"15"	109	18059	6.04
+	"Kansas"	"20"	228	38053	5.99
+	"Iowa"	"19"	235	39403	5.96
+"Total"			23157	3945875	5.87
+	"Virginia"	"51"	599	102460	5.85
+	"Idaho"	"16"	131	22482	5.83
+	"Montana"	"30"	71	12282	5.78
+	"Nevada"	"32"	209	36260	5.76
+	"Maine"	"23"	73	12705	5.75
+	"Texas"	"48"	2277	398047	5.72
+	"Rhode Island"	"44"	60	10798	5.56
+	"Utah"	"49"	274	50464	5.43
+	"Arizona"	"04"	450	84520	5.32
+	"Alaska"	"02"	58	11209	5.17
+	"Minnesota"	"27"	358	69749	5.13
+	"Wyoming"	"56"	37	7386	5.01
+	"South Dakota"	"46"	60	12275	4.89
+	"Connecticut"	"09"	172	36015	4.78
+	"Colorado"	"08"	317	66613	4.76
+	"Oregon"	"41"	214	45535	4.70
+	"New York"	"36"	1056	234283	4.51
+	"Washington"	"53"	391	90505	4.32
+	"California"	"06"	2063	488827	4.22
+	"New Jersey"	"34"	414	102647	4.03
+	"Massachusetts"	"25"	281	71317	3.94
+	"New Hampshire"	"33"	45	12267	3.67
+	"Vermont"	"50"	20	5756	3.47
+"---"
+"Dataset: Linked Birth / Infant Death Records, 2007-2016"
+"Query Parameters:"
+"Year of Death: 2016"
+"Group By: State"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd.html for more information."
+"---"
+"Query Date: Mar 4, 2019 11:19:31 AM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS). Linked Birth / Infant Death Records"
+"2007-2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program, on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-current.html on Mar 4, 2019 11:19:31 AM"
+"---"
+Caveats:
+"1. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#WeightFactors-Totals."
+"2. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Weight Factors."
