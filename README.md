@@ -4,7 +4,7 @@
 
 ## Team Members:
 
-Logan Caldwell, John Chambers, Jasmina Jovanovic, Hyunsoo Kim, and Ediya Yumukoff
+Logan Caldwell, John Chambers, Jasmina Jovanovic, Hyunsoo Kim, and Ediya Y
 
 ## Project Description:
 
